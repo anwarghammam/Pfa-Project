@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttAsyncClient,8
+org.eclipse.paho.client.mqttv3.src.main.java-templates.org.eclipse.paho.client.mqttv3.internal.ClientComms,4
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.Issue370Test,1

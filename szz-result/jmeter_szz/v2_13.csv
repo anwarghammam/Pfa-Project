@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.apache.jmeter.save.SaveService,1
+org.apache.jmeter.visualizers.backend.graphite.GraphiteBackendListenerClient,4
+org.apache.jmeter.testbeans.gui.TableEditor,1
+org.apache.jmeter.visualizers.backend.BackendListenerGui,2
+org.apache.jmeter.visualizers.backend.UserMetric,1
+org.apache.jorphan.io.TextFile,1
+org.apache.jmeter.gui.action.SearchTreeDialog,1

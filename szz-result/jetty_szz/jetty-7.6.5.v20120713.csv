@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.log.AbstractLogger,23
+org.eclipse.jetty.xml.XmlConfiguration,2
+org.eclipse.jetty.xml.TestConfiguration,1
+org.eclipse.jetty.xml.XmlConfigurationTest,2
+org.eclipse.jetty.util.Loader,1
+org.eclipse.jetty.servlets.CrossOriginFilter,1
+org.eclipse.jetty.servlets.CrossOriginFilterTest,1
+org.eclipse.jetty.util.statistic.CounterStatistic,2
+org.eclipse.jetty.server.handler.ContextHandler,1
+org.eclipse.jetty.server.HttpServerTestBase,1
+org.eclipse.jetty.start.Main,1
+org.eclipse.jetty.io.AbstractConnection,1
+org.eclipse.jetty.server.ssl.SSLCloseTest,1

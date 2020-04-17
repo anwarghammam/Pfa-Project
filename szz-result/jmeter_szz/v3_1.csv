@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.apache.jmeter.report.processor.graph.SuccessfulElapsedTimeValueSelector,1
+org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer,2
+org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer,1
+org.apache.jmeter.functions.RandomFromMultipleVars,1
+org.apache.jmeter.report.processor.Top5ErrorsSummaryData,3
+org.apache.jmeter.report.core.CsvSampleReader,1
+org.apache.jmeter.threads.ThreadGroup,1
+org.apache.jmeter.report.core.Sample,1

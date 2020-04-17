@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.HttpClientURITest,1
+org.eclipse.jetty.http.HttpFieldsTest,1
+org.eclipse.jetty.quickstart.PreconfigureQuickStartWar,1
+org.eclipse.jetty.quickstart.QuickStartWebApp,1
+org.eclipse.jetty.runner.Runner,1
+org.eclipse.jetty.servlet.JspPropertyGroupServlet,1
+org.eclipse.jetty.start.Module,1
+org.eclipse.jetty.util.security.Password,1
+org.eclipse.jetty.deploy.providers.WebAppProvider,1
+org.eclipse.jetty.http2.client.http.AbstractTest,1
+org.eclipse.jetty.http2.client.http.MaxConcurrentStreamsTest,1
+org.eclipse.jetty.http2.client.FlowControlStalledTest,1
+org.eclipse.jetty.http2.FlowControlStrategy,1

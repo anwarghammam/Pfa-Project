@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.apache.tools.ant.taskdefs.Concat,1
+org.apache.tools.bzip2.CBZip2OutputStream,2
+org.apache.tools.ant.ProjectHelper,1
+org.apache.tools.ant.types.Description,1

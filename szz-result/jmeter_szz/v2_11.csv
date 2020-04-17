@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.apache.jmeter.protocol.jms.sampler.JMSProperties,1
+org.apache.jmeter.visualizers.RenderAsXPath,1

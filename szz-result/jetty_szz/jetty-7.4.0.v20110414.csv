@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.websocket.TestClient,1
+org.eclipse.jetty.websocket.WebSocketFactory,1

@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.jetty.io.nio.SslSelectChannelEndPoint,1
+org.eclipse.jetty.server.ssl.SslTruncationAttackTest,1
+org.eclipse.jetty.client.SelectConnector,2
+org.eclipse.jetty.xml.XmlConfiguration,1
+org.eclipse.jetty.client.HttpDestination,1
+org.eclipse.jetty.http.HttpFields,1
+org.eclipse.jetty.http.HttpFieldsTest,1
+org.eclipse.jetty.http.HttpGenerator,1

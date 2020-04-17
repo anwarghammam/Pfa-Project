@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.SslContentExchangeTest,3
+org.eclipse.jetty.client.SslSecuredContentExchangeTest,3
+org.eclipse.jetty.util.log.StdErrLog,1
+org.eclipse.jetty.util.log.StdErrLogTest,1
+org.eclipse.jetty.osgi.boot.jasper.WebappRegistrationCustomizerImpl,2
+org.eclipse.jetty.continuation.Servlet3Continuation,1
+org.eclipse.jetty.osgi.boot.jasper.PluggableWebAppRegistrationCustomizerImpl,1
+org.eclipse.jetty.osgi.boot.internal.webapp.OSGiWebappClassLoader,1
+org.eclipse.jetty.osgi.boot.utils.WebappRegistrationCustomizer,1
+org.eclipse.jetty.server.session.AbstractSessionManager,1
+org.eclipse.jetty.test.DigestPostTest,1

@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.apache.tools.ant.filters.ReplaceTokens,1
+org.apache.tools.zip.ZipFile,1

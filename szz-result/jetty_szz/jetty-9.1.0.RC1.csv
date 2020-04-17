@@ -1,0 +1,16 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.HttpProxy,4
+org.eclipse.jetty.proxy.ProxyTunnellingTest,4
+org.eclipse.jetty.spdy.Flusher,2
+org.eclipse.jetty.client.PoolingHttpDestination,2
+org.eclipse.jetty.client.http.HttpDestinationOverHTTPTest,2
+org.eclipse.jetty.server.Response,1
+org.eclipse.jetty.server.ResponseTest,1
+org.eclipse.jetty.websocket.jsr356.server.samples.binary.ByteBufferSocket,1
+org.eclipse.jetty.websocket.jsr356.server.samples.streaming.InputStreamSocket,1
+org.eclipse.jetty.annotations.AnnotationConfiguration,1
+org.eclipse.jetty.proxy.ProxyServletTest,1
+org.eclipse.jetty.client.HttpClientTest,2
+org.eclipse.jetty.client.HttpDestination,1
+org.eclipse.jetty.client.MultiplexHttpDestination,1
+org.eclipse.jetty.client.http.HttpDestinationOverHTTP,1

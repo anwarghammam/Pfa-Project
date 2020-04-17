@@ -1,0 +1,16 @@
+ClassName,nbBugs
+org.apache.jmeter.JMeter,2
+org.apache.jmeter.threads.ThreadGroup,3
+org.apache.jmeter.timers.ConstantThroughputTimer,2
+org.apache.jmeter.visualizers.ViewResultsFullVisualizer,1
+org.apache.jmeter.config.gui.ArgumentsPanel,1
+org.apache.jmeter.assertions.gui.SizeAssertionGui,2
+org.apache.jmeter.threads.JMeterThread,1
+org.apache.jmeter.assertions.ResponseAssertion,1
+org.apache.jmeter.protocol.jdbc.sampler.JDBCSampler,1
+org.apache.jmeter.visualizers.StatVisualizer,3
+org.apache.jmeter.protocol.http.config.gui.HttpDefaultsGui,1
+org.apache.jmeter.reporters.ResultCollector,2
+org.apache.jmeter.gui.GuiPackage,1
+org.apache.jmeter.modifiers.CounterConfig,1
+org.apache.jorphan.util.JOrphanUtils,1

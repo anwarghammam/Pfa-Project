@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.jetty.webapp.WebAppContext,1
+org.eclipse.jetty.start.Main,2
+org.eclipse.jetty.servlets.DoSFilter,4
+org.eclipse.jetty.JdbcLoginServiceTest,2
+org.eclipse.jetty.http.HttpFields,1
+org.eclipse.jetty.http.HttpFieldsTest,1
+org.eclipse.jetty.util.QuotedStringTokenizer,1
+org.eclipse.jetty.util.QuotedStringTokenizerTest,1
+org.eclipse.jetty.server.NCSARequestLog,2
+org.eclipse.jetty.webapp.WebAppClassLoader,1
+org.eclipse.jetty.server.session.AbstractSessionManager,2
+org.eclipse.jetty.osgi.boot.utils.internal.DefaultBundleClassLoaderHelper,1
+org.eclipse.jetty.osgi.boot.utils.internal.DefaultFileLocatorHelper,1

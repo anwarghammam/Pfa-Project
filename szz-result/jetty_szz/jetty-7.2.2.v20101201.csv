@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.osgi.boot.internal.serverfactory.DefaultJettyAtJettyHomeHelper,1
+org.eclipse.jetty.server.HttpServerTestBase,1
+org.eclipse.jetty.webapp.StandardDescriptorProcessor,1
+org.eclipse.jetty.servlet.DefaultServlet,1
+org.eclipse.jetty.start.Main,2
+org.eclipse.jetty.servlets.MultipartFilterTest,1

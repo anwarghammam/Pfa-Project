@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.MqttTopicTest,1
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttTopic,1
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.SendReceiveAsyncTest,3
+org.eclipse.paho.client.mqttv3.src.main.java-templates.org.eclipse.paho.client.mqttv3.internal.ClientComms,3
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttAsyncClient,4
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttClient,3
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.connectionLoss.ConnectionLossTest,2
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.internal.ClientState,3
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.Bug443142Test,1

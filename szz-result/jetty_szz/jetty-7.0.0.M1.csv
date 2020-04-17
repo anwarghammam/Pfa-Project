@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.security.ConstraintTest,2
+org.eclipse.jetty.security.authentication.DigestAuthenticator,2
+org.eclipse.jetty.client.SelectConnector,1
+org.eclipse.jetty.server.Authentication,2
+org.eclipse.jetty.security.ConstraintSecurityHandler,1
+org.eclipse.jetty.servlet.DefaultServletTest,1

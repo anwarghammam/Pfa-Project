@@ -1,0 +1,15 @@
+ClassName,nbBugs
+org.apache.tools.ant.taskdefs.Execute,8
+org.apache.tools.ant.taskdefs.SQLExec,9
+org.apache.tools.ant.taskdefs.optional.junit.JUnitTask,4
+org.apache.tools.ant.AntClassLoader,6
+org.apache.tools.ant.taskdefs.ExecuteOn,1
+org.apache.tools.ant.taskdefs.Copy,6
+org.apache.tools.ant.taskdefs.Move,6
+org.apache.tools.ant.ProjectHelper,15
+org.apache.tools.ant.types.DataType,1
+org.apache.tools.ant.taskdefs.optional.Cab,1
+org.apache.tools.ant.taskdefs.Zip,2
+org.apache.tools.ant.taskdefs.ExecTask,1
+org.apache.tools.ant.Main,1
+org.apache.tools.ant.taskdefs.Ant,1

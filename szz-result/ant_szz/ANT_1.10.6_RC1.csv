@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.apache.tools.ant.taskdefs.optional.junitlauncher.LauncherSupport,1
+org.apache.tools.ant.taskdefs.optional.junitlauncher.JUnitLauncherTaskTest,2

@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.ajax.JSON,1
+org.eclipse.jetty.servlets.IncludableGzipFilter,1
+org.eclipse.jetty.osgi.boot.jasper.PluggableWebAppRegistrationCustomizerImpl,1
+org.eclipse.jetty.osgi.boot.jasper.WebappRegistrationCustomizerImpl,1
+org.eclipse.jetty.osgi.boot.JettyBootstrapActivator,1
+org.eclipse.jetty.osgi.boot.internal.webapp.JettyContextHandlerServiceTracker,1
+org.eclipse.jetty.osgi.boot.internal.webapp.OSGiWebappClassLoader,1
+org.eclipse.jetty.osgi.boot.internal.webapp.WebBundleTrackerCustomizer,1
+org.eclipse.jetty.osgi.boot.utils.internal.DefaultFileLocatorHelper,1

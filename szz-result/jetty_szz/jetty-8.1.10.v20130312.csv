@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.servlet.AsyncServletTest,4
+org.eclipse.jetty.servlet.ServletHandler,2
+org.eclipse.jetty.servlet.ErrorPageTest,2

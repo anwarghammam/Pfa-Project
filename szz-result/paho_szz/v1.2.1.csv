@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.paho.mqttv5.client.src.main.java.org.eclipse.paho.mqttv5.client.internal.SSLNetworkModule,15
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttAsyncClient,2
+org.eclipse.paho.mqttv5.client.src.main.java.org.eclipse.paho.mqttv5.client.internal.ClientComms,2
+org.eclipse.paho.mqttv5.client.src.test.java.org.eclipse.paho.mqttv5.client.test.automaticReconnect.OfflineBufferingTest,2
+org.eclipse.paho.mqttv5.client.src.main.java.org.eclipse.paho.mqttv5.client.internal.ClientState,1
+org.eclipse.paho.mqttv5.client.src.main.java.org.eclipse.paho.mqttv5.client.internal.CommsReceiver,1
+org.eclipse.paho.mqttv5.client.src.test.java.org.eclipse.paho.mqttv5.client.test.BasicTest,1
+org.eclipse.paho.mqttv5.client.src.main.java.org.eclipse.paho.mqttv5.client.internal.CommsCallback,1

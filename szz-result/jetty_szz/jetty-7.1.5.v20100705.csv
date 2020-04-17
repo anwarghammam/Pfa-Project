@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.jetty.webapp.WebAppContext,1
+org.eclipse.jetty.http.HttpGenerator,1
+org.eclipse.jetty.osgi.boot.internal.serverfactory.DefaultJettyAtJettyHomeHelper,7
+org.eclipse.jetty.osgi.boot.internal.serverfactory.ServerInstanceWrapper,4
+org.eclipse.jetty.osgi.boot.internal.serverfactory.JettyServersManagedFactory,2
+org.eclipse.jetty.osgi.boot.internal.serverfactory.JettyServerServiceTracker,1
+org.eclipse.jetty.security.ConstraintSecurityHandler,2
+org.eclipse.jetty.security.ConstraintTest,1
+org.eclipse.jetty.osgi.boot.JettyBootstrapActivator,1
+org.eclipse.jetty.osgi.boot.OSGiWebappConstants,1
+org.eclipse.jetty.osgi.boot.internal.webapp.WebBundleTrackerCustomizer,1
+org.eclipse.jetty.server.Server,1
+org.eclipse.jetty.servlet.DefaultServlet,1

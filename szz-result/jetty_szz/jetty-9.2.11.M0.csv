@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.ConnectionPool,1
+org.eclipse.jetty.client.PoolingHttpDestination,1
+org.eclipse.jetty.client.http.HttpConnectionOverHTTP,1

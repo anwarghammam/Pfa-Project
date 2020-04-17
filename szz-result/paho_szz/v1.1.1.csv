@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.BasicTest,3
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.PerSubscriptionMessageHandlerTest,3
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.SendReceiveAsyncTest,3
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.SendReceiveTest,3
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.automaticReconnect.OfflineBufferingTest,3
+org.eclipse.paho.client.mqttv3.src.main.java-templates.org.eclipse.paho.client.mqttv3.internal.ClientComms,7
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttAsyncClient,12
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttClient,6
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.SSLSessionResumptionTest,2
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.internal.ClientState,1
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.internal.DisconnectedMessageBuffer,1
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.IMqttClient,1
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.connectionLoss.ConnectionLossTest,1

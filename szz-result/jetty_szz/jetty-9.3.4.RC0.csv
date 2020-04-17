@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.PoolingHttpDestination,2
+org.eclipse.jetty.client.HttpClientTest,2
+org.eclipse.jetty.client.ConnectionPool,2
+org.eclipse.jetty.client.LeakTrackingConnectionPool,1
+org.eclipse.jetty.client.ValidatingConnectionPool,1
+org.eclipse.jetty.client.HttpConnectionLifecycleTest,1
+org.eclipse.jetty.client.http.HttpDestinationOverHTTPTest,1

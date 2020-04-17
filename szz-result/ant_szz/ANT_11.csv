@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.apache.tools.ant.taskdefs.Untar,2
+org.apache.tools.ant.taskdefs.Touch,1
+org.apache.tools.ant.taskdefs.AntStructure,1
+org.apache.tools.ant.ProjectHelper,8
+org.apache.tools.ant.taskdefs.Ant,4
+org.apache.tools.ant.DefaultLogger,2
+org.apache.tools.ant.taskdefs.XSLTProcess,2
+org.apache.tools.ant.Main,1

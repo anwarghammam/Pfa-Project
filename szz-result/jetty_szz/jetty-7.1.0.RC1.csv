@@ -1,0 +1,11 @@
+ClassName,nbBugs
+org.eclipse.jetty.webapp.WebAppContext,6
+org.eclipse.jetty.webapp.ClasspathPattern,3
+org.eclipse.jetty.util.log.StdErrLog,1
+org.eclipse.jetty.util.ajax.JSON,3
+org.eclipse.jetty.start.Main,1
+org.eclipse.jetty.servlets.DoSFilter,1
+org.eclipse.jetty.servlets.DoSFilterTest,1
+org.eclipse.jetty.server.HttpOutput,1
+org.eclipse.jetty.servlet.DefaultServlet,1
+org.eclipse.jetty.server.session.AbstractSessionManager,1

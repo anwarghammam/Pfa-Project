@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.apache.tools.ant.taskdefs.LoadProperties,5
+org.apache.tools.ant.taskdefs.StreamPumper,1
+org.apache.tools.ant.taskdefs.SQLExec,7
+org.apache.tools.ant.taskdefs.Concat,2
+org.apache.tools.ant.filters.ReplaceTokens,2
+org.apache.tools.ant.util.facade.FacadeTaskHelper,1
+org.apache.tools.ant.ProjectHelper,4
+org.apache.tools.ant.AntClassLoader,2
+org.apache.tools.ant.IntrospectionHelper,1
+org.apache.tools.ant.UnknownElement,1
+org.apache.tools.ant.taskdefs.Zip,1

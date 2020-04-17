@@ -1,0 +1,15 @@
+ClassName,nbBugs
+org.apache.jmeter.util.JSR223TestElement,1
+org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRenderer,3
+org.apache.jmeter.report.core.CsvSampleReader,2
+org.apache.jmeter.report.core.CsvSampleReaderTest,1
+org.apache.jmeter.report.processor.Top5ErrorsSummaryData,1
+org.apache.jmeter.threads.ThreadGroup,1
+org.apache.jmeter.visualizers.backend.influxdb.HttpMetricsSender,3
+org.apache.jmeter.modifiers.CounterConfig,1
+org.apache.jmeter.gui.action.AddThinkTimeBetweenEachStep,1
+org.apache.jorphan.io.TextFile,2
+org.apache.jmeter.gui.action.SearchTreeDialog,2
+org.apache.jmeter.functions.TestSimpleFunctions,1
+org.apache.jmeter.gui.action.ApplyNamingConvention,2
+org.apache.jmeter.util.XPathUtilTest,1

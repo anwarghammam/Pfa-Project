@@ -1,0 +1,17 @@
+ClassName,nbBugs
+org.eclipse.jetty.osgi.boot.internal.serverfactory.DefaultJettyAtJettyHomeHelper,2
+org.eclipse.jetty.osgi.boot.internal.serverfactory.ServerInstanceWrapper,3
+org.eclipse.jetty.osgi.boot.internal.webapp.LibExtClassLoaderHelper,2
+org.eclipse.jetty.osgi.boot.internal.serverfactory.IManagedJettyServerRegistry,1
+org.eclipse.jetty.osgi.boot.internal.serverfactory.JettyServerServiceTracker,1
+org.eclipse.jetty.server.session.AbstractSessionInvalidateAndCreateTest,1
+org.eclipse.jetty.spdy.PushSynInfo,1
+org.eclipse.jetty.spdy.StandardStream,1
+org.eclipse.jetty.spdy.api.Session,1
+org.eclipse.jetty.spdy.api.Stream,1
+org.eclipse.jetty.spdy.api.SynInfo,1
+org.eclipse.jetty.spdy.StandardSessionTest,1
+org.eclipse.jetty.spdy.StandardStreamTest,1
+org.eclipse.jetty.http.HttpParser,1
+org.eclipse.jetty.server.HttpServerTestBase,1
+org.eclipse.jetty.start.Main,1

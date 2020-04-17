@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.apache.tools.ant.util.ScriptRunnerBase,2
+org.apache.tools.ant.taskdefs.ManifestClassPathTest,4
+org.apache.tools.zip.ZipFile,1

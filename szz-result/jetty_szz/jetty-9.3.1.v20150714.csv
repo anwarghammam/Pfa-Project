@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.HttpChannelState,1
+org.eclipse.jetty.jspc.plugin.JspcMojo,1
+org.eclipse.jetty.jstl.JspConfig,1
+org.eclipse.jetty.jstl.JstlTest,1
+org.eclipse.jetty.http2.parser.Parser,1
+org.eclipse.jetty.http2.server.HTTP2ServerTest,1

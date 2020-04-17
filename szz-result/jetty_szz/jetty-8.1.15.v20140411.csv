@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.AsyncContinuation,1
+org.eclipse.jetty.servlet.AsyncServletTest,1

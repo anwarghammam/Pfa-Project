@@ -1,0 +1,16 @@
+ClassName,nbBugs
+org.apache.tools.ant.taskdefs.Delete,2
+org.apache.tools.ant.util.DOMElementWriter,1
+org.apache.tools.ant.NoBannerLogger,1
+org.apache.tools.tar.TarInputStream,4
+org.apache.tools.ant.taskdefs.compilers.Jikes,2
+org.apache.tools.ant.AntClassLoader,1
+org.apache.tools.ant.taskdefs.optional.depend.ClassFile,1
+org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool,1
+org.apache.tools.ant.taskdefs.optional.TraXLiaison,2
+org.apache.tools.ant.taskdefs.Zip,1
+org.apache.tools.ant.taskdefs.ExecTask,1
+org.apache.tools.ant.taskdefs.Execute,1
+org.apache.tools.ant.taskdefs.Property,1
+org.apache.tools.ant.ProjectHelper,6
+org.apache.tools.ant.types.ZipFileSet,1

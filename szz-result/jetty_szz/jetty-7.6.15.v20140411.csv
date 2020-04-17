@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.SelectConnector,1
+org.eclipse.jetty.io.nio.SelectorManager,1

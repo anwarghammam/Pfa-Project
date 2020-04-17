@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.start.StartArgs,1
+org.eclipse.jetty.start.Version,1
+org.eclipse.jetty.start.ModulesTest,1
+org.eclipse.jetty.start.TestBadUseCases,1
+org.eclipse.jetty.start.VersionTest,1
+org.eclipse.jetty.client.ConnectionPool,1

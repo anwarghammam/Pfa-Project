@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.apache.jmeter.protocol.http.control.DNSCacheManager,1
+org.apache.jmeter.protocol.http.gui.DNSCachePanel,1
+org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,1
+org.apache.jmeter.util.ScriptingBeanInfoSupport,1

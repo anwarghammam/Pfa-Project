@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.jetty.osgi.annotations.AnnotationParser,15
+org.eclipse.jetty.annotations.AnnotationDecorator,1
+org.eclipse.jetty.http.HttpFields,1
+org.eclipse.jetty.server.ResponseTest,1
+org.eclipse.jetty.server.session.AbstractSessionManager,1

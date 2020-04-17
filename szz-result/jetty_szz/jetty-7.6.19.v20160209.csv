@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.http.HttpParser,1
+org.eclipse.jetty.server.AbstractHttpConnection,1
+org.eclipse.jetty.server.HttpServerTestBase,1

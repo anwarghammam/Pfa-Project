@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.ssl.SslContextFactory,1
+org.eclipse.jetty.servlets.CrossOriginFilter,1

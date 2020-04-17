@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.internal.SSLNetworkModule,36
+org.eclipse.paho.client.mqttv3.src.main.java-templates.org.eclipse.paho.client.mqttv3.internal.ClientComms,6
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.internal.ClientState,6
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttAsyncClient,13
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttConnectOptions,3
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.MqttTopic,3
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.util.Strings,3
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.internal.wire.MqttOutputStream,1
+org.eclipse.paho.client.mqttv3.src.main.java.org.eclipse.paho.client.mqttv3.persist.MqttDefaultFilePersistence,1
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.BasicTest,2
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.ModelTestCase,2
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.SendReceiveAsyncTest,2
+org.eclipse.paho.client.mqttv3.test.src.test.java.org.eclipse.paho.client.mqttv3.test.SendReceiveTest,2

@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.jetty.osgi.boot.AbstractWebAppProvider,1
+org.eclipse.jetty.osgi.boot.OSGiMetaInfConfiguration,1
+org.eclipse.jetty.osgi.boot.internal.serverfactory.DefaultJettyAtJettyHomeHelper,1
+org.eclipse.jetty.osgi.boot.internal.serverfactory.ServerInstanceWrapper,1
+org.eclipse.jetty.osgi.boot.internal.webapp.LibExtClassLoaderHelper,1
+org.eclipse.jetty.servlets.gzip.GzipOutputStream,2
+org.eclipse.jetty.util.ArrayTernaryTrie,1
+org.eclipse.jetty.osgi.boot.JettyBootstrapActivator,1
+org.eclipse.jetty.osgi.boot.internal.webapp.ServiceWatcher,1
+org.eclipse.jetty.spdy.StandardSession,1
+org.eclipse.jetty.spdy.StandardSessionTest,1

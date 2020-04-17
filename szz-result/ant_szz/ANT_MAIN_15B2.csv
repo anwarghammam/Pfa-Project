@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.apache.tools.ant.Main,2
+org.apache.tools.ant.ProjectHelper,2
+org.apache.tools.ant.taskdefs.Ant,2

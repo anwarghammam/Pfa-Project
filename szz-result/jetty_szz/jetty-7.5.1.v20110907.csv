@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.Utf8Appendable,1
+org.eclipse.jetty.websocket.WebSocketConnectionD00,1
+org.eclipse.jetty.websocket.WebSocketConnectionD06,1
+org.eclipse.jetty.http.HttpFields,1

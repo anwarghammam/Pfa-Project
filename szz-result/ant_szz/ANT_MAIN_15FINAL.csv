@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.apache.tools.ant.IntrospectionHelper,2
+org.apache.tools.ant.taskdefs.Jar,1
+org.apache.tools.ant.taskdefs.Manifest,1
+org.apache.tools.ant.taskdefs.ManifestTask,1

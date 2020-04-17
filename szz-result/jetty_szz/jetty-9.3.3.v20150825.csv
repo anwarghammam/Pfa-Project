@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.HttpChannel,1
+org.eclipse.jetty.server.HttpChannelState,1
+org.eclipse.jetty.servlet.AsyncServletTest,1
+org.eclipse.jetty.client.ConnectionPool,1
+org.eclipse.jetty.client.HttpClient,4
+org.eclipse.jetty.client.PoolingHttpDestination,1
+org.eclipse.jetty.client.HttpClientTest,4
+org.eclipse.jetty.util.SocketAddressResolver,1

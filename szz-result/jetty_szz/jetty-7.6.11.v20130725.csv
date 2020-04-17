@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.handler.RequestLogHandler,1
+org.eclipse.jetty.servlets.gzip.TestServletStreamLengthTypeWriteWithFlush,1
+org.eclipse.jetty.servlets.MultipartFilterTest,1

@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.HttpInput,1
+org.eclipse.jetty.server.handler.gzip.GzipHandler,2
+org.eclipse.jetty.util.IncludeExclude,2
+org.eclipse.jetty.http.PathMap,1
+org.eclipse.jetty.util.RegexSet,1
+org.eclipse.jetty.util.IncludeExcludeTest,1
+org.eclipse.jetty.server.ssl.SniSslConnectionFactoryTest,1
+org.eclipse.jetty.util.ssl.SniX509ExtendedKeyManager,1
+org.eclipse.jetty.util.ssl.SslContextFactory,1

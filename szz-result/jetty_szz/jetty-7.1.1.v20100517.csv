@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.nio.SelectChannelConnector,1
+org.eclipse.jetty.websocket.WebSocketFactory,1
+org.eclipse.jetty.util.ajax.JSON,1
+org.eclipse.jetty.io.IOTest,1
+org.eclipse.jetty.server.HttpServerTestBase,2
+org.eclipse.jetty.http.HttpParserTest,6
+org.eclipse.jetty.jndi.java.TestJNDI,1
+org.eclipse.jetty.servlet.DispatcherTest,1
+org.eclipse.jetty.annotations.TestAnnotationParser,2
+org.eclipse.jetty.rewrite.handler.RewritePatternRuleTest,1
+org.eclipse.jetty.plus.jndi.TestNamingEntries,1

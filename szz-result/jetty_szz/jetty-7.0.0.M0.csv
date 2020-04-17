@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.webapp.WebAppContext,1
+org.eclipse.jetty.start.Main,2
+org.eclipse.jetty.util.URIUtil,1
+org.eclipse.jetty.servlet.ServletContextHandler,1
+org.eclipse.jetty.server.handler.ContextHandler,1
+org.eclipse.jetty.server.handler.ContextHandlerCollection,1

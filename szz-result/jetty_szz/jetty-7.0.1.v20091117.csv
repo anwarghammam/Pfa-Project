@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.HttpExchange,1
+org.eclipse.jetty.client.HttpExchangeTest,1

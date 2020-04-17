@@ -1,0 +1,13 @@
+ClassName,nbBugs
+org.apache.jmeter.control.GenericController,1
+org.apache.jmeter.util.keystore.JmeterKeyStore,1
+org.apache.jmeter.visualizers.SearchTextExtension,2
+org.apache.jmeter.protocol.http.control.CookieManager,1
+org.apache.jmeter.protocol.http.control.HC4CookieHandler,1
+org.apache.jmeter.protocol.http.gui.CookiePanel,1
+org.apache.jmeter.threads.ThreadGroup,4
+org.apache.jmeter.functions.gui.FunctionHelper,1
+org.apache.jmeter.gui.action.Help,1
+org.apache.jmeter.threads.gui.ThreadGroupGui,1
+org.apache.jmeter.gui.action.RawTextSearcher,1
+org.apache.jmeter.gui.action.SearchTreeDialog,1

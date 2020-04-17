@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.apache.jmeter.protocol.jms.client.Publisher,1
+org.apache.jmeter.protocol.jms.control.gui.JMSPublisherGui,1
+org.apache.jmeter.protocol.jms.sampler.PublisherSampler,1
+org.apache.jmeter.threads.JMeterContext,1
+org.apache.jmeter.functions.EscapeOroRegexpChars,1
+org.apache.jmeter.extractor.JoddExtractor,4
+org.apache.jmeter.visualizers.SearchTextExtension,1
+org.apache.jmeter.util.JSR223TestElement,4
+org.apache.jmeter.util.ScriptingTestElement,1
+org.apache.jmeter.gui.action.SearchTreeDialog,1
+org.apache.jmeter.visualizers.RenderAsDocument,1

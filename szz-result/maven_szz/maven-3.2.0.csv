@@ -1,0 +1,2 @@
+ClassName,nbBugs
+org.apache.maven.lifecycle.internal.builder.multithreaded.MultiThreadedBuilder,2

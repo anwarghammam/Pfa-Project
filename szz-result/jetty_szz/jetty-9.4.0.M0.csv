@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.jetty.security.AbstractLoginService,1
+org.eclipse.jetty.client.PoolingHttpDestination,1
+org.eclipse.jetty.jaas.spi.AbstractLoginModule,1
+org.eclipse.jetty.jaas.spi.PropertyFileLoginModule,1
+org.eclipse.jetty.plus.security.DataSourceLoginService,1
+org.eclipse.jetty.security.HashLoginService,1
+org.eclipse.jetty.security.JDBCLoginService,1
+org.eclipse.jetty.security.MappedLoginService,1

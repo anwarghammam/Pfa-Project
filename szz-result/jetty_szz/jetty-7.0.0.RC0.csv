@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.start.Main,1
+org.eclipse.jetty.server.Server,1
+org.eclipse.jetty.servlet.DefaultServlet,1

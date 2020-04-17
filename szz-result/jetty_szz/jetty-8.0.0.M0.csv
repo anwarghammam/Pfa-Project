@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.jetty.annotations.ContainerInitializerConfiguration,3
+org.eclipse.jetty.security.authentication.DeferredAuthentication,1
+org.eclipse.jetty.server.Request,4
+org.eclipse.jetty.webapp.StandardDescriptorProcessor,2
+org.eclipse.jetty.annotations.AnnotationParser,2
+org.eclipse.jetty.osgi.boot.OSGiAppProvider,1
+org.eclipse.jetty.annotations.AnnotationConfiguration,1
+org.eclipse.jetty.servlet.ServletHolder,3
+org.eclipse.jetty.servlets.MultiPartFilter,3
+org.eclipse.jetty.util.MultiPartInputStream,3
+org.eclipse.jetty.util.MultiPartInputStreamTest,3
+org.eclipse.jetty.annotations.AbstractConfiguration,1
+org.eclipse.jetty.annotations.resources.TestResourceAnnotations,1

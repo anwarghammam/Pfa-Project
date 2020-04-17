@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.ssl.SslContextFactory,1
+org.eclipse.jetty.server.Request,10
+org.eclipse.jetty.server.RequestTest,1
+org.eclipse.jetty.server.session.JDBCSessionIdManager,1
+org.eclipse.jetty.server.session.JDBCSessionManager,1
+org.eclipse.jetty.servlets.CrossOriginFilter,1
+org.eclipse.jetty.servlets.CrossOriginFilterTest,1
+org.eclipse.jetty.util.log.Log,2
+org.eclipse.jetty.server.handler.ContextHandler,1

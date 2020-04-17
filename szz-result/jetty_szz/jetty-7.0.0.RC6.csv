@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.HttpConnectionTest,1
+org.eclipse.jetty.server.RFC2616Test,1
+org.eclipse.jetty.client.HttpDestination,1
+org.eclipse.jetty.server.AbstractConnector,1
+org.eclipse.jetty.server.handler.StatisticsHandler,1

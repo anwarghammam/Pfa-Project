@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.apache.jmeter.gui.action.OpenLinkAction,1
+org.apache.jmeter.functions.TestDateTimeConvertFunction,1
+org.apache.jmeter.protocol.http.visualizers.RequestViewHTTP,1

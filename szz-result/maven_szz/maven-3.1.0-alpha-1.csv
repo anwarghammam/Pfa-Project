@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.apache.maven.project.DefaultProjectBuilder,1
+org.apache.maven.repository.internal.MavenRepositorySystemUtils,1
+org.apache.maven.execution.DefaultMavenExecutionRequest,1
+org.apache.maven.project.DefaultProjectBuildingRequest,1
+org.apache.maven.exception.DefaultExceptionHandler,1
+org.apache.maven.exception.DefaultExceptionHandlerTest,3

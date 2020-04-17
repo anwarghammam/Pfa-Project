@@ -1,0 +1,11 @@
+ClassName,nbBugs
+org.eclipse.jetty.servlets.MultipartFilterTest,35
+org.eclipse.jetty.util.ssl.SslContextFactory,1
+org.eclipse.jetty.util.ssl.SslContextFactoryTest,1
+org.eclipse.jetty.osgi.boot.OSGiDeployer,1
+org.eclipse.jetty.server.session.AbstractSessionCookieTest,1
+org.eclipse.jetty.server.ResponseTest,1
+org.eclipse.jetty.servlet.DefaultServlet,1
+org.eclipse.jetty.server.HttpInput,1
+org.eclipse.jetty.start.Version,1
+org.eclipse.jetty.util.resource.JarFileResource,1

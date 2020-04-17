@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.http.spi.JettyHttpExchange,1
+org.eclipse.jetty.server.HttpChannel,1

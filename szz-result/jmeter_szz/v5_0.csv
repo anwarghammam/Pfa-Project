@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.apache.jmeter.report.core.Sample,1
+org.apache.jmeter.gui.action.SearchTreeDialog,1
+org.apache.jmeter.extractor.XPath2Extractor,1
+org.apache.jmeter.gui.action.Restart,1

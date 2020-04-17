@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.webapp.StandardDescriptorProcessor,1
+org.eclipse.jetty.osgi.boot.OSGiAppProvider,1
+org.eclipse.jetty.osgi.boot.internal.webapp.WebBundleDeployerHelper,1

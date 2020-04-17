@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.deeplearning4j.gradientcheck.CapsnetGradientCheckTest,1
+org.deeplearning4j.gradientcheck.OutputLayerGradientChecks,1
+org.deeplearning4j.gradientcheck.RnnGradientChecks,1
+org.deeplearning4j.gradientcheck.UtilLayerGradientChecks,1
+org.deeplearning4j.gradientcheck.YoloGradientCheckTests,1
+org.nd4j.autodiff.samediff.internal.AbstractSession,1
+org.nd4j.autodiff.samediff.SameDiffTests,1
+org.nd4j.linalg.Nd4jTestsC,2

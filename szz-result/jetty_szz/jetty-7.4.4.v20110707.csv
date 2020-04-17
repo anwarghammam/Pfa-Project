@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.ConnectorCloseTestBase,2
+org.eclipse.jetty.util.resource.FileResource,1
+org.eclipse.jetty.util.resource.Resource,1
+org.eclipse.jetty.util.resource.ResourceTest,1
+org.eclipse.jetty.server.session.JDBCSessionManager,1
+org.eclipse.jetty.server.session.MaxInactiveMigrationTest,1

@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.continuation.Servlet3Continuation,1
+org.eclipse.jetty.servlets.MultipartFilterTest,1

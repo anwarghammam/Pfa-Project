@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.ajax.JSON,1
+org.eclipse.jetty.servlets.GzipFilter,1
+org.eclipse.jetty.server.session.HashSessionManagerTest,3

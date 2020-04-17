@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.jetty.start.BaseHome,3
+org.eclipse.jetty.start.PathMatchers,3
+org.eclipse.jetty.start.ModulesTest,3
+org.eclipse.jetty.start.TestUseCases,3
+org.eclipse.jetty.client.http.HttpReceiverOverHTTPTest,1
+org.eclipse.jetty.start.Main,1
+org.eclipse.jetty.start.Modules,2
+org.eclipse.jetty.client.http.HttpChannelOverHTTP,1
+org.eclipse.jetty.client.http.HttpReceiverOverHTTP,1
+org.eclipse.jetty.spdy.server.ALPNNegotiationTest,1
+org.eclipse.jetty.spdy.server.ALPNSynReplyTest,1
+org.eclipse.jetty.client.http.HttpConnectionOverHTTP,1
+org.eclipse.jetty.client.HttpClientTest,1

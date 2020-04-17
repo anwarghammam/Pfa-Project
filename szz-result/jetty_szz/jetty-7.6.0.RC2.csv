@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.jetty.websocket.helper.SafariD00,3
+org.eclipse.jetty.server.Server,7
+org.eclipse.jetty.websocket.WebSocketFactory,1
+org.eclipse.jetty.websocket.WebSocketServletRFCTest,1
+org.eclipse.jetty.servlets.IncludableGzipFilterMinSizeTest,1
+org.eclipse.jetty.servlets.gzip.GzipTester,1
+org.eclipse.jetty.servlets.DoSFilter,1
+org.eclipse.jetty.websocket.WebSocketGeneratorRFC6455,1
+org.eclipse.jetty.http.spi.HttpSpiContextHandler,1
+org.eclipse.jetty.server.handler.ContextHandler,1
+org.eclipse.jetty.io.IOTest,1

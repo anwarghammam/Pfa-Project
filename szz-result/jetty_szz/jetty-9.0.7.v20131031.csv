@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.resource.FileResourceTest,1
+org.eclipse.jetty.server.handler.StatisticsHandler,1
+org.eclipse.jetty.server.HttpChannel,1

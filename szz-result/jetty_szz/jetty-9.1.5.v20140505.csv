@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.proxy.ProxyServletTest,1
+org.eclipse.jetty.client.HttpDestination,1
+org.eclipse.jetty.client.PoolingHttpDestination,1

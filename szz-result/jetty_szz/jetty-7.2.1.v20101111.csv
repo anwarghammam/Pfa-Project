@@ -1,0 +1,15 @@
+ClassName,nbBugs
+org.eclipse.jetty.security.authentication.DigestAuthenticator,1
+org.eclipse.jetty.server.session.JDBCSessionManager,2
+org.eclipse.jetty.xml.XmlConfiguration,1
+org.eclipse.jetty.osgi.boot.internal.serverfactory.DefaultJettyAtJettyHomeHelper,2
+org.eclipse.jetty.server.HttpOutput,1
+org.eclipse.jetty.security.UserAuthentication,1
+org.eclipse.jetty.security.authentication.SessionAuthentication,1
+org.eclipse.jetty.server.ResponseTest,1
+org.eclipse.jetty.webapp.StandardDescriptorProcessor,1
+org.eclipse.jetty.server.handler.ContextHandler,1
+org.eclipse.jetty.webapp.WebAppClassLoader,1
+org.eclipse.jetty.server.session.AbstractSessionManager,1
+org.eclipse.jetty.server.Request,1
+org.eclipse.jetty.security.PropertyUserStore,1

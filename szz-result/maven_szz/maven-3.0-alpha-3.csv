@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.apache.maven.project.DefaultProjectBuilder,5
+org.apache.maven.model.validation.DefaultModelValidator,2
+org.apache.maven.model.building.DefaultModelBuilder,1
+org.apache.maven.model.interpolation.AbstractStringBasedModelInterpolator,1
+org.apache.maven.execution.DefaultMavenExecutionRequest,1
+org.apache.maven.project.DefaultProjectBuildingRequest,1
+org.apache.maven.exception.DefaultExceptionHandler,2
+org.apache.maven.project.DefaultProjectBuildingHelper,1

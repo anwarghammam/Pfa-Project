@@ -1,0 +1,16 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.session.ClientCrossContextSessionTest,1
+org.eclipse.jetty.server.session.ImmortalSessionTest,1
+org.eclipse.jetty.server.session.InvalidationSessionTest,1
+org.eclipse.jetty.server.session.JdbcTestServer,1
+org.eclipse.jetty.server.session.LastAccessTimeTest,1
+org.eclipse.jetty.server.session.LocalSessionScavengingTest,1
+org.eclipse.jetty.server.session.NewSessionTest,1
+org.eclipse.jetty.server.session.OrphanedSessionTest,1
+org.eclipse.jetty.server.session.ReentrantRequestSessionTest,1
+org.eclipse.jetty.server.session.ServerCrossContextSessionTest,1
+org.eclipse.jetty.server.session.SessionMigrationTest,1
+org.eclipse.jetty.server.session.WebAppObjectInSessionTest,1
+org.eclipse.jetty.server.session.AbstractInvalidationSessionTest,1
+org.eclipse.jetty.server.session.AbstractLastAccessTimeTest,1
+org.eclipse.jetty.server.session.AbstractServerCrossContextSessionTest,1

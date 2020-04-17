@@ -1,0 +1,11 @@
+ClassName,nbBugs
+org.eclipse.jetty.http.HttpContent,1
+org.eclipse.jetty.server.ResourceCache,1
+org.eclipse.jetty.server.Response,1
+org.eclipse.jetty.server.ResourceCacheTest,1
+org.eclipse.jetty.servlet.DefaultServlet,1
+org.eclipse.jetty.servlet.DefaultServletTest,1
+org.eclipse.jetty.server.handler.gzip.GzipHandler,7
+org.eclipse.jetty.http.MetaData,1
+org.eclipse.jetty.server.HttpChannelOverHttp,1
+org.eclipse.jetty.server.handler.gzip.GzipDefaultTest,1

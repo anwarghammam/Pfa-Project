@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.servlets.GzipWithPipeliningTest,1
+org.eclipse.jetty.server.session.JDBCSessionIdManager,1
+org.eclipse.jetty.server.session.JDBCSessionManager,1
+org.eclipse.jetty.servlet.AsyncContextTest,1
+org.eclipse.jetty.io.Connection,1
+org.eclipse.jetty.server.SlowClientWithPipelinedRequestTest,1

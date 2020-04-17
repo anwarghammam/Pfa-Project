@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.session.JDBCSessionIdManager,1
+org.eclipse.jetty.server.session.JDBCSessionManager,1

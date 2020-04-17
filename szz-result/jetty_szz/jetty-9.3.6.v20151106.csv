@@ -1,0 +1,16 @@
+ClassName,nbBugs
+org.eclipse.jetty.client.util.MultiPartContentProvider,2
+org.eclipse.jetty.client.util.MultiPartContentProviderTest,2
+org.eclipse.jetty.client.PoolingHttpDestination,2
+org.eclipse.jetty.client.ConnectionPool,1
+org.eclipse.jetty.client.DuplexConnectionPool,2
+org.eclipse.jetty.client.ValidatingConnectionPool,1
+org.eclipse.jetty.client.HttpClientExplicitConnectionTest,1
+org.eclipse.jetty.client.HttpClientFailureTest,1
+org.eclipse.jetty.client.HttpClientTest,1
+org.eclipse.jetty.client.HttpClientUploadDuringServerShutdown,1
+org.eclipse.jetty.client.HttpConnectionLifecycleTest,1
+org.eclipse.jetty.client.HttpRequestAbortTest,1
+org.eclipse.jetty.client.ServerConnectionCloseTest,1
+org.eclipse.jetty.client.TLSServerConnectionCloseTest,1
+org.eclipse.jetty.client.http.HttpDestinationOverHTTPTest,1

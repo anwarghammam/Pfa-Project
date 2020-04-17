@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.handler.ConnectHandler,8
+org.eclipse.jetty.server.handler.AbstractConnectHandlerTest,8
+org.eclipse.jetty.server.handler.ConnectHandlerSSLTest,8
+org.eclipse.jetty.server.handler.ConnectHandlerTest,8

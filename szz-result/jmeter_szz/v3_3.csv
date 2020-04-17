@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.apache.jmeter.functions.TestTimeShiftFunction,2
+org.apache.jmeter.threads.JMeterThread,1
+org.apache.jmeter.functions.RandomDate,1
+org.apache.jmeter.functions.TestTimeRandomDateFunction,2
+org.apache.jmeter.gui.action.ExportTransactionAndSamplerNames,2

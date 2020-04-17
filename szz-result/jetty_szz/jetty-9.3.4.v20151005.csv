@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2Test,1
+org.eclipse.jetty.http.HttpGenerator,1
+org.eclipse.jetty.client.ServerConnectionCloseTest,1
+org.eclipse.jetty.client.TLSServerConnectionCloseTest,1
+org.eclipse.jetty.client.PoolingHttpDestination,1
+org.eclipse.jetty.http2.client.PrefaceTest,1
+org.eclipse.jetty.http.client.AsyncRequestContentTest,1

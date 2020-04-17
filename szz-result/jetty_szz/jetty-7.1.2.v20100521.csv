@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.jetty.util.LazyListTest,1
+org.eclipse.jetty.client.SelectConnector,1
+org.eclipse.jetty.server.handler.IPAccessHandler,1
+org.eclipse.jetty.server.handler.IPAccessHandlerTest,1

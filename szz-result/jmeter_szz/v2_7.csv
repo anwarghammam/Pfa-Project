@@ -1,0 +1,15 @@
+ClassName,nbBugs
+org.apache.jmeter.protocol.jms.client.Publisher,2
+org.apache.jmeter.protocol.jms.control.gui.JMSPublisherGui,2
+org.apache.jmeter.protocol.jms.sampler.PublisherSampler,2
+org.apache.jmeter.protocol.jms.Utils,1
+org.apache.jmeter.protocol.jms.sampler.JMSSampler,1
+org.apache.jmeter.threads.JMeterContext,1
+org.apache.jmeter.protocol.system.gui.SystemSamplerGui,2
+org.apache.jmeter.config.gui.RowDetailDialog,1
+org.apache.jorphan.collections.ListedHashTree,1
+org.apache.jmeter.visualizers.MailerVisualizer,2
+org.apache.jmeter.protocol.java.sampler.JavaSampler,1
+org.apache.jmeter.protocol.http.util.WSDLHelper,1
+org.apache.jmeter.util.JSR223BeanInfoSupport,4
+org.apache.jmeter.save.SaveService,1

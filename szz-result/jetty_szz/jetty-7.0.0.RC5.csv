@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.jetty.servlet.ServletHandler,1
+org.eclipse.jetty.servlets.GzipFilter,2
+org.eclipse.jetty.webapp.WebInfConfiguration,1
