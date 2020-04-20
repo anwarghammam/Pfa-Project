@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.JREBlock,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,1

@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureExportOperation,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.compare.PluginStructureCreator,1

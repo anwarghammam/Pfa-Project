@@ -1,8 +1,7 @@
 ClassName,nbBugs
-org.eclipse.jetty.servlets.CrossOriginFilter,1
-org.eclipse.jetty.util.log.JavaUtilLog,2
-org.eclipse.jetty.start.Main,11
-org.eclipse.jetty.start.JarVersion,2
-org.eclipse.jetty.annotations.AnnotationParser,7
-org.eclipse.jetty.servlets.DoSFilter,1
-org.eclipse.jetty.server.handler.DebugHandler,2
+org.eclipse.jetty.servlets.CrossOriginFilter,3
+org.eclipse.jetty.util.log.JavaUtilLog,4
+org.eclipse.jetty.start.Main,23
+org.eclipse.jetty.annotations.AnnotationParser,17
+org.eclipse.jetty.servlets.DoSFilter,3
+org.eclipse.jetty.server.handler.DebugHandler,3

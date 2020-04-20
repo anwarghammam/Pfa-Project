@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.nls.ExternalizeStringsOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,6
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardDetailedPage,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizard,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionPointDetails,1

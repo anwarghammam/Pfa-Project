@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathHelper,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathUtilCore,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.nls.ExternalizeStringsOperation,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDEModelUtility,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,4

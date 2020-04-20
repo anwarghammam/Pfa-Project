@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureExportOperation,5
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.provisional.LoadTargetDefinitionJob,10
+org.eclipse.pde.ui.tests.src.org.eclipse.pde.ui.tests.target.AllTargetTests,2
+org.eclipse.pde.ui.tests.src.org.eclipse.pde.ui.tests.target.WorkspaceTargetDefinitionTests,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.impl.ProfileBundleContainer,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.BundleContainerTable,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.targetdefinition.DefinitionPage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.targetdefinition.TargetEditor,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.impl.AbstractBundleContainer,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,3

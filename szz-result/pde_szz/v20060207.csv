@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathUtilCore,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,5
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LaunchConfigurationHelper,6
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.IntroSection,1
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.build.PropertiesTextChangeListener,1
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.bundle.BundleTextChangeListener,1

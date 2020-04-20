@@ -1,0 +1,17 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDELabelProvider,54
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.ElementSection,2
+org.eclipse.pde.core.src.org.eclipse.pde.core.build.IBuild,21
+org.eclipse.pde.core.src.org.eclipse.pde.core.build.IBuildModel,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.FileAdapter,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TracingOptionsManager,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.build.BuildEntry,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.build.ExternalBuildModel,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.FeatureConsistencyChecker,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.ManifestConsistencyChecker,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ifeature.IFeatureModel,21
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.DataSection,21
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditor,21

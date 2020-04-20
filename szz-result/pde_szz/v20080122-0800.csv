@@ -1,0 +1,11 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,24
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.PluginBlock,24
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.P2Utils,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LaunchConfigurationHelper,3
+org.eclipse.pde.ui.src.org.eclipse.pde.ui.launcher.EquinoxLaunchConfiguration,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.toc.TocTreeSection,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.preferences.TargetPluginsTab,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.properties.CompilersPropertyPage,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewLibraryPluginCreationOperation,1

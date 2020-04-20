@@ -1,7 +1,6 @@
 ClassName,nbBugs
-org.eclipse.jetty.http.gzip.GzipResponseWrapper,1
-org.eclipse.jetty.http.gzip.GzipStream,1
-org.eclipse.jetty.servlets.GzipFilterTest,2
+org.eclipse.jetty.servlets.GzipFilter,3
+org.eclipse.jetty.servlets.GzipFilterTest,1
 org.eclipse.jetty.server.handler.GzipHandler,1
 org.eclipse.jetty.websocket.DeflateFrameExtension,1
 org.eclipse.jetty.websocket.TestClient,1

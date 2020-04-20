@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.BundleValidationOperation,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.LaunchConfigurationHelper,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.LaunchListener,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.PDEMigrationDelegate,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.VMHelper,1

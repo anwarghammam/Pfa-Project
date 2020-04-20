@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.toc.TocSourcePage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.preferences.TargetPluginsTab,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.nls.ExternalizeStringsOperation,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDEModelUtility,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BuildErrorReporter,1

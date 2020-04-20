@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,12
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.provisioner.p2.P2TargetProvisionerWizard,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.impl.TargetPlatformService,14
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.preferences.TargetPlatformPreferencePage2,8
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.provisional.LoadTargetDefinitionJob,9

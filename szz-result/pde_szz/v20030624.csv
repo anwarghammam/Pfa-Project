@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowserContentProvider,2
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowserLabelProvider,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.FeatureExportWizard,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.PluginExportWizard,1

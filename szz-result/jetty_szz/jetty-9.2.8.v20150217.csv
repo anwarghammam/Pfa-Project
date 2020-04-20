@@ -1,11 +1,10 @@
 ClassName,nbBugs
-org.eclipse.jetty.client.HttpSender,1
-org.eclipse.jetty.client.util.DeferredContentProvider,1
-org.eclipse.jetty.client.HttpClientFailureTest,1
-org.eclipse.jetty.proxy.AbstractProxyServlet,11
-org.eclipse.jetty.server.HttpChannelState,1
+org.eclipse.jetty.client.HttpClientFailureTest,2
+org.eclipse.jetty.client.HttpRequestAbortTest,2
+org.eclipse.jetty.proxy.AbstractProxyServlet,12
+org.eclipse.jetty.server.HttpChannelState,2
 org.eclipse.jetty.proxy.ReverseProxyTest,1
 org.eclipse.jetty.proxy.AsyncMiddleManServlet,1
 org.eclipse.jetty.proxy.ProxyServletTest,1
-org.eclipse.jetty.client.HttpClientTest,1
+org.eclipse.jetty.client.HttpClientTest,3
 org.eclipse.jetty.security.JDBCLoginService,1

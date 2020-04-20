@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.jetty.server.Dispatcher,10
+org.eclipse.jetty.server.Request,10
+org.eclipse.jetty.server.Server,10
+org.eclipse.jetty.servlet.DispatcherTest,10

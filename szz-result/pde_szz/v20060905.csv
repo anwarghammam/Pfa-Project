@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.converter.PDEPluginConverter,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.converter.PluginConverter,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.CreateManifestOperation,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewProjectCreationOperation,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureExportOperation,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.FeatureExportWizard,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.PluginExportWizard,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.bundle.WorkspaceBundlePluginModelBase,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewLibraryPluginCreationOperation,1

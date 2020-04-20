@@ -1,3 +1,5 @@
 ClassName,nbBugs
-org.eclipse.jetty.client.SelectConnector,1
-org.eclipse.jetty.io.nio.SelectorManager,1
+org.eclipse.jetty.server.handler.ConnectHandler,4
+org.eclipse.jetty.server.handler.AbstractConnectHandlerTest,4
+org.eclipse.jetty.server.handler.ConnectHandlerSSLTest,4
+org.eclipse.jetty.server.handler.ConnectHandlerTest,4

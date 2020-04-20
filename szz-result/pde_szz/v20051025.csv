@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.MinimalState,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ibundle.IBundleModel,9
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.build.BuildEntry,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ImportPackageSection,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.refactoring.ManifestPackageMoveParticipant,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.refactoring.PluginManifestChange,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewLibraryPluginCreationOperation,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.product.BaseManifestOperation,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.IntroSection,1
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.bundle.BundleTextChangeListener,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.text.ColorManager,1

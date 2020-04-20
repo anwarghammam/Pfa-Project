@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.ElementSection,1
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowser,7
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowserLabelProvider,1

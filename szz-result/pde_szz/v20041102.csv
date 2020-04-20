@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildEditor,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditor,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.search.SearchResult,8

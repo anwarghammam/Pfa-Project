@@ -1,4 +1,3 @@
 ClassName,nbBugs
 org.eclipse.jetty.util.log.StdErrLog,1
-org.eclipse.jetty.http.spi.HttpSpiContextHandler,1
-org.eclipse.jetty.http.spi.JettyHttpServer,1
+org.eclipse.jetty.http.spi.JettyHttpExchange,2

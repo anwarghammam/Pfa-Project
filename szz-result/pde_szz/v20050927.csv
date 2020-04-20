@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.ui.launcher.EquinoxLaunchConfiguration,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,17
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.PluginBlock,17

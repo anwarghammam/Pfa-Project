@@ -1,0 +1,13 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.views.dependencies.CalleesListContentProvider,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.views.dependencies.DependenciesViewPage,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.comp.details.CompCSEnclosingTextDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSIntroDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSItemDetails,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LauncherUtils,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDEModelUtility,1

@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureExportOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathHelper,2

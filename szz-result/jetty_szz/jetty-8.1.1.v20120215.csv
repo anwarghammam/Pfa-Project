@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.jetty.osgi.test.TestJettyOSGiBootContextAsService,2
+org.eclipse.jetty.osgi.test.TestJettyOSGiBootCore,2
+org.eclipse.jetty.osgi.test.TestJettyOSGiBootSpdy,2
+org.eclipse.jetty.osgi.test.TestJettyOSGiBootWebAppAsService,2
+org.eclipse.jetty.osgi.test.TestJettyOSGiBootWithJsp,2
+org.eclipse.jetty.osgi.test.TestOSGiUtil,2

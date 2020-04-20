@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.OSGiConsole,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.OSGiConsoleFactory,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.FeatureBlock,1

@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.JavaElementChangeListener,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.build.BaseBuildAction,3

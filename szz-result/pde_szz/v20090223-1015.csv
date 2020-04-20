@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,7
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,7
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.provisional.LoadTargetDefinitionJob,7

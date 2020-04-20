@@ -1,2 +1,3 @@
 ClassName,nbBugs
-org.eclipse.jetty.server.ResponseTest,1
+org.eclipse.jetty.server.Response,3
+org.eclipse.jetty.server.ResponseTest,3

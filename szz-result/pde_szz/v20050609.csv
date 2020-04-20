@@ -1,0 +1,15 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.FeatureSection,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.MinimalState,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.ProductExportWizard,7
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.BaseExportWizardPage,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.FeatureExportWizard,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.PluginExportWizard,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.PluginContentPage,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LauncherUtils,5
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowser,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.ProductExportWizardPage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,1

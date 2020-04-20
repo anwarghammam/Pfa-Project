@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.FeatureSection,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.P2Utils,15
+org.eclipse.pde.ui.src.org.eclipse.pde.ui.templates.NewPluginProjectFromTemplateWizard,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditor,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECoreMessages,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BuildErrorReporter,2

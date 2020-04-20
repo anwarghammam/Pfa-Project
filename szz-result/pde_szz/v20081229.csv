@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginExtensionPoint,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,1
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.plugin.PluginExtensionPointNode,1

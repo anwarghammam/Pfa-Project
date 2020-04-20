@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.P2Utils,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.BundleContainerTable,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.Messages,2

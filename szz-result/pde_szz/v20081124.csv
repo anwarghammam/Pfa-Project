@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureBasedExportOperation,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureExportOperation,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.AntGeneratingExportWizard,3

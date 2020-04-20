@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,11
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.cheatsheet.CompCSCreationOperation,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.cheatsheet.SimpleCSCreationOperation,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.contentassist.display.BrowserInformationControl,1

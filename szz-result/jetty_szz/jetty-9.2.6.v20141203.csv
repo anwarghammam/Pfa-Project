@@ -1,6 +1,6 @@
 ClassName,nbBugs
 org.eclipse.jetty.servlet.DefaultServlet,1
-org.eclipse.jetty.server.HttpChannelState,1
+org.eclipse.jetty.server.HttpChannelState,2
 org.eclipse.jetty.util.Uptime,1
-org.eclipse.jetty.http.HttpParser,1
+org.eclipse.jetty.http.HttpParser,2
 org.eclipse.jetty.jsp.JettyJspServlet,1

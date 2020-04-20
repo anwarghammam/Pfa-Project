@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathHelper,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,5
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.OverviewPage,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewProjectCreationOperation,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1

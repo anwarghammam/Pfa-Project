@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureExportOperation,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PreferenceInitializer,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.CompilerFlags,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.preferences.PDECompilersConfigurationBlock,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.context.XMLInputContext,1

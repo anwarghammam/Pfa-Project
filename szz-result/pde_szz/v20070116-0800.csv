@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.PDESourcePage,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LaunchConfigurationHelper,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSItemDetails,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,2

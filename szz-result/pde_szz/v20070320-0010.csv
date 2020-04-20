@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.BundleValidationOperation,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDELabelProvider,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.BundleSourcePage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.views.dependencies.DependenciesViewPage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.refactoring.RenamePluginProcessor,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,7
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDELabelUtility,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.PluginBlock,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,2

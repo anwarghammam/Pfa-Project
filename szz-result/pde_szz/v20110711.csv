@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.launching.src.org.eclipse.pde.launching.AbstractPDELaunchConfiguration,1
+org.eclipse.pde.launching.src.org.eclipse.pde.launching.PDESourcePathProvider,1

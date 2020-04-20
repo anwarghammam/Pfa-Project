@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.BaseImportWizardSecondPage,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardDetailedPage,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardExpressPage,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,5

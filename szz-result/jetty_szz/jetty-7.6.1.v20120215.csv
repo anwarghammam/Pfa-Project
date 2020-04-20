@@ -1,6 +1,4 @@
 ClassName,nbBugs
-org.eclipse.jetty.util.ssl.SslContextFactory,1
-org.eclipse.jetty.start.CommandLineBuilder,1
-org.eclipse.jetty.start.CommandLineBuilderTest,1
-org.eclipse.jetty.nosql.mongodb.MongoSessionIdManager,1
-org.eclipse.jetty.start.Main,4
+org.eclipse.jetty.util.ssl.SslContextFactory,3
+org.eclipse.jetty.start.Main,6
+org.eclipse.jetty.nosql.mongodb.MongoSessionIdManager,2

@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.OverviewPage,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.TargetDefinitionSection,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExecutionEnvironmentAnalyzer,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,21
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1

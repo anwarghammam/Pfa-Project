@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.AbstractSchemaDetails,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.SchemaAttributeDetails,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.SchemaElementDetails,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.SchemaFormPage,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1

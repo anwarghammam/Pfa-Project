@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PreferenceInitializer,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.preferences.PDECompilersConfigurationBlock,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.AbstractTargetHandle,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.IUBundleContainer,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.TargetPlatformService,2

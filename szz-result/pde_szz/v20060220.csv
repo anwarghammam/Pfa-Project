@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECoreMessages,25
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BuildErrorReporter,25
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.feature.AbstractNewFeatureWizard,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.feature.CreateFeatureProjectOperation,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.feature.NewFeatureProjectWizard,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,1

@@ -1,5 +1,4 @@
 ClassName,nbBugs
-org.eclipse.jetty.annotations.ServletSecurityAnnotationHandler,1
-org.eclipse.jetty.servlet.ServletContextHandler,1
-org.eclipse.jetty.webapp.MetaData,1
-org.eclipse.jetty.webapp.WebAppContext,1
+org.eclipse.jetty.annotations.WebServletAnnotation,3
+org.eclipse.jetty.annotations.ServletD,3
+org.eclipse.jetty.annotations.TestServletAnnotations,3

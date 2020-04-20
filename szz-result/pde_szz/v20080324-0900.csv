@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.ui.launcher.IPDELauncherConstants,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,1
+org.eclipse.pde.core.src.org.eclipse.pde.core.plugin.TargetPlatform,1
+org.eclipse.pde.api.tools.tests.src.org.eclipse.pde.api.tools.tests.util.ProjectUtils,2

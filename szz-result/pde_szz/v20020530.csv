@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.SourceLocationManager,1

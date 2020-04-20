@@ -1,5 +1,5 @@
 ClassName,nbBugs
-org.eclipse.jetty.util.log.Log,1
-org.eclipse.jetty.websocket.common.extensions.compress.CompressExtension,3
+org.eclipse.jetty.annotations.WebServletAnnotation,7
+org.eclipse.jetty.websocket.common.extensions.compress.CompressExtension,7
 org.eclipse.jetty.websocket.jsr356.server.deploy.WebSocketServerContainerInitializer,1
 org.eclipse.jetty.websocket.servlet.UpgradeHttpServletRequest,1

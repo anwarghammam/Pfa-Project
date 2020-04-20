@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.MinimalState,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.SourceEntryErrorReporter,4
+org.eclipse.pde.ui.tests.src.org.eclipse.pde.ui.tests.target.LocalTargetDefinitionTests,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalModelManager,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TargetPreferenceModifyListener,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.provisional.LoadTargetDefinitionJob,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.preferences.AddToJavaSearchJob,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.EclipsePluginValidationOperation,1

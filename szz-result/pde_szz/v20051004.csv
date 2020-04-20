@@ -1,0 +1,11 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LaunchConfigurationHelper,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,6
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.nls.ExternalizeStringsOperation,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.nls.ExternalizeStringsWizard,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.nls.ExternalizeStringsWizardPage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.nls.GetNonExternalizedStringsAction,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewProjectCreationPage,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2

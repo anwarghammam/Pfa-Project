@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.ElementSection,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,1

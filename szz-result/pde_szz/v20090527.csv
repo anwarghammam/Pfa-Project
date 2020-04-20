@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.OSGiFrameworkBlock,7
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.BundleValidationOperation,5

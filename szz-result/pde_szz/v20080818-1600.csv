@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.build.BaseBuildAction,1
+org.eclipse.pde.api.tools.tests.src.org.eclipse.pde.api.tools.tests.util.ProjectUtils,1

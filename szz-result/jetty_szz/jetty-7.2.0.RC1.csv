@@ -1,7 +1,5 @@
 ClassName,nbBugs
-org.eclipse.jetty.websocket.WebSocketConnectionD00,1
-org.eclipse.jetty.websocket.WebSocketFactory,1
+org.eclipse.jetty.websocket.WebSocketConnectionD00,2
 org.eclipse.jetty.webapp.WebAppContext,1
 org.eclipse.jetty.security.authentication.DigestAuthenticator,1
-org.eclipse.jetty.server.handler.ConnectHandler,2
 org.eclipse.jetty.security.PropertyUserStore,1

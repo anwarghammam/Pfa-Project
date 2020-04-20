@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,1

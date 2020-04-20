@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.build.BaseBuildAction,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.FeatureImportWizardPage,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalModelManager,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.provisional.LoadTargetDefinitionJob,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,2

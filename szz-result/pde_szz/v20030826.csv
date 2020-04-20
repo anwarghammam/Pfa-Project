@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BinSection,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildContentsSection,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.SrcSection,2

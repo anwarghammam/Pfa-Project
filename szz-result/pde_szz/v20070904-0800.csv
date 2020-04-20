@@ -1,0 +1,15 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TargetPlatformHelper,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspacePluginModelManager,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.bundle.WorkspaceBundlePluginModelBase,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.WorkspaceExtensionsModel,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.search.SearchResult,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionsSection,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.correction.java.ForbiddenAccessProposal,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.correction.java.QuickFixProcessor,1
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowser,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewProjectCreationPage,2

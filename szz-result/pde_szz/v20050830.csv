@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.IntroSection,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.ProductInfoSection,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.product.ProductIntroWizardPage,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.refactoring.PluginManifestChange,8
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.JavadocLocationManager,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewProjectCreationPage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.PluginContentPage,1

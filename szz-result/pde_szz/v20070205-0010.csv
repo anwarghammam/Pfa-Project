@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.LocationDialog,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.FragmentGeneralInfoSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.correction.ExternalizeResolution,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.VMHelper,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.search.dependencies.AddNewDependenciesOperation,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewLibraryPluginCreationOperation,1

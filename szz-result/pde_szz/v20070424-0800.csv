@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,11
+org.eclipse.pde.core.src_ant.org.eclipse.pde.internal.core.ant.ConvertSchemaToHTML,11
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.views.dependencies.DependenciesView,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.refactoring.RenamePluginProcessor,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.PluginContentPage,7
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionsSection,2
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.plugin.PluginExtensionPointNode,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.contentassist.ManifestContentAssistProcessor,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.LoadTargetOperation,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.SourceLocationManager,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.util.PDEJavaHelper,1

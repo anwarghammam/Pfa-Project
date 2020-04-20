@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.LoadTargetOperation,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TargetPlatformHelper,1

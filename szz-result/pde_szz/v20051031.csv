@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.MinimalState,2
+org.eclipse.pde.ui.src.org.eclipse.pde.ui.launcher.EquinoxLaunchConfiguration,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.PluginBlock,1

@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewProjectCreationPage,3
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.plugin.PluginExtensionPointNode,3
+org.eclipse.pde.ui.templates.src.org.eclipse.pde.internal.ui.templates.PDETemplateMessages,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.TargetDefinitionSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionsSection,1

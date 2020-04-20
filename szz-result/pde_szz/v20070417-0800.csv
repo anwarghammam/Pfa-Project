@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.PluginSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.RequiresSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.views.dependencies.StateViewPage,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.views.dependencies.DependenciesViewComparator,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.contentassist.ManifestContentAssistProcessor,6
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.PDESourceLookupDirector,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,1

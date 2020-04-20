@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,23
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.BaseImportWizardSecondPage,23
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardDetailedPage,23
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardExpressPage,23
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECoreMessages,5
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.PDERuntimeMessages,2

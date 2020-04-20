@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.target.TargetDefinitionContentPage,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.targetdefinition.ContentSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.targetdefinition.DefinitionPage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.targetdefinition.TargetEditor,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.JavaAttributeWizardPage,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.PluginClassCodeGenerator,2

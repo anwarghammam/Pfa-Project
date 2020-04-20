@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.DataSection,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditor,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,6
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.feature.Feature,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardDetailedPage,1

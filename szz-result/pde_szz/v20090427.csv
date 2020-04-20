@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.DependencyManagementSection,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.tools.ConvertProjectToPluginOperation,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,2

@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.LaunchArgumentsHelper,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.LauncherUtils,1
+org.eclipse.pde.launching.src.org.eclipse.pde.launching.EclipseApplicationLaunchConfiguration,1
+org.eclipse.pde.launching.src.org.eclipse.pde.launching.JUnitLaunchConfigurationDelegate,1
+org.eclipse.pde.ui.src.org.eclipse.pde.ui.launcher.EclipseApplicationLaunchConfiguration,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.LaunchConfigurationHelper,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.MinimalState,1

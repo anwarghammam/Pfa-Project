@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,17
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathComputer,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathUtilCore,15
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,13
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,13
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ImportPackageSection,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.RequiredPluginsClasspathContainer,5

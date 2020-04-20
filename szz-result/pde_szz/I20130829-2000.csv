@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.EquinoxInitializer,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.LaunchArgumentsHelper,1

@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExtensionsHandler,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEStateHelper,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginExtension,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginExtensionPoint,1

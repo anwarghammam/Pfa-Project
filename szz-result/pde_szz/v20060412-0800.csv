@@ -1,0 +1,13 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalModelManager,113
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,113
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,113
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,13
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LauncherUtils,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.ModelModification,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDEModelUtility,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.tools.OrganizeManifest,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.ContentSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewProjectCreationPage,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionPointDetails,1

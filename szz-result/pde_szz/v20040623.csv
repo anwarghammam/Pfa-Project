@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalModelManager,29
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,29
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,29

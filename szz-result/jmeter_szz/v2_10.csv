@@ -1,8 +1,7 @@
 ClassName,nbBugs
 org.apache.jmeter.gui.tree.JMeterTreeTransferHandler,2
 org.apache.jmeter.gui.action.Move,1
-org.apache.jmeter.threads.JMeterThread,1
 org.apache.jmeter.protocol.http.config.gui.UrlConfigGui,1
 org.apache.jmeter.visualizers.RenderAsCssJQuery,1
-org.apache.jmeter.modifiers.CounterConfig,1
-org.apache.jmeter.modifiers.gui.CounterConfigGui,1
+org.apache.jmeter.gui.action.RawTextSearcher,2
+org.apache.jmeter.gui.action.SearchTreeDialog,2

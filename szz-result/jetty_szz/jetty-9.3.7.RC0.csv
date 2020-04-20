@@ -7,7 +7,7 @@ org.eclipse.jetty.runner.Runner,1
 org.eclipse.jetty.servlet.JspPropertyGroupServlet,1
 org.eclipse.jetty.start.Module,1
 org.eclipse.jetty.util.security.Password,1
-org.eclipse.jetty.deploy.providers.WebAppProvider,1
+org.eclipse.jetty.servlets.MultipartFilterTest,7
 org.eclipse.jetty.http2.client.http.AbstractTest,1
 org.eclipse.jetty.http2.client.http.MaxConcurrentStreamsTest,1
 org.eclipse.jetty.http2.client.FlowControlStalledTest,1

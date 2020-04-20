@@ -1,2 +1,2 @@
 ClassName,nbBugs
-org.eclipse.jetty.http.HttpParser,1
+org.eclipse.jetty.http.AbstractGenerator,2

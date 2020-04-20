@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,6
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureBasedExportOperation,2

@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureBasedExportOperation,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.FeatureExportOperation,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.WorkspaceExportHelper,4

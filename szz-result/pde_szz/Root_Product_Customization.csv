@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalModelManager,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.correction.RemoveLazyLoadingDirectiveResolution,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.PluginContentPage,5
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.AbstractPluginBlock,2

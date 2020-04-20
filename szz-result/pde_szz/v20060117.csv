@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.ContentSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.PDESourceLookupDirector,2

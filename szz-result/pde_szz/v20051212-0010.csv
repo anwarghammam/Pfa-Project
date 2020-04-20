@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.FeatureSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.preferences.TargetPluginsTab,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.ContentSection,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDELabelProvider,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1

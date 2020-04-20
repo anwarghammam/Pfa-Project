@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalModelManager,8
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,8
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowser,2

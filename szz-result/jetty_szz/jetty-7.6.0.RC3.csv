@@ -1,8 +1,5 @@
 ClassName,nbBugs
-org.eclipse.jetty.start.Main,4
-org.eclipse.jetty.start.MainTest,4
-org.eclipse.jetty.util.UrlEncoded,1
-org.eclipse.jetty.util.URLEncodedTest,1
+org.eclipse.jetty.start.MainTest,7
+org.eclipse.jetty.server.Request,4
 org.eclipse.jetty.security.jaspi.modules.FormAuthModule,1
 org.eclipse.jetty.security.authentication.DeferredAuthentication,1
-org.eclipse.jetty.server.Request,1

@@ -1,0 +1,17 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.PDESourcePage,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.build.ExternalBuildModel,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildContentsSection,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditor,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ImportPackageSection,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.OverviewPage,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.feature.AbstractCreateFeatureOperation,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.FeatureImportWizardPage,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewLibraryPluginCreationOperation,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.tools.OrganizeManifest,9
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.AbstractKeyValueTextChangeListener,1
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.build.PropertiesTextChangeListener,1
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.bundle.BundleTextChangeListener,1
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.plugin.XMLTextChangeListener,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1

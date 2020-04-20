@@ -1,5 +1,4 @@
 ClassName,nbBugs
-org.eclipse.jetty.util.log.Slf4jLog,2
 org.eclipse.jetty.start.Main,1
-org.eclipse.jetty.http.HttpGenerator,1
-org.eclipse.jetty.server.HttpConnection,1
+org.eclipse.jetty.http.HttpGenerator,2
+org.eclipse.jetty.server.HttpConnection,2

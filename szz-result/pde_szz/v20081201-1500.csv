@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TargetPlatformHelper,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspacePluginModelManager,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.ManifestConsistencyChecker,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.bundle.WorkspaceBundlePluginModelBase,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.WorkspaceExtensionsModel,1

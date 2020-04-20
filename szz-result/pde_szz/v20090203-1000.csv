@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TargetPlatformHelper,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TracingOptionsManager,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.build.ExternalBuildModel,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.WorkspaceExtensionsModel,3

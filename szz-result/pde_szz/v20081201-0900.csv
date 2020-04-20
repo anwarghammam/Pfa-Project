@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TargetPlatformHelper,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.converter.PluginConverter,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.search.dependencies.AddNewDependenciesOperation,4

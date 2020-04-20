@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,9
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.FragmentGeneralInfoSection,1
+org.eclipse.pde.runtime.src.org.eclipse.pde.internal.runtime.registry.RegistryBrowser,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionPointDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.ProductExportWizardPage,2

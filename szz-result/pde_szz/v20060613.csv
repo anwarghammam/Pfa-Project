@@ -1,0 +1,14 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BuildErrorReporter,13
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildEditor,13
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.DependencyManagementSection,14
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ImportPackageSection,16
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,13
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDEModelUtility,16
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.SourceViewerConfigurationFactory,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.PluginGeneralInfoSection,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.ModelModification,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.NewLibraryPluginCreationOperation,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.tools.OrganizeManifest,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,1

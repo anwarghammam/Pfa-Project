@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardDetailedPage,14
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardExpressPage,14
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginExtensionPoint,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.RequiredPluginsClasspathContainer,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEClasspathContainer,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.plugin.PluginContentPage,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1

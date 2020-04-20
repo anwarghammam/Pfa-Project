@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,5
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,5

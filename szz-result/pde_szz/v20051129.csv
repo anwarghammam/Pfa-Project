@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.product.BaseManifestOperation,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.ElementSection,6
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.AbstractSchemaDetails,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.SchemaAttributeDetails,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.SchemaElementDetails,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathHelper,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildEditor,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditor,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,1

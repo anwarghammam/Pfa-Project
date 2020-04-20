@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathUtilCore,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEClasspathContainer,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.SearchablePluginsManager,1

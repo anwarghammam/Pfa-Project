@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.target.TargetDefinitionContentPage,9
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.targetdefinition.ImplicitDependenciesSection,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.provisional.ITargetPlatformService,5
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,2

@@ -1,15 +1,14 @@
 ClassName,nbBugs
-org.eclipse.jetty.servlet.ServletContextHandlerTest,2
+org.eclipse.jetty.server.handler.ContextHandler,5
+org.eclipse.jetty.servlet.ServletContextHandlerTest,4
+org.eclipse.jetty.websocket.WebSocketFactory,4
 org.eclipse.jetty.websocket.TestClient,1
-org.eclipse.jetty.websocket.WebSocketFactory,2
-org.eclipse.jetty.websocket.DeflateFrameExtension,1
 org.eclipse.jetty.webapp.WebAppContext,1
 org.eclipse.jetty.util.Utf8Appendable,2
 org.eclipse.jetty.nested.NestedConnection,1
 org.eclipse.jetty.nested.NestedGenerator,1
 org.eclipse.jetty.nested.NestedServer,1
 org.eclipse.jetty.osgi.servletbridge.FrameworkLauncherExtended,1
-org.eclipse.jetty.osgi.boot.internal.serverfactory.DefaultJettyAtJettyHomeHelper,1
 org.eclipse.jetty.client.HttpDestination,1
 org.eclipse.jetty.osgi.boot.JettyBootstrapActivator,1
 org.eclipse.jetty.osgi.boot.OSGiWebappConstants,1
@@ -17,6 +16,5 @@ org.eclipse.jetty.osgi.boot.internal.webapp.WebBundleTrackerCustomizer,1
 org.eclipse.jetty.osgi.boot.utils.internal.PackageAdminServiceTracker,1
 org.eclipse.jetty.server.Server,1
 org.eclipse.jetty.servlet.DefaultServlet,1
-org.eclipse.jetty.server.handler.ContextHandler,1
 org.eclipse.jetty.servlet.ServletHandler,3
 org.eclipse.jetty.webapp.MetaData,1

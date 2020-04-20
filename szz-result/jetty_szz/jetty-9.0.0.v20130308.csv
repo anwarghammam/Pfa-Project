@@ -1,11 +1,9 @@
 ClassName,nbBugs
-org.eclipse.jetty.http.HttpGeneratorServerTest,2
-org.eclipse.jetty.http.HttpParser,1
-org.eclipse.jetty.http.HttpParserTest,1
+org.eclipse.jetty.http.HttpParser,7
 org.eclipse.jetty.client.RedirectProtocolHandler,1
-org.eclipse.jetty.io.SelectorManager,1
-org.eclipse.jetty.websocket.common.io.AbstractWebSocketConnection,1
-org.eclipse.jetty.websocket.common.io.WriteBytesProvider,1
+org.eclipse.jetty.client.HttpConnectionLifecycleTest,3
+org.eclipse.jetty.proxy.ProxyServletTest,3
+org.eclipse.jetty.websocket.common.io.AbstractWebSocketConnection,3
 org.eclipse.jetty.server.HttpConnection,1
 org.eclipse.jetty.client.HttpClient,1
 org.eclipse.jetty.client.HttpDestination,1

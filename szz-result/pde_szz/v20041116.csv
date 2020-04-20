@@ -1,0 +1,4 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,1

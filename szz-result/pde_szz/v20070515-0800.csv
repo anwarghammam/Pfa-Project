@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.MinimalState,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.TargetPlatformHelper,1

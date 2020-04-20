@@ -1,7 +1,7 @@
 ClassName,nbBugs
-org.eclipse.jetty.util.log.StdErrLog,1
-org.eclipse.jetty.jndi.java.TestJNDI,4
-org.eclipse.jetty.xml.XmlConfiguration,1
+org.eclipse.jetty.util.log.StdErrLog,2
+org.eclipse.jetty.jndi.ContextFactory,5
+org.eclipse.jetty.xml.XmlConfiguration,3
 org.eclipse.jetty.util.ajax.JSON,1
 org.eclipse.jetty.start.Main,3
 org.eclipse.jetty.security.authentication.SessionAuthentication,1

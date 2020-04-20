@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,26
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.BundleSourcePage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.comp.details.CompCSEnclosingTextDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSIntroDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSItemDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LauncherUtils,2

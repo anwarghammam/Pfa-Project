@@ -2,5 +2,5 @@ ClassName,nbBugs
 org.eclipse.jetty.servlets.CrossOriginFilter,1
 org.eclipse.jetty.servlets.CrossOriginFilterTest,1
 org.eclipse.jetty.util.UrlEncoded,1
-org.eclipse.jetty.server.session.JDBCSessionIdManager,1
-org.eclipse.jetty.server.session.JDBCSessionManager,1
+org.eclipse.jetty.server.session.JDBCSessionIdManager,4
+org.eclipse.jetty.server.session.JDBCSessionManager,4

@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionPointDetails,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.launcher.LauncherUtils,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionsSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestEditor,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BinSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildContentsSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.SrcSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildEditor,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditor,1

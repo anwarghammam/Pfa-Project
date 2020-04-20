@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,13
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalFeatureModelManager,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.WorkspaceExtensionsModel,4
+org.eclipse.pde.core.src_ant.org.eclipse.pde.internal.core.ant.ConvertSchemaToHTML,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.FeatureImportWizardPage,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.cheatsheet.IRegisterCSData,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.cheatsheet.RegisterCSOperation,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.cheatsheet.RegisterCSWizardPage,1

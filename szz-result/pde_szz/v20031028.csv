@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.BaseExportWizardPage,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.FeatureExportWizard,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.PluginExportWizard,3
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,1

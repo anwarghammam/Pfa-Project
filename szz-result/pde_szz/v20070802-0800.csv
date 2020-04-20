@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.PDESourcePage,2
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.toc.TocTopic,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.toc.TocTreeSection,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.toc.TocSourcePage,1

@@ -1,11 +1,10 @@
 ClassName,nbBugs
-org.eclipse.jetty.start.BaseHomeTest,1
-org.eclipse.jetty.server.handler.ContextHandler,1
+org.eclipse.jetty.start.ConfigurationAssert,4
+org.eclipse.jetty.server.handler.ContextHandler,2
 org.eclipse.jetty.server.HttpInput,2
 org.eclipse.jetty.start.Main,1
 org.eclipse.jetty.start.Modules,1
 org.eclipse.jetty.server.NetworkTrafficServerConnector,1
 org.eclipse.jetty.server.NetworkTrafficListenerTest,1
 org.eclipse.jetty.http.HttpGeneratorServerTest,1
-org.eclipse.jetty.client.http.HttpConnectionOverHTTP,1
-org.eclipse.jetty.client.HttpClientTest,1
+org.eclipse.jetty.client.HttpClientTest,3

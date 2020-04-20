@@ -1,0 +1,11 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.commands.CommandList,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.IncludedFeaturesSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.PluginSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.RequiresSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.DependencyManagementSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionsSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.RequiresSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.FeatureSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.product.PluginSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.schema.ElementSection,1

@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.ui.launcher.EquinoxLaunchConfiguration,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECore,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSIntroDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSItemDetails,1

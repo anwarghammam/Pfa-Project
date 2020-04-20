@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,4
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1

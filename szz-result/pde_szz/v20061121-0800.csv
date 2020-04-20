@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionPointDetails,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.actions.OpenSchemaAction,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.PluginGeneralInfoSection,1

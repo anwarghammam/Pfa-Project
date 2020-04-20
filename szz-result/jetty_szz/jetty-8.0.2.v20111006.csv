@@ -1,2 +1,3 @@
 ClassName,nbBugs
-org.eclipse.jetty.annotations.ServletContainerInitializerListener,1
+org.eclipse.jetty.annotations.AnnotationConfiguration,2
+org.eclipse.jetty.annotations.ServletContainerInitializerListener,2

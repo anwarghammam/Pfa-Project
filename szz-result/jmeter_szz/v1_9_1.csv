@@ -1,2 +1,2 @@
 ClassName,nbBugs
-org.apache.jmeter.control.ThroughputController,2
+org.apache.jmeter.control.gui.ModuleControllerGui,7

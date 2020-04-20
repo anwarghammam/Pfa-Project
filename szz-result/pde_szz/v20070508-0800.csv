@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.comp.details.CompCSEnclosingTextDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSIntroDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.cheatsheet.simple.details.SimpleCSItemDetails,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardFirstPage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,4

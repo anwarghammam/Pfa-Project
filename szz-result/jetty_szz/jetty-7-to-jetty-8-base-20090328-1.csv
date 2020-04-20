@@ -1,6 +1,6 @@
 ClassName,nbBugs
-org.eclipse.jetty.server.session.JDBCSessionIdManager,406
-org.eclipse.jetty.server.session.JDBCSessionManager,406
-org.eclipse.jetty.webapp.WebAppContext,1
-org.eclipse.jetty.server.Request,1
+org.eclipse.jetty.server.session.HashSessionManager,622
+org.eclipse.jetty.server.Dispatcher,4
+org.eclipse.jetty.server.Request,4
+org.eclipse.jetty.servlet.DispatcherTest,4
 org.eclipse.jetty.servlet.ErrorPageErrorHandler,1

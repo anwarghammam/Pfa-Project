@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.JavaAttributeWizardPage,31
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.WorkspaceModelManager,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.build.BuildEntry,7
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.NewWizard,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildContentsSection,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildEditor,1

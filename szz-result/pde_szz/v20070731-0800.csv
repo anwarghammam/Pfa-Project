@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.PluginGeneralInfoSection,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDEModelUtility,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.tools.OrganizeManifest,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.tools.OrganizeManifestsAction,4
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.compare.PluginStructureCreator,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ExtensionsSection,3

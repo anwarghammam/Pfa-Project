@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportOperation,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,6
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.EditIUContainerPage,10
+org.eclipse.ui.views.log.src.org.eclipse.ui.internal.views.log.EventDetailsDialog,2

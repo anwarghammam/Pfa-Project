@@ -1,0 +1,9 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ClasspathHelper,17
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.build.BuildEditor,17
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.feature.FeatureEditorMatchingStrategy,17
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.ModelModification,17
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.util.PDEModelUtility,17
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.imports.PluginImportWizardExpressPage,17
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ICoreConstants,1

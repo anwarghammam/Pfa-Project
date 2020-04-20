@@ -1,0 +1,5 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.AddFeatureContainersPage,3
+org.eclipse.pde.core.src.org.eclipse.pde.core.build.IBuild,1
+org.eclipse.pde.core.src.org.eclipse.pde.core.build.IBuildModel,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.contentassist.display.BrowserInformationControl,1

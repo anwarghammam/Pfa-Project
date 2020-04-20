@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.BundleLauncherHelper,2
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.EclipsePluginValidationOperation,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.RequirementHelper,1
+org.eclipse.pde.launching.src.org.eclipse.pde.internal.launching.launcher.LaunchConfigurationHelper,1
+org.eclipse.pde.launching.src.org.eclipse.pde.launching.EquinoxLaunchConfiguration,1

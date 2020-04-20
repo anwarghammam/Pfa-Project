@@ -1,6 +1,7 @@
 ClassName,nbBugs
-org.eclipse.jetty.servlets.DoSFilter,3
-org.eclipse.jetty.servlets.DoSFilterTest,2
-org.eclipse.jetty.servlet.JspPropertyGroupServlet,1
+org.eclipse.jetty.servlets.DoSFilter,4
+org.eclipse.jetty.servlets.DoSFilterTest,3
+org.eclipse.jetty.servlet.JspPropertyGroupServlet,3
 org.eclipse.jetty.websocket.server.examples.MyCustomCreationServlet,1
-org.eclipse.jetty.spdy.client.SPDYClient,1
+org.eclipse.jetty.servlets.QoSFilter,1
+org.eclipse.jetty.proxy.ConnectHandler,2

@@ -1,0 +1,7 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.P2Utils,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.impl.AbstractBundleContainer,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.target.impl.ProfileBundleContainer,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.EditDirectoryContainerPage,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.EditFeatureContainerPage,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.shared.target.EditProfileContainerPage,2

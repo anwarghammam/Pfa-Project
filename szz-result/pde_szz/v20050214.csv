@@ -1,0 +1,6 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.ExternalModelManager,5
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PluginModelManager,8
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.BaseExportWizardPage,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDEState,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.Plugin,1

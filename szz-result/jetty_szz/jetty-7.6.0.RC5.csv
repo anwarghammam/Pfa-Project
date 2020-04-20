@@ -1,7 +1,5 @@
 ClassName,nbBugs
-org.eclipse.jetty.servlets.ProxyServletTest,2
-org.eclipse.jetty.http.HttpParser,2
-org.eclipse.jetty.server.HttpServerTestBase,1
+org.eclipse.jetty.http.HttpParser,9
 org.eclipse.jetty.security.ConstraintSecurityHandler,1
 org.eclipse.jetty.security.SecurityHandler,1
 org.eclipse.jetty.security.DataConstraintsTest,1

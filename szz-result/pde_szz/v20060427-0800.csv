@@ -1,0 +1,12 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.target.ContentSection,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BundleErrorReporter,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginExtensionPoint,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.schema.Schema,2
+org.eclipse.pde.core.text.org.eclipse.pde.internal.core.text.plugin.PluginExtensionPointNode,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.PDEUIMessages,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.BaseExportWizardPage,2
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.wizards.exports.ExportOptionsTab,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.exports.ProductExportOperation,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.builders.BuildErrorReporter,2
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.PDECoreMessages,1

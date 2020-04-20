@@ -1,0 +1,8 @@
+ClassName,nbBugs
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.PDESourcePage,3
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.BundleSourcePage,1
+org.eclipse.pde.ui.src.org.eclipse.pde.internal.ui.editor.plugin.ManifestSourcePage,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginAttribute,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginElement,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginExtension,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.plugin.PluginExtensionPoint,1

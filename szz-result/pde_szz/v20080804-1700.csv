@@ -1,0 +1,3 @@
+ClassName,nbBugs
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.P2Utils,1
+org.eclipse.pde.core.src.org.eclipse.pde.internal.core.build.BuildEntry,1
