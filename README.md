@@ -1,6 +1,6 @@
 # Pfa-Project
 
-## Project Selected
+## Projects Selected
 
 The approach proposed in this project was applied in the following projects: 
 
