@@ -1,0 +1,20 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests,AllPDETests,suite,5,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.imports,PluginImportTest,suite,3,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.imports,PluginImportTest,testImportBinary,8,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.imports,PluginImportTest,testImportBinaryWithLinks,8,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.imports,PluginImportTest,testImportWithSource,8,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.imports,PluginImportTest,importPlugin,13,1,2
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.imports,PluginImportTest,checkSourceAttached,9,4,1
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.imports,PluginImportTest,tearDown,11,2,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance,PDEPerformanceTests,suite,7,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,InitializeModelsPerfTest,suite,3,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,InitializeModelsPerfTest,testModels,9,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,InitializeModelsPerfTest,createState,5,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,InitializeModelsPerfTest,testCachedModels,9,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,InitializeModelsPerfTest,tearDown,3,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,InitializeModelsPerfTest,deleteContent,13,5,1
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,suite,3,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,testOpen,12,2,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,SchemaPerfTest,suite,3,1,0
+eclipse.pde.ui-20050414_perf30,org.eclipse.pde.ui.tests.performance.parts,SchemaPerfTest,testLoadAllSchemas,16,4,0

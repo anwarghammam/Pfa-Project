@@ -1,0 +1,428 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+eclipse.pde.ui-20050413,org.eclipse.pde.core,ModelChangedEvent,ModelChangedEvent,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,BinaryRepositoryProvider,moveFile,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,BinaryRepositoryProvider,moveFolder,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,BinaryRepositoryProvider,moveProject,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,BinaryMoveDeleteHook,moveFile,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,BinaryMoveDeleteHook,moveFolder,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,BinaryMoveDeleteHook,moveProject,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathComputer,setClasspath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathComputer,addSourceAndLibraries,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathHelper,getDevEntriesProperties,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathHelper,getDevEntriesProperties,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathHelper,getDevEntriesProperties,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathHelper,getDevEntriesProperties,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathHelper,getDevDictionary,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathHelper,getOutputFolders,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathHelper,getOutputFolders,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathUtilCore,createLibraryEntry,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathUtilCore,isBundle,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathUtilCore,isBundle,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathUtilCore,containsVariables,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathUtilCore,expandLibraryName,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ClasspathUtilCore,resolveLibraryInFragments,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,CoreUtility,getWritableString,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,CoreUtility,getWritableString,Missing default
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,EclipseHomeInitializer,resetEclipseHomeVariable,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExtensionsHandler,createExtension,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalFeatureModelManager,createModel,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalFeatureModelManager,createModel,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalModelManager,getCorrectPath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalModelManager,getCorrectPath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalModelManager,getCorrectPath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalModelManager,shutdown,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalModelManager,clearStaleStates,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ExternalModelManager,clearStaleStates,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureModelDelta,contains,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureModelDelta,contains,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureModelDelta,contains,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureModelManager,findFeatureModelRelaxed,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureModelManager,processEvent,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureModelManager,adjustExternalVisibility,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureTable,removeImpl,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureTable,toString,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,JavaElementChangeListener,ignoreDelta,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,JavaElementChangeListener,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,JavaElementChangeListener,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,JavaElementChangeListener,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,JavaElementChangeListener,synchronizeManifests,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ModelEntry,updateUnknownClasspathContainer,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ModelEntry,isAffected,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ModelEntry,getRequiredIds,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ModelEntry,getRequiredIds,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ModelEntry,getRequiredIds,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ModelEntry,getRequiredIds,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,ModelProviderEvent,ModelProviderEvent,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,NLResourceHelper,NLResourceHelper,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEClasspathContainer,addExternalPlugin,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEClasspathContainer,addExternalPlugin,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEClasspathContainer,resolveLibraryInFragments,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDECore,compare,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDECore,compare,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDECore,initializeDefaultPluginPreferences,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDECore,initializeModels,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDECore,acquirePlatform,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDECore,acquirePlatform,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEPluginConverter,convertToOSGIFormat,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEPluginConverter,convertToOSGIFormat,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,PDEState,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,savePluginInfo,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,savePluginInfo,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,savePluginInfo,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,saveExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,saveExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,logResolutionErrors,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,logResolutionErrors,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,addBundle,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,addBundle,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,addBundle,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,addBundle,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,addBundle,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,addBundle,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,addBundle,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,loadManifest,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,loadManifest,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,loadManifest,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,loadManifest,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEState,loadManifest,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,getDependentBundlesWithFragments,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,getDependentBundlesWithFragments,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,getClasspath,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,getImportedBundles,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,parseExtensions,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,parseExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,parseExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,parseExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,parseExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,parseExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PDEStateHelper,parseExtensions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,SiteEntry,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,computeFeaturesChangeStamp,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,computePluginsChangeStamp,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,computeStamp,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,FeatureEntry,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,FeatureEntry,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,Parser,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,Parser,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,getElement,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,load,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,load,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,createFeatureEntry,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,createFeatureEntry,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,findConfiguredSite,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,resetInitializationLocation,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,clearConfigurationLock,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,load,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,loadProperties,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,loadProperties,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,loadSite,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,loadSite,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,loadSite,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,loadFeatureEntry,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,loadFeatureEntry,Long Identifier
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,writeSite,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,writeSite,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,writeFeatureEntry,Long Identifier
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,writeFeatureEntry,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,writeFeatureEntry,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,escapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,resetUpdateManagerState,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PlatformConfiguration,resetUpdateManagerState,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SiteEntry,SiteEntry,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SiteEntry,computeFeaturesChangeStamp,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SiteEntry,computePluginsChangeStamp,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SiteEntry,computeStamp,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureEntry,FeatureEntry,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,FeatureEntry,FeatureEntry,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,Parser,Parser,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,Parser,Parser,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,Parser,getElement,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,Parser,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,Parser,load,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,Parser,load,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginModelManager,getTargetVersion,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginModelManager,handleModelsChanged,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginModelManager,updateTable,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginModelManager,updateTable,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginModelManager,updateAffectedEntries,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginModelManager,updateAffectedEntries,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,getSitePath,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,getPluginPaths,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,getPluginPaths,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,getPluginPaths,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,getFeaturePaths,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,getFeaturePaths,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,getExtensionPluginURLs,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,PluginPathFinder,scanLocations,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,computePluginEntries,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addDependency,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,getInclusions,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addImplicitDependencies,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addImplicitDependencies,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addImplicitDependencies,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addExtraClasspathEntries,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addExtraClasspathEntries,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addExtraClasspathEntries,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,RequiredPluginsClasspathContainer,addExtraClasspathEntries,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,initializeStates,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,initializeStates,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,persistStates,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,addUniqueEntries,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,addUniqueEntries,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,createProxyProject,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,createProxyProject,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,findPackageFragmentRoot,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SearchablePluginsManager,findPackageFragmentRoot,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SourceAttachmentManager,initialize,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SourceAttachmentManager,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,SourceAttachmentManager,save,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,getRelativePluginList,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,getRelativePluginList,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,getConfigIniProperties,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,createPlatformConfigurationArea,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,hasChanged,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,getTransientSitePath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,createFeatureEntries,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,loadPrimaryFeatureModel,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,loadPrimaryFeatureModel,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,getApplicationNames,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,getProductNameSet,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TargetPlatform,getTargetEnvironment,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,LocalSite,getRelativePluginList,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,LocalSite,getRelativePluginList,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TracingOptionsManager,isTraceable,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TracingOptionsManager,isTraceable,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TracingOptionsManager,isTraceable,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TracingOptionsManager,getOptions,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TracingOptionsManager,getOptions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TracingOptionsManager,getOptions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,TracingOptionsManager,getOptions,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,isJavaPluginProject,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,handleFileDelta,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,isSupportedFile,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,isBundleManifestFile,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,visit,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,loadModel,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,addWorkspaceModel,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,WorkspaceModelManager,processModelChanges,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,XMLDefaultHandler,startDocument,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,XMLPrintHandler,printNode,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,XMLPrintHandler,printNode,Missing default
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core,XMLPrintHandler,encode,Missing default
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.build,WorkspaceBuildModel,getContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.build,WorkspaceBuildModel,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundleModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,writeImports,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,writeImports,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,writeImports,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,writeImports,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,getLibraries,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,getImports,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,getImports,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,parseSingleValuedHeader,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,getAttribute,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginBase,isValid,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginModelBase,isDirty,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginModelBase,isDirty,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,BundlePluginModelBase,isDirty,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,WorkspaceBundleModel,getContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,WorkspaceBundleModel,getInstallLocation,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.bundle,WorkspaceBundleModel,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,AbstractFeatureModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,parse,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,computeImports,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,computeImports,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,setFeatureInfo,Missing default
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,restoreProperty,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,reset,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,hasRequiredAttributes,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,Feature,write,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureChild,parse,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureChild,restoreProperty,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureChild,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureData,exists,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureImport,parse,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureObject,getIntegerAttribute,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureObject,bindSourceLocation,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureURL,parse,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,FeatureURLElement,parse,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,WorkspaceFeatureModel,getContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,WorkspaceFeatureModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.feature,WorkspaceFeatureModel,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,AbstractExtensionsModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,AbstractPluginModelBase,getNLLookupLocations,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,AbstractPluginModelBase,addMatchingFragments,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,AbstractPluginModelBase,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,AbstractPluginModelBase,processSchemaVersion,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,AttributeChangedEvent,AttributeChangedEvent,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,Fragment,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,Plugin,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginBase,hasRequiredAttributes,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginBase,getMatchRule,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginElement,equals,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginExtension,equals,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginExtensionPoint,equals,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginExtensionPoint,equals,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginImport,load,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginImport,equals,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginImport,equals,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginObject,getTranslatedName,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,PluginObject,bindSourceLocation,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,WorkspaceExtensionsModel,getContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,WorkspaceExtensionsModel,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,WorkspacePluginModelBase,getContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,WorkspacePluginModelBase,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.plugin,WorkspacePluginModelBase,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,ConfigurationFileInfo,write,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,LauncherInfo,parse,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,Product,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,Product,parse,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,ProductModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,SplashInfo,write,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,WorkspaceProductModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,WorkspaceProductModel,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.product,WorkspaceProductModel,getContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,IncludedSchemaDescriptor,computeURL,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,IncludedSchemaDescriptor,getPluginRelativePath,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,IncludedSchemaDescriptor,getPluginRelativePath,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,findElement,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,processAttribute,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,processAttributeAnnotation,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,processCompositorChild,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,processCompositorChild,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,processElement,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,processElementAnnotation,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,Schema,processSchemaAnnotation,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaAttribute,write,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaAttribute,write,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaAttribute,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaCompositor,updateReferencesFor,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaCompositor,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaDescriptor,SchemaDescriptor,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaElement,calculateChildRepresentation,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaElement,write,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaElement,write,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaElement,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaElement,write,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaRegistry,getIncludedSchema,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaRegistry,getSchemaURL,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.schema,SchemaRegistry,getSchemaURL,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.search,PluginJavaSearchUtil,extractPackageFragments,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.search,PluginJavaSearchUtil,addLibraryPaths,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.search,PluginJavaSearchUtil,createSeachScope,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.search,PluginSearchOperation,findMatch,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,SiteDescription,write,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,SiteFeature,restoreProperty,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,SiteFeature,write,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,SiteObject,getIntegerAttribute,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,SiteObject,getWritableString,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,SiteObject,getWritableString,Missing default
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,SiteObject,bindSourceLocation,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,WorkspaceSiteModel,getContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,WorkspaceSiteModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,WorkspaceSiteModel,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.site,WorkspaceSiteModel,save,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,IdUtil,isValidPluginId,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,IdUtil,isValidPluginId,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,IdUtil,isValidExtensionPointId,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,createEscapedValue,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,writeKeyValuePair,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.core.util,PropertiesUtil,writeKeyValuePair,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommand,bindSourceLocation,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,load,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,processCommand,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,processCommand,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,addEvent,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,addEvent,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,isFocusCommand,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,createCommand,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,createCommand,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,createSelectionCommand,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,createSelectionCommand,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,createSelectionCommand,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,createSelectionCommand,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,playback,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,playInGUIThread,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroCommandShell,playInGUIThread,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroInstruction,bindSourceLocation,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroManager,play,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroManager,createMacroDocument,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroManager,onEvent,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroManager,onEvent,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroManager,loadWidgetResolvers,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,getWidgetIdentifier,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,getControlIdentifier,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,computeControlToken,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,getWritableText,Missing default
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateCommandTarget,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateCommandTarget,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateMenuItem,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateLocalToolItem,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateEditorControl,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateEditorControl,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateVisibleChild,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,locateVisibleChild,Long Parameter List
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,generatePossibleKeyStrokes,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,MacroUtil,generatePossibleKeyStrokes,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,WaitCommand,playback,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,WaitCommand,playback,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,XMLDefaultHandler,startDocument,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,DefaultWidgetResolver,getUniqueId,Complex Method
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,IndexPage,IndexPage,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,IndexPage,createControl,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,NewMacroWizard,getInitialContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,NewMacroPage,getInitialContents,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,RecordBlock,stopRecording,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,RecordBlock,stopRecording,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,RecordBlock,insertIndex,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.internal.ui.tests.macro,RecordBlock,insertIndex,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests,PDETestCase,playScript,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests,PDETestCase,playScript,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests,PDETestCase,tearDown,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.imports,ImportAsBinaryTestCase,checkSourceAttached,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.imports,ImportAsBinaryTestCase,checkSourceAttached,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.imports,ImportAsSourceTestCase,checkSourceAttached,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.imports,ImportFeatureTestCase,verifyProject,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.imports,ImportFeatureTestCase,verifyProject,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.imports,ImportWithLinksTestCase,checkSourceAttached,Complex Conditional
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.imports,ImportWithLinksTestCase,checkSourceAttached,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,testOpen,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards,NewSiteProjectTest,setUp,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards,NewSiteProjectTest,tearDown,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards,NewSiteProjectTest,createSite,Long Statement
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards,NewSiteProjectTest,ensureCreated,Empty catch clause
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.feature,SimpleFeatureTestCase,verifyBuildProperties,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.feature,SimpleFeatureTestCase,verifyBuildProperties,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,BasicJavaPluginTestCase,verifyClasspath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,BasicJavaPluginTestCase,verifyClasspath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,BasicJavaPluginTestCase,verifyBuildProperties,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,BasicJavaPluginTestCase,verifyBuildProperties,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,LibraryPluginTestCase,verifyClasspath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,LibraryPluginTestCase,verifyClasspath,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,LibraryPluginTestCase,verifyBuildProperties,Magic Number
+eclipse.pde.ui-20050413,org.eclipse.pde.ui.tests.wizards.plugin,NewProjectTest,hasNature,Empty catch clause

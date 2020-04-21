@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+eclipse.pde.ui-20050402_perf301,org.eclipse.pde.ui.tests.imports,PluginImportTest,checkSourceAttached,Long Statement
+eclipse.pde.ui-20050402_perf301,org.eclipse.pde.ui.tests.imports,PluginImportTest,tearDown,Empty catch clause
+eclipse.pde.ui-20050402_perf301,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,testOpen,Magic Number

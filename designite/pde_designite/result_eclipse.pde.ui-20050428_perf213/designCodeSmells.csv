@@ -1,0 +1,3 @@
+Project Name,Package Name,Type Name,Code Smell
+eclipse.pde.ui-20050428_perf213,org.eclipse.pde.ui.tests,AllPDETests,Unutilized Abstraction
+eclipse.pde.ui-20050428_perf213,org.eclipse.pde.ui.tests.performance,PDEPerformanceTests,Unutilized Abstraction
