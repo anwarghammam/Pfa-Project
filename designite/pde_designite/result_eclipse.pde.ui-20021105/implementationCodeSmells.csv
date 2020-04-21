@@ -1,0 +1,1017 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,BuildPathUtilCore,setBuildPath,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,BuildPathUtilCore,resolveLibraryInFragments,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,BuildPathUtilCore,addFragments,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,BuildPathUtilCore,addJRE,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,CoreSorter,quickSort,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ExternalModelManager,getPluginPaths,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ExternalModelManager,processPluginDirectories,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ExternalModelManager,initializePlatformPath,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ExternalModelManager,getCorrectPath,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ExternalModelManager,getCorrectPath,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ExternalModelManager,getCorrectPath,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ModelEntry,isRequired,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,ModelProviderEvent,ModelProviderEvent,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,NLResourceHelper,NLResourceHelper,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PDECore,compare,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PDECore,compare,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PDECore,getResourceString,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PDECore,loadSettings,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginModelManager,handleModelsChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginModelManager,updateTable,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginModelManager,updateTable,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginModelManager,updateAffectedEntries,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,addToClasspathEntries,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,addToClasspathEntries,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,getFragmentEntry,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,createLibraryEntry,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,createLibraryEntry,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,createLibraryEntryFromFragment,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,createLibraryEntryFromFragment,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,getSourceAnnotation,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,isAlreadyPresent,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,isAlreadyPresent,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,PluginPathUpdater,expandLibraryName,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SearchablePluginsManager,initializeStates,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SearchablePluginsManager,initializeStates,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SearchablePluginsManager,persistStates,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SearchablePluginsManager,createProxyProject,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SearchablePluginsManager,findPackageFragmentRoot,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SourceDOMParser,startElement,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SourceDOMParser,startElement,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SourceDOMParser,endElement,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SourceLocationManager,initializeExtensionLocations,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,SourceLocationManager,reinitializeClasspathVariables,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,TracingOptionsManager,getOptions,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,TracingOptionsManager,openInputStream,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,TracingOptionsManager,openInputStream,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,WorkspaceModelManager,handleFileDelta,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,WorkspaceModelManager,initializeWorkspacePluginModels,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,WorkspaceModelManager,isSupportedFile,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,WorkspaceModelManager,loadWorkspaceModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,WorkspaceModelManager,loadFeatureModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,WorkspaceModelManager,resourceChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core,WorkspaceResourceHelper,resourceChanged,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,createEscapedValue,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,BuildEntry,write,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,WorkspaceBuildModel,getContents,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.build,WorkspaceBuildModel,save,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,AbstractFeatureModel,load,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,Feature,parse,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,Feature,computeImports,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,Feature,setFeatureInfo,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,Feature,restoreProperty,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,Feature,reset,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,Feature,write,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,Feature,write,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureData,exists,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureInfo,parse,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureInstallHandler,parse,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureObject,getIntegerAttribute,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureObject,getWritableString,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureObject,getWritableString,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureURL,parse,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,FeatureURLElement,parse,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,WorkspaceFeatureModel,getContents,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,WorkspaceFeatureModel,load,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.feature,WorkspaceFeatureModel,save,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,AbstractPluginModelBase,addMatchingFragments,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,ExternalPluginModelBase,getLocalFile,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,Fragment,write,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,Plugin,write,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,PluginObject,getTranslatedName,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,PluginObject,getWritableString,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,PluginObject,bindSourceLocation,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,WorkspacePluginModelBase,getContents,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,WorkspacePluginModelBase,load,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.plugin,WorkspacePluginModelBase,save,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,ExternalSchemaDescriptor,getInstallURL,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,ExternalSchemaDescriptor,getSchemaURL,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,FileSchemaDescriptor,getSchemaURL,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,MappedSchemaDescriptor,getSchemaURL,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,load,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,processAttribute,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,processAttributeAnnotation,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,processCompositorChild,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,processCompositorChild,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,processElement,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,processElementAnnotation,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,Schema,processSchemaAnnotation,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaAttribute,write,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaAttribute,write,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaCompositor,write,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaElement,calculateChildRepresentation,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaElement,write,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaElement,write,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaObject,getWritableDescription,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaRegistry,modelsChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.schema,SchemaRegistry,visit,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.search,PluginSearchOperation,findMatch,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.search,PluginSearchOperation,findMatch,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.search,PluginSearchOperation,findExtensionPointDeclarations,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,find,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,match,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,match,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,parseWildCards,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,parseWildCards,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,parseWildCards,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,parseWildCards,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,regExpRegionMatches,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.core.util,StringMatcher,regExpRegionMatches,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawBottomLeft,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawBottomRight,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawTopLeft,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,OverlayIcon,drawTopRight,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime,PDERuntimePlugin,getResourceString,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LineReader,readLine,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LineReader,close,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LineReader,readLines,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntry,processLogLine,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntry,processLogLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntry,processLogLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntry,processLogLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntry,processLogLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntry,processLogLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntryPropertyPage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntryPropertyPage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntryPropertyPage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntryPropertyPage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntryPropertyPage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntryPropertyPage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogEntryPropertyPage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogReader,load,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogReader,load,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogReader,load,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogReader,parse,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogReader,parse,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogReader,parse,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogSession,createSessionData,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogSession,createSessionData,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogViewLabelProvider,getColumnText,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogViewLabelProvider,getColumnText,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.logview,LogViewLabelProvider,getColumnText,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,PrerequisitePropertySource,getPropertyValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,createPluginFolders,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,createPluginFolders,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,createPluginFolders,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,getChildren,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryBrowserLabelProvider,RegistryBrowserLabelProvider,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryBrowserLabelProvider,getImage,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryBrowserLabelProvider,getText,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.runtime.registry,RegistryPropertySourceFactory,getPropertySource,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDELabelProvider,getText,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDELabelProvider,getObjectText,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDELabelProvider,getImage,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDELabelProvider,getModelFlags,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDEPerspective,createInitialLayout,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDEPerspective,createInitialLayout,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDEPerspective,createInitialLayout,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDEPerspective,createInitialLayout,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDEPlugin,getResourceString,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui,PDEPluginImages,getImageDescriptorFromPlugin,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,addRequiredMethodsFor,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,calculateReturnValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,calculateReturnValue,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,findMatchingMethod,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,findRequiredMethods,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,findRequiredMethods,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,generateContents,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,parseSignature,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,parseSignature,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,AttributeClassCodeGenerator,getFullyQualifiedName,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.codegen,JavaCodeGenerator,generate,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,DefaultPageDialog,DefaultPageDialog,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,FormOutlinePage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEEditorContributor,setActivePage,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,PDEFormPage,Abstract Function Call From Constructor
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,isWhiteBackground,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,isWhiteBackground,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,isWhiteBackground,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,getContentOutlinePage,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,getContentOutlinePage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,getPropertySheetPage,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEFormPage,getPropertySheetPage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageEditor,PDEMultiPageEditor,Abstract Function Call From Constructor
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageEditor,doSave,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageEditor,init,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageEditor,copyToClipboard,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageEditor,copyToClipboard,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,setDocumentContent,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,setDocumentContent,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,doSaveDocument,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,doSaveDocument,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,doSaveDocument,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,doSaveDocument,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,doSaveDocument,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,PDEMultiPageXMLEditor,createDocumentPartitioner,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,UTF8FileDocumentProvider,setDocumentContent,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,UTF8FileDocumentProvider,setDocumentContent,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,UTF8FileDocumentProvider,doSaveDocument,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,UTF8FileDocumentProvider,doSaveDocument,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,UTF8FileDocumentProvider,doSaveDocument,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,UTF8FileDocumentProvider,doSaveDocument,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,UTF8FileDocumentProvider,doSaveDocument,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,StructuredViewerSection,StructuredViewerSection,Abstract Function Call From Constructor
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,StructuredViewerSection,StructuredViewerSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,StructuredViewerSection,StructuredViewerSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,StructuredViewerSection,createClientContainer,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,SubActionBars,setGlobalActionHandler,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,XMLConfiguration,getPresentationReconciler,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,XMLDoubleClickStrategy,selectComment,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,XMLDoubleClickStrategy,selectComment,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,XMLDoubleClickStrategy,selectComment,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor,XMLDoubleClickStrategy,selectWord,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,BuildForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,BuildForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,BuildForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,BuildPropertiesEditor,createResourceModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,BuildPropertiesEditor,isModelDirty,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,BuildPropertiesEditor,updateModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,TokenSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,TokenSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSelectionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSelectionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.build,VariableSelectionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,AdvancedForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,AdvancedForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,AdvancedForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,AdvancedForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,DataSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,DataSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,DataSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,EditorBuildFeatureAction,ensureContentSaved,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureEditor,createPages,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureEditor,createStorageModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureEditor,isModelDirty,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureEditor,updateModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,getParentPage,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,getParentPage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,getInfos,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,modelChanged,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,modelChanged,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,modelChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,modelChanged,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureOutlinePage,modelChanged,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Long Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureSpecSection,warnBadVersionFormat,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,FeatureUndoManager,FeatureUndoManager,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,HandlerSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,HandlerSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,HandlerSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,IncludeFeaturesWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,IncludeFeaturesWizardPage,createPluginList,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,IncludedFeaturesSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,IncludedFeaturesSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,IncludedFeaturesSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,InfoSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,InfoSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,createText,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,updateInfoText,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,updateInfoText,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,initializeSectionCombo,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,updateEditorInput,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,InfoSection,updateEditorInput,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,OpenReferenceAction,run,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PluginSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PluginSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PluginSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilityChoiceDescriptor,isCompatibleWith,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilityChoicesDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilityChoicesDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilityChoicesDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilityChoicesDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilitySection,createClient,Long Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilitySection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilitySection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilitySection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PortabilitySection,limitTextWidth,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,PreviewAction,ensureContentSaved,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferenceForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferenceForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferenceForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferenceForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferencePropertySource,getPropertyValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferencePropertySource,setPropertyValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferenceWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,ReferenceWizardPage,createPluginList,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,RequiresSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,RequiresSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,RequiresSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,RequiresSection,modelChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,SynchronizeVersionsAction,ensureContentSaved,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,SynchronizeVersionsAction,ensureEditorsClosed,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,SynchronizeVersionsWizardPage,findWorkspaceModelBase,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,SynchronizeVersionsWizardPage,forceVersion,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,SynchronizeVersionsWizardPage,forceVersion,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,SynchronizeVersionsWizardPage,synchronizeVersion,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,URLElementPropertySource,setPropertyValue,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,URLSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,URLSection,handleNewURL,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.feature,URLSection,canPaste,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,AlertSection,checkMarkers,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,AlertSection,createAlerts,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,AlertSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,BodyTextSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,BodyTextSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,BodyTextSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DependenciesForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DependenciesForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DependenciesForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,getChildren,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,DetailChildrenSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,updateUpDownButtons,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,updateUpDownButtons,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,initialize,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,initialize,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailChildrenSection,modelChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ContentProvider,getChildren,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,fillContextMenu,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,run,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionPointSection,modelChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,DetailExtensionSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,fillContextMenu,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,fillContextMenu,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,fillContextMenu,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,run,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,initialize,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,initialize,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,modelChanged,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,modelChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,modelChanged,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,resolveObjectName,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,updateUpDownButtons,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,updateUpDownButtons,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,DetailExtensionSection,updateUpDownButtons,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LocalToolBar,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExportSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExportSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExportSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExportSection,createNameTable,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionElementPropertySource,canGenerate,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionElementPropertySource,getPropertyValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionPointForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionPointForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionPointForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionPointPropertySource,isOpenable,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionPointSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionPointSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionPointSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionsForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionsForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionsPropertySheet,createNewAttField,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ExtensionsPropertySheet,handleEnter,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportListSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportListSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportListSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportListSection,handleNew,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportListSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportListSection,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportStatusSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportStatusSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ImportStatusSection,viewChanged,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JarsSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JarsSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JarsSection,handleNew,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JarsSection,handleNew,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JarsSection,verifyFolderExists,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeCellEditor,openDialogBox,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeCellEditor,openDialogBox,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeDescriptor,isCompatibleWith,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createGeneratePage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createGeneratePage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createGeneratePage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createSearchPage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,createSearchPage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,generateClass,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,handleFindContainer,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,JavaAttributeWizardPage,handleFindType,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,LibrarySection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,initialize,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,initialize,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,updateDirectionalButtons,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,LibrarySection,updateDirectionalButtons,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,createFileSystemModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,createStorageModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,createPages,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,createResourceModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,createResourceModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,isModelDirty,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,isValidContentType,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestEditor,updateModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestFormOutlinePage,getObjectLabel,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestFormOutlinePage,modelChanged,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestFormOutlinePage,modelChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ManifestFormOutlinePage,modelChanged,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,commitChanges,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,createClient,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,update,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,MatchSection,update,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,NewDependencyWizardPage,createPluginList,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,NewDependencyWizardPage,createPluginList,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginAdapterFactory,getExtensionPointProperties,Long Identifier
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginSpecSection,createClient,Long Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginSpecSection,createClient,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginUndoManager,PluginUndoManager,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginUndoManager,getPageId,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginUndoManager,getPageId,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PluginUndoManager,execute,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PointUsageSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,PointUsageSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RequiresSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RequiresSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RequiresSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ResourceAttributeCellEditor,openDialogBox,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,ResourceAttributeDescriptor,isCompatibleWith,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RuntimeForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RuntimeForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RuntimeForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RuntimeForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RuntimeSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RuntimeSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,RuntimeSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,TemplateForm,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,TemplateForm,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,TemplateForm,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,TemplateForm,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,TemplateForm,deleteTemplateFile,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.manifest,TemplateForm,expandSourceFolders,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,AttributePropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,AttributePropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,AttributePropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,AttributePropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,AttributePropertySource,getPropertyValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,AttributePropertySource,setPropertyValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,CompositorPropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,CompositorPropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DescriptionSection,DescriptionSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DescriptionSection,checkForPendingChanges,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DescriptionSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DescriptionSection,updateDocument,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,DocSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,DocSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,DocSection,updateEditorInput,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,ElementPropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,ElementSection,ElementSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,ElementSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,ElementSection,createTree,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,EnumerationRestrictionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,EnumerationRestrictionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,EnumerationRestrictionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,EnumerationRestrictionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,GrammarSection,createTree,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,GrammarSection,fillContextMenu,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,GrammarSection,modelChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaAdapterFactory,getProperties,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaDoubleClickStrategy,matchComment,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaDoubleClickStrategy,matchWord,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaEditor,updateModel,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaForm,createFormClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaFormOutlinePage,getObjectLabel,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaFormOutlinePage,getParentPage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaFormOutlinePage,modelChanged,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,SchemaSpecSection,createClient,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,TypeRestrictionCellEditor,openDialogBox,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,TypeRestrictionCellEditor,openDialogBox,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,TypeRestrictionDescriptor,isCompatibleWith,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,TypeRestrictionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,TypeRestrictionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.schema,TypeRestrictionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,NonRuleBasedDamagerRepairer,getDamageRegion,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,NonRuleBasedDamagerRepairer,addRange,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,createMultiLine,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,createMultiLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isParagraph,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isParagraph,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreEnd,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreEnd,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreEnd,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreEnd,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreEnd,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreEnd,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreStart,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreStart,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreStart,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.editor.text,TextUtil,isPreStart,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,BuildFeatureAction,run,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,BuildFeatureAction,doBuildFeature,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,BuildPluginAction,run,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,BuildPluginAction,doBuildPlugin,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,FeatureSpecPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,FeatureSpecPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,FeatureSpecPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,NewFeatureProjectWizard,createFeatureProject,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,NewFeatureProjectWizard,createFeatureProject,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,NewFeatureProjectWizard,createFeatureProject,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,NewFeatureProjectWizard,createFeatureProject,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,NewFeatureProjectWizard,createFeatureProject,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,PluginListPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,PluginListPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.feature,PluginListPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,AbstractLauncherTab,updateStatus,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,AdvancedLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,AdvancedLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,AdvancedLauncherTab,createPluginList,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,AdvancedLauncherTab,showPluginPaths,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,AdvancedLauncherTab,showPluginPaths,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,initializeFrom,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,doRestoreDefaults,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,BasicLauncherTab,performApply,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,PluginPathDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,PluginPathDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,PluginPathDialog,controlResized,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,TracingLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,TracingLauncherTab,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,TracingLauncherTab,createPluginList,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,launch,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,getPluginsFromConfiguration,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,doLaunch,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,getBuildOutputFolders,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,getBuildOutputFolders,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,continueRunning,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,continueRunning,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,continueRunning,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,run,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,run,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,constructClasspath,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLaunchConfigurationDelegate,constructClasspath,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLauncherTabGroup,createTabs,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLauncherTabGroup,createTabs,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLauncherTabGroup,createTabs,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLauncherTabGroup,createTabs,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.launcher,WorkbenchLauncherTabGroup,createTabs,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.parts,FormBrowser,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.parts,FormBrowser,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.parts,SharedPartWithButtons,setButtonEnabled,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.parts,WizardCheckboxTablePart,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.parts,WizardCheckboxTablePart,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,BuildpathPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,BuildpathPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,BuildpathPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,BuildpathPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,BuildpathPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ComboFieldEditor,getNumberOfControls,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,createFieldEditors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,createFieldEditors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,addSourceColorFields,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,addSourceColorFields,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,addSourceColorFields,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,addSourceColorFields,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,EditorPreferencePage,addSourceColorFields,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,ExternalPluginsBlock,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,ExternalPluginsBlock,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,ExternalPluginsBlock,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,handleReload,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,ExternalPluginsBlock,initialize,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TablePart,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,MainPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,MainPreferencePage,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourceLocationDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourceLocationDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,selectionChanged,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,SourcePreferencePage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,SourcePreferencePage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,handleAdd,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,handleAdd,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,handleDelete,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,configureColumns,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,configureColumns,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,configureColumns,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,SourcePreferencePage,configureColumns,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,LocationPart,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,LocationPart,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,LocationPart,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,LocationPart,selectionChanged,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetEnvironmentPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,createContents,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.preferences,TargetPlatformPreferencePage,performOk,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,equals,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,createGroup,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,createPatternSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,createSettingsSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,createSettingsSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,createSettingsSection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,createSettingsSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,createSettingsSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,getSelectedItems,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,getWorkspaceScope,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,hookListeners,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,hookListeners,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,widgetSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,widgetSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,resetPage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,resetPage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,resetPage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,resetPage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchPage,saveQueryData,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,QueryData,equals,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchResultCollector,accept,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.search,PluginSearchResultCollector,searchStarted,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawBottomLeft,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawBottomRight,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawTopLeft,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,AbstractOverlayIcon,drawTopRight,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,ChoiceCellEditor,getLayoutData,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,SharedLabelProvider,createImage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,SharedLabelProvider,getImageFromURL,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,SharedLabelProvider,getImageFromURL,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.util,Sorter,quickSort,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,CopyToClipboardAction,doCopy,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,DependenciesView,createPartControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,FileAdapterPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,FileAdapterPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,FileAdapterPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,FileAdapterPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyDescriptors,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,ModelEntryPropertySource,getPropertyValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsContentProvider,getChildren,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsContentProvider,getChildren,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsContentProvider,hasChildren,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsContentProvider,hasChildren,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsContentProvider,modelsChanged,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsLabelProvider,getImage,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsLabelProvider,getImage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsView,makeActions,Long Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsView,makeActions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsView,fillContextMenu,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsView,handleImport,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsView,handleImport,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsView,handleJavaSearch,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.view,PluginsView,getLocalCopy,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,RequiredPluginsContainerPage,category,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,RequiredPluginsContainerPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,RequiredPluginsContainerPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,RequiredPluginsContainerPage,createRealEntries,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,EntrySorter,category,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,StatusWizardPage,setVisible,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardElement,expandDescription,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardElement,expandDescription,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardListSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardListSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardListSelectionPage,createTable,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardNode,getWizard,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardTreeSelectionPage,createControl,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardTreeSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardTreeSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardTreeSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards,WizardTreeSelectionPage,handleCategorySelection,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,BaseExtensionPointMainPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,BaseExtensionPointMainPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,BaseExtensionPointMainPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,BaseExtensionPointMainPage,generateSchemaFile,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,NewExtensionRegistryReader,createWizardElement,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,NewExtensionRegistryReader,insertUsingCategory,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,NewExtensionRegistryReader,moveElementToUncategorizedCategory,Long Identifier
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,NewExtensionRegistryReader,moveElementToUncategorizedCategory,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,NewExtensionWizard,addPages,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,PointSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,PointSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,PointSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,PointSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.extension,PointSelectionPage,createDescriptionIn,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,BinaryProjectDecorator,getExternalProjectProperty,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,PluginImportOperation,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,findFragmentsFor,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,run,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,createProject,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,createProject,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,createProject,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,createProject,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,createProject,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,createProject,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,importContent,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,importSource,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,importCrossFragmentSource,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,doExtractSource,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,doExtractSource,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,doExtractSource,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,doExtractSource,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,extractZipFile,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportOperation,extractResources,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizard,performFinish,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizard,performFinish,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizard,getImportOperation,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizard,ReplaceDialog,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizard,doQuery,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizard,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,ReplaceDialog,ReplaceDialog,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,ReplaceQuery,doQuery,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,ReplaceQuery,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,PluginImportWizardDetailedPage,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,initializeFields,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,getModels,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,buttonSelected,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,buttonSelected,Missing default
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,selectDependentPlugins,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardDetailedPage,addPluginAndDependent,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createTargetEnvironmentLabels,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createTargetEnvironmentLabels,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createTargetEnvironmentLabels,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createTargetEnvironmentLabels,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,createTargetLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,updateStatus,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,updateStatus,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,initializeFields,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,storeSettings,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,PluginImportWizardFirstPage,storeSettings,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,UpdateBuildpathWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,UpdateBuildpathWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,UpdateBuildpathWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,UpdateBuildpathWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,UpdateClasspathAction,run,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.imports,UpdateClasspathOperation,run,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ConvertedProjectsPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ConvertedProjectsPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ConvertedProjectsPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ConvertedProjectsPage,convertProjects,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,NewProjectWizard,addPages,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,NewProjectWizard,canFinish,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,NewProjectWizard,createWizardElement,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,OpenProjectWizardAction,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,OpenProjectWizardAction,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,PluginClassCodeGenerator,generateContents,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,PluginSelectionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,PluginSelectionDialog,createDialogArea,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,PluginSelectionDialog,createTree,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectCodeGeneratorsPage,ProjectCodeGeneratorsPage,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectCodeGeneratorsPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectCodeGeneratorsPage,runSimpleManifestOperation,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectCodeGeneratorsPage,runJavaSettingsOperation,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectStructurePage,addTopSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectStructurePage,addBottomSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectStructurePage,addBottomSection,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.project,ProjectStructurePage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,ControlStack,processLine,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,ControlStack,processLine,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,appendAttribute,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,browsePluginId,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,browsePluginId,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,createMatchCombo,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,generatePluginFile,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,DefaultCodeGenerationPage,setJavaSettings,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,EditorTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,browsePluginId,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,browsePluginId,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,run,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,addPluginSpecificControls,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,addPluginSpecificControls,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,addPluginSpecificControls,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,createMatchCombo,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,FirstTemplateWizardPage,getDependencies,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,HelloWorldTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,HelpTemplate,isOkToCreateFile,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,HelpTemplate,isOkToCreateFile,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,HelpTemplate,isOkToCreateFile,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,HelpTemplate,isOkToCreateFile,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,MultiPageEditorTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PerspectiveExtensionsTemplate,PerspectiveExtensionsTemplate,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PerspectiveExtensionsTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PerspectiveExtensionsTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PerspectiveExtensionsTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PopupMenuTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PopupMenuTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PopupMenuTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PopupMenuTemplate,updateModel,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PreprocessorParser,getValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PreprocessorParser,parse,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PreprocessorParser,getNextToken,Complex Conditional
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,PreprocessorParser,getNextToken,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,ExpressionNode,getValue,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,TemplateSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,TemplateSelectionPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,TemplateSelectionPage,initializeTable,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,TemplateSelectionPage,initializeTable,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,ViewTemplate,ViewTemplate,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,ViewTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.internal.ui.wizards.templates,ViewTemplate,createOptions,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractNewPluginTemplateWizard,computeTotalWork,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractNewPluginTemplateWizard,askToEnable,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractNewPluginTemplateWizard,saveTemplateFile,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractNewPluginTemplateWizard,saveTemplateFile,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractTemplateSection,getSourceFolder,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractTemplateSection,generateFiles,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractTemplateSection,generateFiles,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractTemplateSection,generateFiles,Long Statement
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractTemplateSection,copyFile,Empty catch clause
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractTemplateSection,getProcessedStream,Complex Method
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,AbstractTemplateSection,getProcessedStream,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,BaseOptionTemplateSection,addOption,Long Parameter List
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,ChoiceOption,createRadioButton,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,NewPluginTemplateWizard,NewPluginTemplateWizard,Abstract Function Call From Constructor
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,OptionTemplateWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,OptionTemplateWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,org.eclipse.pde.ui.templates,OptionTemplateWizardPage,createControl,Magic Number
+eclipse.pde.ui-20021105,$packageName$,NonRuleBasedDamagerRepairer,getDamageRegion,Empty catch clause
+eclipse.pde.ui-20021105,$packageName$,NonRuleBasedDamagerRepairer,addRange,Long Statement
+eclipse.pde.ui-20021105,$packageName$,XMLConfiguration,getPresentationReconciler,Long Statement
+eclipse.pde.ui-20021105,$packageName$,XMLDocumentProvider,createDocument,Long Statement
+eclipse.pde.ui-20021105,$packageName$,XMLDoubleClickStrategy,selectComment,Complex Method
+eclipse.pde.ui-20021105,$packageName$,XMLDoubleClickStrategy,selectComment,Empty catch clause
+eclipse.pde.ui-20021105,$packageName$,XMLDoubleClickStrategy,selectComment,Magic Number
+eclipse.pde.ui-20021105,$packageName$,XMLDoubleClickStrategy,selectWord,Empty catch clause
+eclipse.pde.ui-20021105,$packageName$,XMLPartitionScanner,XMLPartitionScanner,Magic Number
+eclipse.pde.ui-20021105,$packageName$,XMLScanner,XMLScanner,Magic Number
+eclipse.pde.ui-20021105,$packageName$,XMLTagScanner,XMLTagScanner,Magic Number
+eclipse.pde.ui-20021105,$packageName$,XMLTagScanner,XMLTagScanner,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$contributorClassName$,setActivePage,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$contributorClassName$,setActivePage,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$contributorClassName$,createActions,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$editorClassName$,createPage1,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$editorClassName$,createPage1,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$editorClassName$,pageChange,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$wizardClassName$,doFinish,Empty catch clause
+eclipse.pde.ui-20021105,$packageName$,$wizardClassName$,doFinish,Empty catch clause
+eclipse.pde.ui-20021105,$packageName$,$wizardClassName$,doFinish,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$wizardClassName$,run,Empty catch clause
+eclipse.pde.ui-20021105,$packageName$,$wizardClassName$,openContentStream,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$wizardPageClassName$,$wizardPageClassName$,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$wizardPageClassName$,createControl,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$wizardPageClassName$,createControl,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$wizardPageClassName$,initialize,Complex Conditional
+eclipse.pde.ui-20021105,$packageName$,$wizardPageClassName$,handleBrowse,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$pageClassName$,createFieldEditors,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$className$,createDefaultComposite,Magic Number
+eclipse.pde.ui-20021105,$packageName$,$className$,createPartControl,Complex Conditional
+eclipse.pde.ui-20021105,$packageName$,$className$,makeActions,Long Statement
+eclipse.pde.ui-20021105,$packageName$,$className$,makeActions,Long Statement
