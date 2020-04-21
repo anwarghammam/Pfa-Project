@@ -1,0 +1,31 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawBottomLeft,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawBottomRight,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawCompositeImage,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawTopLeft,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,OverlayIcon,drawTopRight,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime,PDERuntimePlugin,getResourceString,Empty catch clause
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,LogView,createPartControl,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,LogViewLabelProvider,getColumnText,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,LogViewLabelProvider,getColumnText,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,StatusPropertyPage,createContents,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,StatusPropertyPage,createContents,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,StatusPropertyPage,createContents,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,StatusPropertyPage,createContents,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,StatusPropertyPage,createContents,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.logview,StatusPropertyPage,createContents,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,PrerequisitePropertySource,getPropertyDescriptors,Long Statement
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,createPluginFolders,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,createPluginFolders,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,createPluginFolders,Magic Number
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryBrowserContentProvider,getChildren,Complex Method
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryBrowserLabelProvider,RegistryBrowserLabelProvider,Long Statement
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryBrowserLabelProvider,getImage,Complex Method
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryBrowserLabelProvider,getText,Complex Method
+eclipse.pde.ui-118,org.eclipse.pde.internal.runtime.registry,RegistryPropertySourceFactory,getPropertySource,Complex Method
