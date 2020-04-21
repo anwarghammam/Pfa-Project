@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests,AllPDETests,0,0,1,1,7,1,0,0,-1.0,0,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,0,0,8,5,69,12,0,0,-1.0,0,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance,PDEPerformanceTests,0,0,1,1,8,1,0,0,-1.0,0,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,0,0,2,2,20,3,0,0,-1.0,0,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance.parts,PluginsViewPerfTest,0,0,2,2,14,2,0,0,-1.0,0,0

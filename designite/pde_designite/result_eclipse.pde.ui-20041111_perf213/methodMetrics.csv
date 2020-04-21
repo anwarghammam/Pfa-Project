@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests,AllPDETests,suite,5,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,suite,3,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,testImportBinary,8,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,testImportBinaryWithLinks,8,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,testImportWithSource,8,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,importPlugin,20,1,3
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,doQuery,3,1,1
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,checkSourceAttached,9,4,1
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.imports,PluginImportTest,tearDown,11,2,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance,PDEPerformanceTests,suite,6,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,suite,3,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,testOpen,15,2,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance.parts,PluginsViewPerfTest,suite,3,1,0
+eclipse.pde.ui-20041111_perf213,org.eclipse.pde.ui.tests.performance.parts,PluginsViewPerfTest,testOpen,9,1,0

@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+eclipse.pde.ui-20041111_perf301,org.eclipse.pde.ui.tests,AllPDETests,Unutilized Abstraction
+eclipse.pde.ui-20041111_perf301,org.eclipse.pde.ui.tests.imports,PluginImportTest,Unutilized Abstraction
+eclipse.pde.ui-20041111_perf301,org.eclipse.pde.ui.tests.performance,PDEPerformanceTests,Unutilized Abstraction
+eclipse.pde.ui-20041111_perf301,org.eclipse.pde.ui.tests.performance.parts,OpenManifestEditorPerfTest,Unutilized Abstraction
+eclipse.pde.ui-20041111_perf301,org.eclipse.pde.ui.tests.performance.parts,PluginsViewPerfTest,Unutilized Abstraction
