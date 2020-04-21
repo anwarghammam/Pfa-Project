@@ -1,0 +1,1503 @@
+Project Name,Package Name,Type Name,Code Smell
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiTestingEnvironment,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AllDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MyDeltaVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,DeltaTestSetup,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,EnumDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MixedTypesDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,RestrictionsDeltaTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescription,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescription,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiProfileTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileContainerTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ComponentManifestTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ExportComponentTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,StubComponentTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TestSuiteHelper,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,ClassFileStubTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,DiscouragedAccessTests,Imperative Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,DiscouragedAccessTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchScopeTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests,AbstractApiTest,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests,AllTestSuite,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ImportOverwriteQuery,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,TestFieldData,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,AbstractApiEventWaiter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ChangeVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,SourceChangeVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,JavaModelEventWaiter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,PluginModelEventWaiter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,PluginModelEventWaiter,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,PreferencesTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ProjectCreationTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2TestClass4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2TestClass4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3TestClass4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3TestClass4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5a,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5a,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5b,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5b,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass6,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass6,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6a,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6a,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6b,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6b,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6c,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6c,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2TestClass7,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2TestClass7,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7a,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7a,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7a,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7a,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7b,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7b,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7b,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7b,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField3,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField5,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField5,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField5Outer,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField5Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField6,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField7,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField7,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField8,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField8,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestField9,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2a,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2a,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2b,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2b,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface3,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod10,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod11,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod12,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod13,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod14,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod15,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod16,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod17,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod18,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod18Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod19,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod19Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod20,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod20Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,Inner4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod5,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod5,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod5Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod6,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod7,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod8,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod9,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test10,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test11,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test12,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test13,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test13,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,classes,Super,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test3,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner3,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test3Outer,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test3Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test4Outer,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test4Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test5,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test5,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,ITest5,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,ITest5,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test6,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test6,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,classes,Test6Abstract,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test6Abstract,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test7,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test8,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test8Outer,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test8Outer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test9,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,classes,Test9,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass4,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass5,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass5,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass5,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,javadoc,Inner,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,javadoc,Inner2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner2,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass6,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,Inner2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass7,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass7,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass8,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,x,C1,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,x,C1,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,x,C2,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,x,C2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,x.y,C3,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,x.y.z,C4,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,x.y.z,C4,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,x.y.z,C5,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,x.y.z,C5,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),C,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),C,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),C,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),C,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),J,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,(default package),X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,(default package),X2,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,X,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Z,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,I,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,p,Y,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractApiComponent,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,Exporter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractClassFile,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractClassFileContainer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiPluginPreferenceInitializer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiSettingsXmlVisitor,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiSettingsXmlVisitor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ArchiveClassFile,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ArchiveClassFile,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CompositeApiDescription,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CompositeClassFileContainer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CompositeClassFileContainer,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CoreMessages,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ClassFile,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ClassFile,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,IApiCoreConstants,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,IApiCoreConstants,Broken Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,IApiXmlConstants,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,IApiXmlConstants,Broken Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PluginProjectApiComponent,Missing Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PluginProjectApiComponent,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,Unexploited Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,Missing Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PackageNode,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PackageNode,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,TypeNode,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,TypeNode,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ResourceClassFile,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ResourceClassFile,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SourceFolderClassFileContainer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SystemLibraryApiComponent,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SystemLibraryApiComponent,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiProblemReporter,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,CompatibilityResult,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ProblemDescriptor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,BuilderMessages,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileDescriptorBuilder,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,Delta,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ElementDescriptor,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,FieldDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,FieldDescriptor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MemberTypeDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MemberTypeDescriptor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MethodDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MethodDescriptor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDecoder,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeDescriptor,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeDescriptor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeParameterDescriptor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ArrayDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ArrayDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ElementDescriptorImpl,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,FieldDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,FieldDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,MemberDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,MemberDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,MethodDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,MethodDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,NamedElementDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,NamedElementDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,PackageDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,PackageDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,PrimitiveDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,PrimitiveDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ReferenceTypeDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ReferenceTypeDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ResourceDescriptorImpl,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ResourceDescriptorImpl,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.natures,ApiToolProjectNature,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblem,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblem,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFilter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,Factory,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,Factory,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiComponent,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiComponent,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiDescription,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiJavadocTag,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiMarkerConstants,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiMarkerConstants,Broken Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiMarkerConstants,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,RestrictionModifiers,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,VisibilityModifiers,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,CompatibleVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaVisitor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,IDelta,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,IDelta,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IArrayTypeDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IElementDescriptor,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IFieldDescriptor,Unnecessary Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IMemberDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IMethodDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IPackageDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IPrimitiveTypeDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IReferenceTypeDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IReferenceTypeDescriptor,Rebellious Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IResourceDescriptor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IResourceDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,ITypeDescriptor,Broken Hierarchy
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.problems,IApiProblem,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.problems,IApiProblemTypes,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.problems,IApiProblemTypes,Broken Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,DescriptionVisitor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ASTTagVisitor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ScannerMessages,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,ReferenceModifiers,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,ReferenceModifiers,Broken Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,ReferencesStubMethodAdapter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubMarkerAttribute,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,LineNumberMergerClassAdapter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,LineNumberMergerMethodAdapter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ApiSearchResult,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileSignatureVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,LabelInfo,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,MethodExtractor,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Reference,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ScopedClassFileContainer,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ProxyVisitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,PatternMatch,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,PotentialElementMatch,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Visitor,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchMessages,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,TypeScope,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,XMLFactory,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,Messages,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,ClassVisitorAdapter,Unutilized Abstraction
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,HashtableOfInt,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,Insufficient Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,BuildJob,Cyclic-Dependent Modularization
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,UtilMessages,Deficient Encapsulation
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,Unutilized Abstraction

@@ -1,0 +1,1390 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiBuilderTests,expectingOnlyProblemsFor,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiBuilderTests,expectingOnlyProblemsFor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiBuilderTests,expectingOnlyProblemsFor,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiBuilderTests,expectingOnlySpecificProblemsFor,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiBuilderTests,getAllTestClasses,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiProblem,ApiProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiTestingEnvironment,addProject,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiTestingEnvironment,addProject,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiTestingEnvironment,addProject,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiTestingEnvironment,getMarkersFor,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test1,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test2,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test6,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test7,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test8,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test9,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,test9,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test31,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test50,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test50,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test51,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test51,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test52,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test56,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test57,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test71,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test72,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test73,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test79,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test80,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,test97,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,DeltaTestSetup,deployBundle,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,DeltaTestSetup,collectLeaves,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,EnumDeltaTests,test2,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,EnumDeltaTests,test3,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,EnumDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test12,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test13,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test14,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test14,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test22,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test23,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test23,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test25,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test25,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test27,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,test36,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test8,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test8,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test8,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test9,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test16,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test17,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test20,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test22,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,test23,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test3,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test4,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test5,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test6,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test7,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test36,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test36,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test36,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test36,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test36,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test47,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test53,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,test54,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,RestrictionsDeltaTests,test1,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,buildManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,buildManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,buildManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,buildManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,buildManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,buildManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,buildManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRestoreFromXML,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testPersistRestoreXML,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,doVisitTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testVisitPackages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testVisitPackages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testVisitPackages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testVisitPackages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testVisitPackages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testVisitPackages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testRemoveMethodElementDescription,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,testDSpiPkg,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,assertFilterStore,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,_testAnnotateStoreFromLocalFile,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,testNonExistantProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,testRemoveFilter,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,testAddFilterFromFilter,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,testAddFilterFromProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,testImportJar,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiProfileTests,validateComponent,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiProfileTests,testXFriendsDirective,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiProfileTests,testXInternalDirective,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiProfileTests,testNotExported,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiProfileTests,testDependents,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileContainerTests,doTestPackageNames,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,findMemberReference,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,findMemberReference,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testCompileClassWorkspace,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testCompileClassWorkspace,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanEmptyGenericClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclArrayTypes,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclGenerics,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclGenerics,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclGenerics,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclGenerics,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclGenerics,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclGenerics,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodDeclGenerics,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanFieldDecl,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanLocalVariableArrays,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanConstantPoolAccess,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanConstantPoolAccess1_4,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,testScanMethodCalls,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ComponentManifestTests,testComponentManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ComponentManifestTests,testComponentManifest,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testMethodParamsEq,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testMethodParamsEq,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testMethodParamsNonEq,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testMethodParamsNonEq,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testMethodDiffParamsNonEq,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testMethodDiffParamsNonEq,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testMethodPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testArrayDimensionNonEq,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,testPrimitiveArrayTypeSignature,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ExportComponentTests,exportSDKTest,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,StubComponentTests,exportSDKTest,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testBug212276,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleInnerStaticTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleInnerStaticTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiNestedInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerTypeDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiTypeMultiInnerTypeDefatulPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleInnerInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testSingleInnerInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMultiInnerInterfaceDefaultPackage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldBaseClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldBaseClassInheritedNotSupported,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldAnonymousClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testFieldAnonymousClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodBaseClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodBaseClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodBaseClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodBaseClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodBaseClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodBaseClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodSingleParam,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodSingleParam,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodSingleParam,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodSinglePrimitiveParam,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodSinglePrimitiveParam,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodSinglePrimitiveParam,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMixedParams,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodPrimitiveArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodObjectArrayReturn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodStaticInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodMultiInnerClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodOuterClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodAnonymousClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodAnonymousClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritValidRestriction,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritValidRestriction,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritValidRestriction,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritValidRestriction,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritValidRestriction,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionInterface,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionInterface,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionInterface,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionInterface,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,testMethodInheritInvalidRestrictionInterface,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TestSuiteHelper,getEEDescriptionFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TestSuiteHelper,compile,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TestSuiteHelper,copy0,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testCreateProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testCreateProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,tesCreateUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,tesCreateUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testCreateSincetagProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testCreateSincetagProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testCreateVersionProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testCreateVersionProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetVersionMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetVersionMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetVersionMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetVersionMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetVersionMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetVersionMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetUsageMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetBinaryMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetBinaryMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetBinaryMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetSinceTagMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetSinceTagMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetSinceTagMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetSinceTagMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,testGetSinceTagMessages,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testProblemsEqual,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testProblemsEqual,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testProblemsNotEqual,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testProblemsNotEqual,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetCategory,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetId,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetId,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetKind,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetFlags,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetElementKind,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetResourcePath,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetMessage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetCharStart,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetCharStart,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetCharStart,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetCharEnd,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetCharEnd,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetCharEnd,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetLineNumber,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetLineNumber,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetLineNumber,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetExtraArgumentNamesNull,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetExtraArgumentValuesNull,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,tesGetExtraArgumentIdsNotNullValuesNull,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,tesGetExtraArgumentNamesNotNullIdsNull,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,tesGetExtraArgumentsNotSameSize,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,tesGetExtraArgumentsSameSize,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,tesGetExtraArgumentsSameSize,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,tesGetExtraArgumentsSameSize,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetMessageArgumentsNull,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetMessageArgumentsNotNull,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetMessageArgumentsNotNull,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testToString,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetSeverity,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetSeverity,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetHashCode,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetHashCode,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetHashCode,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetHashCode,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,testGetHashCode,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,ClassFileStubTests,testClassFileReader,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,ClassFileStubTests,visit,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,ClassFileStubTests,testClassFileStubReferences,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,ClassFileStubTests,testClassFileStubReferences,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,DiscouragedAccessTests,testDiscouragedAccess,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,DiscouragedAccessTests,testDiscouragedAccess,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForExtenders,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForExtenders,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForExtendersByName,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForExtendersByName,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForCallersByRegEx,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForCallersByRegEx,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForExtendersInPackageByName,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForExtendersInPackageByName,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForExtendersInPackageByName,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForMethodExtenders,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchForMethodExtenders,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalInstantiate,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalInstantiate,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalExtendsClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalExtendsClass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalImplementInterface,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalImplementInterface,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalImplementWithinComponent,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalImplementWithinComponent,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testIgnoreIllegalImplementWithinComponent,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testXMLReferences,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalMethodReference,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalMethodReference,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalMethodReference,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalFieldReference,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalFieldReference,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalFieldReference,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalInterfaceMethodReference,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,testSearchIllegalInterfaceMethodReference,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,addJavaFiles,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,importFilesFromDirectory,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,importFilesFromDirectory,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,importFileFromDirectory,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,importFileFromDirectory,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,delete,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,waitUntilResourceDeleted,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,waitUntilResourceDeleted,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,waitUntilResourceDeleted,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,waitUntilResourceDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,waitUntilResourceDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,waitUntilResourceDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,waitUntilResourceDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,writeToFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,getParentChildResource,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,copyFile,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,copyFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,copyFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,copyFile,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,entriesEqual,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,createManifest,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,createManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,createManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,createManifest,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,Util,getFreePort,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,Util,getFreePort,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,ChangeVisitor,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,visit,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,createTagChanges,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,processUpdatedItem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ChangeVisitor,ChangeVisitor,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ChangeVisitor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ChangeVisitor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ChangeVisitor,visit,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ChangeVisitor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,SourceChangeVisitor,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testGetAllProfiles,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateProjectCreation,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateProjectCreation,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateProjectClosed,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateProjectOpen,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceAdded,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceAdded,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceAdded,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceRemoved,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,updateTagInSource,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceTypeChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceTypeChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceTypeChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceInnerTypeChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceInnerTypeChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceInnerTypeChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceMethodChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceMethodChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceFieldChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceFieldChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceMethodRemoveTag,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceTypeRemoveTag,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceTypeRemoveTag,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateSourceFieldRemoveTag,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateLibraryAddedToClasspath,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateLibraryRemovedFromClasspath,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateDefaultOutputFolderChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateDefaultOutputFolderChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateDefaultOutputFolderChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateOutputFolderSrcFolderChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateOutputFolderSrcFolderChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUpdateOutputFolderSrcFolderChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,testWPUPdateExportPackageDirectiveChangedToInternal,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,SourceChangeVisitor,SourceChangeVisitor,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,PreferencesTests,testGetProjectSpecificValue,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,PreferencesTests,testGetDefaultProjectSpecificValue,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ProjectCreationTests,testImportClassesTestSource,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testConvertDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testGetFragmentNumber,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testGetFragmentNumber,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testGetFragmentNumber,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testGetFragmentNumber,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,testGetFragmentNumber,Magic Number
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod13,two,Long Parameter List
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod14,two,Long Parameter List
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod15,two,Long Parameter List
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod16,two,Long Parameter List
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod17,two,Long Parameter List
+eclipse.pde.ui-20080327-1300,classes,Test13A,getInteger,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractApiComponent,visit,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractApiComponent,visit,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,Exporter,visit,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,Exporter,visit,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractClassFileContainer,setClassFileContainers,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiAnnotations,toString,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiAnnotations,toString,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescription,toString,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescription,findNode,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescription,setRestrictions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescription,setVisibility,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ManifestNode,toString,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,clean,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,clean,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,saving,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreDescription,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreDescription,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreDescription,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreNode,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,persistApiFilters,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,runInWorkspace,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,removeFilters,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,loadIntegerAttribute,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,resourceChanged,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,resourceChanged,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,resourceChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,ApiJavadocTag,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,getTagComment,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,initializeElements,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,initializeElements,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,initializeElements,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,initializeElements,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,initializeElements,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,ApiProfile,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,addApiComponents,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,resolveSystemLibrary,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,resolveSystemLibrary,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,resolveSystemLibrary,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,resolvePackage,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,resolvePackage0,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,getEEProfile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,getEEProfile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,getProfileXML,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,getDependentComponents,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,getPrerequisiteComponents,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,getBundleDescription,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,vmChanged,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,restoreProfile,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,processJavaElementDeltas,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,processJavaElementDeltas,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,processJavaElementDeltas,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,resourceChanged,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiSettingsXmlVisitor,addVisibilityAttributes,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiSettingsXmlVisitor,visitElement,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,isValidBundle,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,initializeApiDescription,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,annotateExportedPackages,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,createClassFileContainers,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,getClasspathEntries,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,createClassFileContainer,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,createClassFileContainer,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,loadManifest,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,loadManifest,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,readManifest,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,readFileContents,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,loadApiDescription,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,loadApiDescription,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,getFileInBundle,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,getRequiredComponents,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,export,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,export,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,export,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,exportClassFileContainer,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,isSourceComponent,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,isSourceComponent,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ComponentManifest,initFromBundleManifest,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ComponentManifest,isOptional,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,DirectoryClassFileContainer,accept,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,DirectoryClassFileContainer,processDirectory,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PluginProjectApiComponent,createLocalApiDescription,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PluginProjectApiComponent,loadSourceTags,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PluginProjectApiComponent,createApiFilterStore,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PluginProjectApiComponent,createClassFileContainers,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,PackageNode,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,TypeNode,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,refresh,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,accept,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,createNode,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,newPackageNode,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,newTypeNode,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,getElementDescriptor,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,getLocalPackageFragments,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PackageNode,PackageNode,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,TypeNode,TypeNode,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,TypeNode,refresh,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SourceFolderClassFileContainer,accept,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SourceFolderClassFileContainer,getOutputLocation,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SourceFolderClassFileContainer,getOutputLocation,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,checkDefaultProfileSet,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,checkDefaultProfileSet,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,checkDefaultProfileSet,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,buildAll,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,buildAll,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,ignoreApiUsageScan,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,ignoreApiUsageScan,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,ignoreApiUsageScan,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,ignoreApiUsageScan,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,buildDeltas,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,buildDeltas,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,addDependentsOf,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,collectAffectedSourceFiles,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getRequiredProjects,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,findAffectedSourceFiles,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,checkApiComponentVersion,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,cleanupVersionNumberingMarker,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,cleanupVersionNumberingMarker,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,cleanupVersionNumberingMarker,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,cleanupVersionNumberingMarker,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,cleanupVersionNumberingMarker,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getMarkers,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getMarkers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getMarkers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getMarkers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getMarkers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getMarkers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createCompatibilityProblem,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createCompatibilityProblem,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createCompatibilityProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createCompatibilityProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,compareProfiles,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processSinceTags,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processSinceTags,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processSinceTags,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processSinceTags,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processSinceTags,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,processSinceTags,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createSinceTagProblem,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createSinceTagProblem,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createSinceTagProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createSinceTagProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createVersionProblem,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createVersionProblem,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createVersionProblem,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createVersionProblem,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createVersionProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createVersionProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createVersionProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiProblemReporter,createMarkerForProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiProblemReporter,isProblemFiltered,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiProblemReporter,isProblemFiltered,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,visitElement,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,add,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,buildSearchConditions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,buildSearchConditions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,buildSearchConditions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,buildSearchConditions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,buildSearchConditions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,addLeakCondition,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,analyzeCompatibility,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,analyzeCompatibility,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,analyzeCompatibility,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,analyzeCompatibility,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,findAllReferences,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,createUsageProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,visitElement,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,visitElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,add,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,SinceTagChecker,processJavadoc,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,isCheckedException,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,ClassFileComparator,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,ClassFileComparator,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperclass,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,collectAllInterfaces,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,collectAllInterfaces,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForFieldDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethodDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getSuperclassSet,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getSuperclassSet,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getSuperclassSet,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getSuperclassSet,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportFieldAddition,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportFieldAddition,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileDescriptorBuilder,visit,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileDescriptorBuilder,visitField,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileDescriptorBuilder,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,Delta,Delta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,Delta,Delta,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,Delta,add,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,Delta,print,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,FieldDescriptor,FieldDescriptor,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,FieldDescriptor,toString,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MethodDescriptor,MethodDescriptor,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MethodDescriptor,toString,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addInterfaceBound,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeArgument,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeParameterDescriptor,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeParameterDescriptor,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeParameterDescriptor,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,getTypeParameterDescriptors,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,getTypeParameterDescriptors,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,getTypeArguments,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,setClassBound,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,toString,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeDescriptor,initialize,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeDescriptor,toString,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,MethodDescriptorImpl,equals,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ReferenceTypeDescriptorImpl,isAnonymous,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblem,ApiProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProblem,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiUsageProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiUsageProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProfileProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiSinceTagProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiVersionNumberProblem,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getLocalizedMessage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,loadMessageTemplates,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,loadMessageTemplates,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,loadMessageTemplates,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,createProblemId,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemSeverityId,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemKindFromPref,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,getSeverityLevel,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,configurePluginDebugOptions,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,configurePluginDebugOptions,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,main,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,configure,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,configure,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,process,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,process,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,process,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,process,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,process,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isCompatible0,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isAnnotationCompatible,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isMethodCompatible,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isFieldCompatible,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isFieldCompatible,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isConstructorCompatible,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isEnumCompatible,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isClassCompatible,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isInterfaceCompatible,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,visitElement,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,getStatus,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,collectMissingTags,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,findDescriptorByName,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,serializeComponentXml,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,serializeComponentXml,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,processTagUpdates,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,processTagUpdates,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,annotateDescriptor,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,annotateDescriptor,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,getRestrictions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,DescriptionVisitor,visitElement,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,DescriptionVisitor,getStatus,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ASTTagVisitor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ASTTagVisitor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ASTTagVisitor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ASTTagVisitor,collectMissingTags,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ASTTagVisitor,findDescriptorByName,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,visit,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,resolveMethod,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,resolveMethod,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,resolveMethod,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,getMethodMapping,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,scan,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,scan,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,scan,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,visit,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,visit,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,resolveMethod,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,resolveMethod,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,resolveMethod,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,getMethodMapping,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visit,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitField,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitMethod,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitInnerClass,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitInnerClass,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,ReferencesStubMethodAdapter,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitFrame,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitEnd,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,read,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,write,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,writeZipFileEntry,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,configure,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,configure,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,process,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,process,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,accept,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,printUsage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,processSingleEntry,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,processSingleEntry,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,processSingleEntry,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,processSingleEntry,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,processSingleEntry,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,processArchiveEntry,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubClassAdapter,visit,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubClassAdapter,visitField,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubClassAdapter,visitMethod,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubClassAdapter,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubClassAdapter,visitInnerClass,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubClassAdapter,visitInnerClass,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,ReferencesStubMethodAdapter,ReferencesStubMethodAdapter,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,ReferencesStubMethodAdapter,visitFrame,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,ReferencesStubMethodAdapter,visitEnd,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubMarkerAttribute,read,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubMarkerAttribute,write,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,LineNumberMergerClassAdapter,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileScanner,scan,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,processType,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitBaseType,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitBaseType,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitFieldInsn,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitFieldInsn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitFieldInsn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitMethodInsn,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitLocalVariable,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitLocalVariable,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitLocalVariable,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,computeLineNumbers,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,consider,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,consider,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visit,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visit,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitField,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitMethod,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileSignatureVisitor,processType,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileSignatureVisitor,visitBaseType,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileSignatureVisitor,visitBaseType,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,visitFieldInsn,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,visitFieldInsn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,visitFieldInsn,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,visitMethodInsn,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,visitLocalVariable,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,visitLocalVariable,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,visitLocalVariable,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,LinePositionTracker,computeLineNumbers,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,MethodExtractor,visit,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,MethodExtractor,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Reference,resolve,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Reference,resolveVirtualMethod,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Reference,resolveVirtualMethod,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Reference,resolveVirtualMethod,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Reference,equals,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,matches,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,addReferencedElementRestriction,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,isPotentialMatch,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,matchesSourceApiRestrictions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,matchesSourceApiRestrictions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,matchesSourceApiRestrictions,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,PatternMatch,matches,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,resolveReferences,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,resolveReferences,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,resolveReferences,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,resolveReferences,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,resolveReferences,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,search,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,search,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchScope,createClassFileContainers,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,XMLFactory,serializeElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,XMLFactory,serializeElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,XMLFactory,serializeLocation,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,XMLFactory,serializeLocation,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,ApiExtractorAdapter,visit,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,ApiExtractorAdapter,visitInnerClass,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,ApiExtractorAdapter,visitField,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,ApiExtractorAdapter,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,JREApiCollector,configure,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,JREApiCollector,configure,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,JREApiCollector,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,JREApiCollector,configure,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,JREApiCollector,printUsage,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,JREApiCollector,run,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,ClassVisitorAdapter,visit,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,ClassVisitorAdapter,visitField,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,ClassVisitorAdapter,visitMethod,Long Parameter List
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,HashtableOfInt,HashtableOfInt,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,HashtableOfInt,HashtableOfInt,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,HashtableOfInt,rehash,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,HashtableOfInt,toString,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,main,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,main,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,main,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,main,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,main,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,processDirectoryEntry,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,processDirectoryEntry,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,processJarFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,processJarFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,getComponentXmlIndex,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SourceDefaultHandler,startElement,Long Identifier
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SourceDefaultHandler,startElement,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,dequalifySignature,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,dequalifySignature,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getApiProjects,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,copy,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getClassFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getComponent,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getSeverity,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getDeltaElementType,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getDeltaFlagsName,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getDeltaFlagsName,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getDetail,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getDetail,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getDetail,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getFragmentNumber,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getFragmentNumber,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getIMember,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getIMember,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Missing default
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getProblemFlagsName,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getDescriptorKind,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getReferenceKind,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getReferenceKind,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,saveFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,unzip,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,unzip,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,unzip,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getEEDescriptionFile,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getJavaClassLibs,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,getJavaClassLibs,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,toNativePath,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,matches,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,matches,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Empty catch clause
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Long Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Long Statement
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,CompareProfilesTask,execute,Complex Conditional
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,CompareProfilesTask,execute,Complex Method
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,CompareProfilesTask,execute,Empty catch clause

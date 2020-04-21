@@ -1,0 +1,954 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiBuilderTests,1,0,23,2,299,56,0,0,0.2608695652173913,1,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiProblem,1,0,3,3,36,3,0,0,0.0,1,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.builder.tests,ApiTestingEnvironment,0,0,12,6,189,33,0,0,-1.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AllDeltaTests,0,0,2,2,27,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,AnnotationDeltaTests,0,0,11,11,350,12,0,1,-1.0,0,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,BundlesDeltaTests,0,0,12,12,390,13,0,1,-1.0,0,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,ClassDeltaTests,1,0,118,118,2502,127,0,1,0.9745762711864406,0,10
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MyDeltaVisitor,1,0,3,3,28,7,0,0,0.0,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,DeltaTestSetup,7,0,13,3,140,23,9,0,0.3076923076923077,0,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,EnumDeltaTests,0,0,11,11,202,12,0,1,-1.0,0,6
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,FieldDeltaTests,0,0,40,40,861,41,0,1,-1.0,0,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,InterfaceDeltaTests,0,0,26,26,551,27,0,1,-1.0,0,6
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MethodDeltaTests,0,0,57,57,1203,58,0,1,-1.0,0,8
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,MixedTypesDeltaTests,0,0,15,15,269,16,0,1,-1.0,0,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.comparator.tests,RestrictionsDeltaTests,0,0,4,4,44,5,0,1,-1.0,0,6
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiDescriptionTests,5,4,77,71,752,79,0,0,0.37662337662337664,0,19
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescription,4,4,2,2,17,2,0,0,1.0,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiFilterStoreTests,3,0,10,9,219,10,0,0,0.9,0,11
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ApiProfileTests,0,0,14,13,230,23,0,0,-1.0,0,10
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileContainerTests,0,0,22,17,182,25,0,0,-1.0,0,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ClassFileScannerTests,6,0,48,45,473,60,0,0,0.5208333333333334,0,11
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ComponentManifestTests,0,0,4,4,47,5,0,0,-1.0,0,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ElementDescriptorTests,0,0,31,31,313,31,0,0,-1.0,0,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,ExportComponentTests,0,0,3,2,107,16,0,0,-1.0,0,14
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,StubComponentTests,0,0,2,1,90,12,0,0,-1.0,0,12
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TagScannerTests,2,0,52,47,759,52,0,0,0.15384615384615385,0,9
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.model.tests,TestSuiteHelper,1,1,14,12,397,60,0,0,0.42857142857142855,14,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemFactoryTests,1,0,9,9,152,9,0,0,0.6666666666666666,0,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.problems.tests,ApiProblemTests,0,0,23,23,224,24,0,0,-1.0,0,6
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,ClassFileStubTests,0,0,5,3,125,16,0,0,-1.0,0,13
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,DiscouragedAccessTests,0,0,1,1,110,13,0,0,-1.0,0,14
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchEngineTests,0,0,14,14,318,18,0,0,-1.0,0,19
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.reference.tests,SearchScopeTests,0,0,13,12,182,13,0,0,-1.0,0,12
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests,AbstractApiTest,2,0,4,1,73,8,0,0,0.75,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests,AllTestSuite,0,0,1,1,16,1,0,0,-1.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests,ApiToolsPluginTestSuite,0,0,2,2,24,2,0,0,-1.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests,ApiToolsTestSuite,0,0,2,2,32,2,0,0,-1.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,FileUtils,2,1,16,14,406,60,0,0,0.6875,4,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ImportOverwriteQuery,0,0,1,1,8,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,ProjectUtils,5,2,28,25,397,64,0,0,0.39285714285714285,4,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,TestFieldData,3,0,12,11,52,12,0,0,0.6666666666666666,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.tests.util,Util,0,0,2,2,55,7,0,0,-1.0,5,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,AbstractApiEventWaiter,2,0,3,1,38,5,2,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiDescriptionProcessorTests,9,0,21,17,260,37,0,0,0.09523809523809523,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ChangeVisitor,6,0,6,4,92,18,0,0,0.0,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ApiProfileManagerTests,10,0,37,31,825,51,0,0,0.0,0,15
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,SourceChangeVisitor,5,0,5,4,76,17,0,0,0.0,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,JavaModelEventWaiter,4,0,5,3,69,11,0,1,0.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,PluginModelEventWaiter,1,0,3,2,23,4,0,1,0.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,PreferencesTests,0,0,6,6,61,6,0,0,-1.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,ProjectCreationTests,4,0,6,4,102,7,0,0,0.5,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.util.tests,UtilTests,1,0,13,13,116,13,0,0,0.9230769230769231,0,1
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass1,0,0,1,1,8,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass2,0,0,2,2,17,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass2,0,0,1,1,9,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass3,0,0,2,2,18,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass3,0,0,1,1,11,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass4,0,0,0,0,23,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass4,0,0,0,0,18,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2TestClass4,0,0,0,0,13,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3TestClass4,0,0,0,0,8,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5a,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass5b,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass6,0,0,0,0,22,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6a,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6b,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass6c,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7,0,0,0,0,16,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7,0,0,0,0,11,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2TestClass7,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7a,0,0,0,0,11,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7a,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestClass7b,0,0,0,0,12,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,InnerTestClass7b,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField1,1,0,0,0,9,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField2,2,0,0,0,15,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,2,0,0,0,10,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField3,2,0,0,0,15,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,2,0,0,0,10,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField4,4,0,0,0,29,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,3,0,0,0,18,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3,2,0,0,0,12,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,1,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,1,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField5,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField5Outer,1,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField6,2,0,1,1,15,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField7,0,0,0,0,7,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField8,0,0,0,0,7,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestField9,1,0,1,1,10,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface1,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2a,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface2b,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface3,0,0,0,0,11,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestInterface4,0,0,0,0,16,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod1,0,0,3,2,20,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod10,0,0,4,3,35,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod11,0,0,2,1,20,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod12,0,0,2,1,20,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod13,0,0,2,1,25,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod14,0,0,2,1,27,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod15,0,0,2,1,27,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod16,0,0,2,1,27,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod17,0,0,2,1,27,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod18,0,0,1,1,9,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod18Outer,0,0,1,0,8,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod19,0,0,1,1,9,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod19Outer,0,0,1,0,8,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod2,0,0,2,1,17,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,0,0,2,1,12,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod20,0,0,1,1,7,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod20Outer,0,0,1,1,7,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod3,0,0,3,2,22,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner,0,0,3,2,17,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod4,0,0,10,6,63,10,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner1,0,0,6,4,34,6,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner3,0,0,3,2,17,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner2,0,0,4,2,24,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,Inner4,0,0,2,1,12,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod5,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod5Outer,0,0,3,2,17,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod6,2,0,1,1,15,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod7,0,0,1,1,12,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod8,0,0,1,1,12,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,a.b.c,TestMethod9,0,0,2,1,22,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test1,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test10,2,0,1,1,17,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test11,0,0,1,1,10,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test12,0,0,1,1,11,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test13,0,0,3,2,20,3,0,1,-1.0,0,1
+eclipse.pde.ui-20080327-1300,classes,Super,0,0,1,0,5,1,1,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test13A,0,0,2,2,10,2,0,0,-1.0,1,0
+eclipse.pde.ui-20080327-1300,classes,Test2,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test3,0,0,0,0,11,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner2,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner3,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test3Outer,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test4,0,0,0,0,10,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner2,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner2,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test4Outer,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Inner,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test5,0,0,0,0,5,0,0,1,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,ITest5,0,0,0,0,2,0,1,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test6,0,0,1,1,8,1,0,1,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test6Abstract,0,0,0,0,2,0,1,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test7,0,0,12,4,41,12,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test8,0,0,2,1,11,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test8Outer,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,classes,Test9,4,1,1,1,13,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass1,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass2,0,0,0,0,7,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,Inner,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass3,0,0,2,1,9,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass4,2,1,0,0,7,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass5,2,1,0,0,11,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,Inner,2,1,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,Inner2,2,1,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass6,0,0,2,1,13,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,Inner,0,0,2,1,8,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,Inner2,0,0,2,1,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass7,1,1,1,1,5,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,javadoc,JavadocTestClass8,0,0,1,1,8,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,x,C1,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,x,C2,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,x.y,C3,1,0,1,1,8,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,x.y.z,C4,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,x.y.z,C5,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,2,2,2,2,9,2,0,0,1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,2,2,2,2,9,2,0,0,1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,3,0,8,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,4,0,10,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,3,0,8,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,4,0,10,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,0,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,0,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,3,0,8,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,4,1,10,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,1,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,1,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,1,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,1,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,1,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,7,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,7,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),C,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,1,1,6,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,2,0,3,1,15,3,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),C,1,0,2,0,9,2,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,2,0,3,1,15,3,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),C,1,0,2,0,9,2,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,1,1,6,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,4,3,10,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,4,3,10,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,3,2,8,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,4,3,10,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,4,3,10,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,3,2,8,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,5,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,1,0,6,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,1,0,6,1,0,0,0.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,1,1,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,1,0,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,1,0,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,1,0,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,1,0,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),J,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,0,3,0,6,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,1,0,3,0,6,3,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,3,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,0,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,2,2,6,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X,1,0,4,4,12,4,0,0,1.0,0,0
+eclipse.pde.ui-20080327-1300,(default package),X2,1,0,4,4,12,4,0,0,1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,1,0,5,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,2,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,0,0,2,0,4,1,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Z,0,0,0,0,2,0,4,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,2,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,0,0,2,0,0,1,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,2,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,0,0,2,0,0,1,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,2,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,0,0,2,0,0,1,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,1,1,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,X,0,0,1,1,6,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,1,1,4,1,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,I,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,I,1,0,0,0,3,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,I,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,I,0,0,0,0,6,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Z,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,I,0,0,0,0,4,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,p,Y,0,0,0,0,2,0,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractApiComponent,8,0,18,12,192,24,2,1,0.4444444444444444,0,10
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,Exporter,4,0,3,3,60,5,0,0,0.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractClassFile,0,0,2,1,33,2,3,0,-1.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AbstractClassFileContainer,1,0,10,5,159,32,2,0,0.2,0,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,AnyValue,0,0,2,2,11,2,0,0,-1.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiAnnotations,2,0,6,6,77,17,0,0,0.0,1,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescription,11,0,26,12,363,61,1,0,0.07692307692307693,2,10
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ManifestNode,6,0,9,5,115,19,2,0,0.2222222222222222,4,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,3,1,18,9,307,48,0,0,0.3333333333333333,5,12
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiFilterStore,5,0,19,12,434,92,0,0,0.0,2,8
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiJavadocTag,7,0,9,7,139,23,0,0,0.0,1,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiPluginPreferenceInitializer,0,0,2,2,28,3,0,0,-1.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfile,17,2,45,27,818,141,0,0,0.13333333333333333,3,10
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiProfileManager,7,0,28,20,522,92,0,0,0.25,4,9
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ApiSettingsXmlVisitor,12,6,7,5,207,28,0,0,0.2857142857142857,4,11
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ArchiveClassFileContainer,8,0,18,15,212,37,0,0,0.1111111111111111,2,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ArchiveClassFile,3,0,6,6,47,9,0,1,0.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleApiComponent,5,0,39,16,860,135,1,2,0.07692307692307693,3,14
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,BundleVersionRange,1,0,10,10,49,11,0,0,0.0,1,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CompilationUnit,3,0,4,4,47,6,0,0,0.0,6,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ComponentManifest,5,0,11,6,129,16,0,0,0.18181818181818182,1,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CompositeApiDescription,1,0,7,6,70,19,0,0,0.0,0,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CompositeClassFileContainer,2,0,3,2,22,3,0,1,0.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,CoreMessages,17,16,1,0,26,1,0,0,0.0,2,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,DirectoryClassFileContainer,6,0,17,14,205,36,0,0,0.17647058823529413,3,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ClassFile,2,0,6,6,47,7,0,1,0.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,IApiCoreConstants,7,7,0,0,34,0,0,0,-1.0,10,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,IApiXmlConstants,48,46,0,0,198,0,0,0,-1.0,12,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,JavadocTagManager,2,0,4,3,81,10,0,0,0.0,5,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PluginProjectApiComponent,4,0,13,6,259,51,0,3,0.23076923076923078,2,10
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ProjectApiDescription,11,0,26,4,491,73,0,1,0.07692307692307693,4,17
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,PackageNode,1,0,3,1,34,4,0,1,0.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,TypeNode,3,0,3,1,78,9,0,1,0.0,1,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,RequiredComponentDescription,3,0,8,8,58,9,0,0,0.25,1,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,ResourceClassFile,2,0,3,3,28,3,0,1,0.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SourceFolderClassFileContainer,3,0,8,7,147,32,0,0,0.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal,SystemLibraryApiComponent,5,0,17,13,110,21,0,2,0.5294117647058824,0,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,15,2,36,4,1388,253,0,0,0.0,4,28
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,DeltaInfo,2,0,1,1,11,1,0,0,0.0,1,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiProblemReporter,3,0,10,4,179,33,0,0,0.2,2,6
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ApiUseAnalyzer,9,0,22,8,705,110,0,0,0.3181818181818182,1,27
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,CompatibilityResult,2,0,3,2,31,3,0,0,0.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,UsageVisitor,2,0,5,1,70,14,0,0,0.0,0,8
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,ProblemDescriptor,3,0,5,3,25,5,0,0,0.4,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,BuilderMessages,9,8,1,0,16,1,0,0,0.0,4,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.builder,SinceTagChecker,9,0,17,15,189,42,0,0,0.17647058823529413,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,11,0,33,4,1013,256,0,0,0.0,3,20
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ClassFileDescriptorBuilder,1,0,8,6,83,15,0,0,0.375,1,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,Delta,12,0,18,17,186,40,0,0,0.16666666666666666,3,8
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,DeltaXmlVisitor,2,0,4,4,49,5,0,0,0.5,3,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,ElementDescriptor,3,2,3,1,18,3,4,0,1.0,1,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,FieldDescriptor,3,0,4,3,32,6,0,1,0.5,2,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MemberTypeDescriptor,0,0,5,4,26,6,0,1,-1.0,2,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,MethodDescriptor,6,0,5,4,49,11,0,1,0.6,2,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDecoder,9,0,17,17,90,26,0,0,0.6470588235294118,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,9,0,9,9,83,21,0,0,0.2222222222222222,2,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeDescriptor,12,5,16,13,155,36,0,1,0.5625,4,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.comparator,TypeParameterDescriptor,3,0,4,4,38,9,0,0,0.0,2,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ArrayDescriptorImpl,2,0,9,7,60,12,0,1,0.2222222222222222,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ElementDescriptorImpl,1,0,5,4,43,8,3,0,0.6,2,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,FieldDescriptorImpl,0,0,5,4,35,6,0,3,-1.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,MemberDescriptorImpl,2,0,5,4,45,7,3,2,0.0,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,MethodDescriptorImpl,1,0,7,6,47,8,0,3,0.42857142857142855,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,NamedElementDescriptorImpl,1,0,3,1,28,3,3,1,0.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,PackageDescriptorImpl,0,0,8,8,48,11,0,2,-1.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,PrimitiveDescriptorImpl,1,0,8,7,39,9,0,1,0.375,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ReferenceTypeDescriptorImpl,3,0,18,15,130,27,0,3,0.5,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.descriptors,ResourceDescriptorImpl,1,0,8,8,56,12,0,2,0.625,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.natures,ApiToolProjectNature,1,0,6,4,74,11,0,0,0.0,0,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblem,14,5,19,19,165,27,0,0,0.10526315789473684,1,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,1,0,18,18,639,169,0,0,0.4444444444444444,9,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.problems,ApiProblemFilter,2,0,8,7,55,10,0,0,0.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiDescriptionVisitor,0,0,2,2,24,2,0,0,-1.0,5,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,29,15,20,20,315,46,0,0,0.25,48,16
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,ClassFileContainerVisitor,0,0,6,6,48,6,0,0,-1.0,16,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,Factory,0,0,21,21,183,23,0,0,-1.0,31,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiAnnotations,0,0,2,2,16,2,0,0,-1.0,21,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiComponent,3,3,18,18,114,18,0,1,-1.0,48,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiDescription,1,1,5,5,45,5,0,0,-1.0,17,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiFilterStore,0,0,7,7,43,7,0,0,-1.0,3,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiJavadocTag,5,5,4,4,51,4,0,0,-1.0,6,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiMarkerConstants,16,16,0,0,70,0,0,0,-1.0,6,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiProfile,0,0,15,15,91,15,0,0,-1.0,36,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IApiProfileManager,0,0,7,7,44,7,0,0,-1.0,2,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IClassFile,0,0,3,3,22,3,0,0,-1.0,29,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IClassFileContainer,0,0,6,6,43,6,1,0,-1.0,12,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IRequiredComponentDescription,0,0,3,3,21,3,0,0,-1.0,5,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,IVersionRange,0,0,5,5,32,5,0,0,-1.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,RestrictionModifiers,6,6,5,5,70,5,0,0,1.0,33,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional,VisibilityModifiers,5,5,4,4,58,4,0,0,1.0,29,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.builder,IApiProblemReporter,0,0,3,3,20,3,0,0,-1.0,1,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,2,1,15,13,385,69,0,0,0.13333333333333333,17,15
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,Compare,7,0,5,1,197,32,0,0,0.0,1,8
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,1,0,13,3,447,189,0,0,0.0,13,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,CompatibleVisitor,1,0,2,2,12,4,0,1,0.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaVisitor,0,0,2,2,16,2,1,0,-1.0,2,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.comparator,IDelta,67,67,12,12,398,12,0,0,-1.0,33,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IArrayTypeDescriptor,0,0,2,2,16,2,0,2,-1.0,2,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IElementDescriptor,7,7,3,3,49,3,4,0,-1.0,44,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IFieldDescriptor,0,0,0,0,6,0,0,2,-1.0,10,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IMemberDescriptor,0,0,4,4,26,4,3,1,-1.0,8,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IMethodDescriptor,0,0,2,2,16,2,0,2,-1.0,17,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IPackageDescriptor,0,0,4,4,31,4,0,1,-1.0,13,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IPrimitiveTypeDescriptor,0,0,1,1,12,1,0,2,-1.0,2,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IReferenceTypeDescriptor,0,0,11,11,73,11,0,2,-1.0,26,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,IResourceDescriptor,0,0,2,2,16,2,0,1,-1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.descriptors,ITypeDescriptor,0,0,1,1,11,1,3,1,-1.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.problems,IApiProblem,28,28,15,15,213,15,0,0,-1.0,20,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.problems,IApiProblemFilter,0,0,2,2,16,2,0,0,-1.0,4,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.problems,IApiProblemTypes,150,150,0,0,174,0,0,0,-1.0,8,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ApiDescriptionProcessor,9,0,28,11,632,108,0,0,0.2857142857142857,5,22
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,DescriptionVisitor,5,0,5,3,98,12,0,0,0.0,1,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ASTTagVisitor,4,0,11,5,208,44,0,0,0.0,1,9
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,ScannerMessages,18,17,1,0,25,1,0,0,0.0,3,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,8,0,24,13,380,59,0,0,0.625,7,17
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,6,0,19,9,296,50,0,0,0.0,0,15
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,IApiSearchCriteria,0,0,13,13,77,13,0,0,-1.0,10,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,IApiSearchEngine,0,0,2,2,22,2,0,0,-1.0,6,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,IApiSearchResult,0,0,2,2,16,2,0,0,-1.0,3,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,IApiSearchScope,0,0,1,1,13,1,0,0,-1.0,9,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,ILocation,0,0,5,5,32,5,0,0,-1.0,11,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,IReference,0,0,5,5,32,5,0,0,-1.0,18,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.search,ReferenceModifiers,30,30,0,0,126,0,0,0,-1.0,15,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,Converter,32,7,47,34,771,159,0,0,0.2765957446808511,3,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubClassAdapter,2,0,8,8,107,27,0,0,0.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,ReferencesStubMethodAdapter,6,0,18,16,129,30,0,0,0.3888888888888889,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,StubMarkerAttribute,0,0,4,2,20,4,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,LineNumberMergerClassAdapter,0,0,2,2,9,2,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.provisional.stubs,LineNumberMergerMethodAdapter,1,0,2,2,13,3,0,0,1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ApiSearchResult,2,0,3,3,29,3,0,0,0.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileScanner,2,0,4,3,56,7,0,0,0.75,3,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileVisitor,39,2,65,44,886,177,0,0,0.09230769230769231,1,15
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileSignatureVisitor,7,0,19,17,111,26,0,0,0.2631578947368421,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ClassFileMethodVisitor,6,0,13,12,262,61,0,0,0.0,0,5
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,LinePositionTracker,4,0,6,2,96,21,0,0,0.0,2,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,LabelInfo,2,2,2,2,13,2,0,0,0.0,2,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,LineInfo,2,0,3,2,16,3,0,0,0.0,2,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,LocalLineNumberMarker,3,0,3,3,16,3,0,0,0.0,3,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,LRUMap,2,0,2,0,14,2,0,0,0.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Location,3,0,10,10,76,14,0,0,0.0,1,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,MethodExtractor,5,0,5,5,66,9,0,0,0.0,4,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Reference,6,0,13,9,164,31,0,0,0.0,3,11
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ScopedClassFileContainer,4,0,15,13,161,35,0,0,0.0,0,8
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,ProxyVisitor,1,0,7,6,57,15,0,0,0.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchCriteria,14,0,30,18,443,89,0,0,0.1,0,12
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,PatternMatch,2,0,3,2,87,21,0,0,0.0,0,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,PotentialElementMatch,1,0,3,2,41,6,0,0,0.0,0,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchEngine,12,0,15,9,315,48,0,0,0.0,2,18
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,Visitor,2,0,6,6,44,10,0,0,0.0,0,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchMessages,7,6,1,0,16,1,0,0,0.0,2,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,SearchScope,2,0,7,5,127,24,0,0,0.2857142857142857,1,2
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,TypeScope,2,0,8,8,95,21,0,0,0.25,0,6
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.search,XMLFactory,14,14,5,2,186,17,0,0,0.0,2,7
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,ApiExtractorAdapter,4,0,7,6,47,12,0,0,0.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,JREApiCollector,8,0,10,3,211,40,0,0,0.2,1,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tools,Messages,8,7,1,0,15,1,0,0,0.0,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,ClassVisitorAdapter,0,0,9,9,27,9,0,0,-1.0,0,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,HashtableOfInt,4,3,8,7,73,23,0,0,0.25,3,1
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SDKTesterCreator,5,0,8,3,267,46,0,0,0.375,1,4
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SinceTagVersion,2,0,3,3,40,5,0,0,0.0,2,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,SourceDefaultHandler,4,0,3,3,16,4,0,0,0.6666666666666666,1,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,Util,16,9,110,99,2280,463,0,0,0.6636363636363637,67,16
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,BuildJob,1,0,5,3,85,18,0,0,0.4,2,3
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.util,UtilMessages,6,5,1,0,13,1,0,0,0.0,2,0
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,4,0,5,5,172,26,0,0,0.4,0,8
+eclipse.pde.ui-20080327-1300,org.eclipse.pde.api.tools.internal.tasks,CompareProfilesTask,13,0,8,5,151,24,0,0,0.0,1,10
