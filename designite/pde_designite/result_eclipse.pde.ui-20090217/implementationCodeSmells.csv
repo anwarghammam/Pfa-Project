@@ -1,0 +1,1238 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiAnnotations,toString,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,initializeStateCache,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,initializeStateCache,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,initializeStateCache,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,persistStateCache,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,getProfileXML,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,restoreBaseline,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,processJavaElementDeltas,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,processJavaElementDeltas,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,processJavaElementDeltas,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiBaselineManager,resourceChanged,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescription,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescription,setRestrictions,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescription,setVisibility,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescription,setAccessLevel,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ManifestNode,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,clean,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,clean,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,saving,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreDescription,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreDescription,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreDescription,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreNode,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,restoreNode,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,getInt,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionManager,getLong,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,visitElement,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,getStatus,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,collectMissingTags,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,findDescriptorByName,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,serializeComponentXml,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,serializeComponentXml,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,processTagUpdates,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,processTagUpdates,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,annotateDescriptor,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,getRestrictions,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,getRestrictions,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,annotateFieldSettings,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiDescriptionProcessor,annotateMethodSettings,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,DescriptionVisitor,visitElement,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,DescriptionVisitor,getStatus,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ASTTagVisitor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ASTTagVisitor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ASTTagVisitor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ASTTagVisitor,collectMissingTags,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ASTTagVisitor,findDescriptorByName,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,persistApiFilters,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,runInWorkspace,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,addFilters,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,removeFilters,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,getStoreAsXml,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,getStoreAsXml,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,initializeApiFilters,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,internalAddFilters,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,loadIntegerAttribute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,resourceChanged,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,resourceChanged,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiFilterStore,resourceChanged,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiJavadocTag,setApplicableTo,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiPluginPreferenceInitializer,initializeDefaultPreferences,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiPluginPreferenceInitializer,initializeDefaultPreferences,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiSettingsXmlVisitor,addVisibilityAttributes,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ApiSettingsXmlVisitor,visitElement,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,JavadocTagManager,initializeJavadocTags,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,NonApiProjectDescription,isInsertOnResolve,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,PackageNode,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,TypeNode,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,refresh,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,accept,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,isInsertOnResolve,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,createNode,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,createNode,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,newPackageNode,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,newTypeNode,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,getElementDescriptor,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,getApiTypeContainer,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,ProjectApiDescription,getLocalPackageFragments,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,PackageNode,PackageNode,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,TypeNode,TypeNode,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,TypeNode,refresh,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,TypeNode,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,SystemApiDescriptionProcessor,serializeComponentXml,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal,SystemApiDescriptionProcessor,serializeComponentXml,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractIllegalMethodReference,considerReference,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,createProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,createProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,getTypeName,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,getQualifiedTypeName,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,getSimpleTypeName,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,getFieldNameRange,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,getMethodNameRange,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,getMethodNameRange,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractProblemDetector,createProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,AbstractTypeLeakDetector,isProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,addDependentsOf,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,buildAll,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getProblemTypeFromCategory,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createMarkerForProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createMarkerForProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,createMarkerForProblem,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,build,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,collectAllQualifiedNames,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,collectAllQualifiedNames,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,collectAllQualifiedNames,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,clean,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,clean,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,collectAffectedSourceFiles,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,findAffectedSourceFiles,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,getRequiredProjects,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,readState,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,setLastBuiltState,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,saveBuiltState,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,saveBuiltState,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,saveBuiltState,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ApiAnalysisBuilder,saveBuiltState,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ResourceDeltaVisitor,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,analyzeComponent,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,analyzeComponent,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,analyzeComponent,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,analyzeComponent,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,analyzeComponent,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,analyzeComponent,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,analyzeComponent,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkUnusedProblemFilters,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkUnusedProblemFilters,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createUnusedApiFilterProblems,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createUnusedApiFilterProblems,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createUnusedApiFilterProblems,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkBundleVersionsOfReexportedBundles,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,getBuildState,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,reportApiBreakageWhenMajorVersionIncremented,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,ignoreDefaultBaselineCheck,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,ignoreComponentVersionCheck,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,ignoreMinorVersionCheckWithoutApiChange,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,ignoreMajorVersionCheckWithoutBreakingChange,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,ignoreInvalidTagCheck,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,ignoreUnusedProblemFilterCheck,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkTagValidation,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiUsage,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiUsage,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkCompatibility,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkSinceTags,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkSinceTags,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkSinceTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkSinceTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkSinceTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkSinceTags,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createSinceTagProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createSinceTagProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createCompatibilityProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createCompatibilityProblem,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createCompatibilityProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createApiComponentResolutionProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,processDelta,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,processDelta,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkApiComponentVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,collectDetails,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createVersionProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createVersionProblem,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createVersionProblem,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createVersionProblem,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,createVersionProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,checkDefaultBaselineSet,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,isProblemFiltered,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,isProblemFiltered,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BaseApiAnalyzer,isProblemFiltered,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,BuildState,read,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalExtendsProblemDetector,getMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalExtendsProblemDetector,getMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalExtendsProblemDetector,getSourceRange,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalFieldReferenceDetector,getReferenceKinds,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalMethodReferenceDetector,getReferenceKinds,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalMethodReferenceDetector,getMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalMethodReferenceDetector,getQualifiedMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,IllegalOverrideProblemDetector,getMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,LeakExtendsProblemDetector,isProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,LeakExtendsProblemDetector,gatherVisibleMethods,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,MethodLeakDetector,isProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,MethodLeakDetector,matchesSourceApiRestrictions,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ProblemDetectorBuilder,visitElement,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ProblemDetectorBuilder,visitElement,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ProblemDetectorBuilder,initializeDetectors,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,Reference,methodReference,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,Reference,resolve,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,Reference,resolve,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,Reference,resolveVirtualMethod,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,Reference,resolveVirtualMethod0,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceAnalyzer,visitPackage,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceAnalyzer,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceAnalyzer,analyze,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceAnalyzer,indexProblemDetectors,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceAnalyzer,indexProblemDetectors,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,Visitor,visitPackage,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,Visitor,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitBaseType,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitBaseType,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitMethodInsn,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitMethodInsn,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitMethodInsn,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitTypeInsn,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitLocalVariable,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitLocalVariable,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitLocalVariable,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,computeLineNumbers,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,consider,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,consider,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visit,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitField,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitInnerClass,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitMethod,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitMethod,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceExtractor,visitMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileSignatureVisitor,visitBaseType,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileSignatureVisitor,visitBaseType,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileMethodVisitor,visitMethodInsn,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileMethodVisitor,visitMethodInsn,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileMethodVisitor,visitMethodInsn,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileMethodVisitor,visitTypeInsn,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileMethodVisitor,visitLocalVariable,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileMethodVisitor,visitLocalVariable,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ClassFileMethodVisitor,visitLocalVariable,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,LinePositionTracker,computeLineNumbers,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceResolver,resolveReferences,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceResolver,resolveReferences,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceResolver,resolveReferences,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceResolver,resolveReferences,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,ReferenceResolver,resolveReferences,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getElementType,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getProblemFlags,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getQualifiedMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getQualifiedMessageArgs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getSourceRange,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,getSourceRange,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,isProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,SystemApiDetector,isProblem,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,validateTags,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,getTypeName,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTags,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTags,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTagProblem,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTagProblem,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTagProblem,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTagProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTagProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.builder,TagValidator,processTagProblem,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,isCheckedException,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,ClassFileComparator,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,ClassFileComparator,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,addDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperclass,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperclass,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperclass,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperclass,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperclass,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkSuperInterfaces,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkTypeMembers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,checkGenericSignature,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDelta,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForField,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getDeltaForMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportFieldAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportFieldAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,reportMethodAddition,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getType,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,ClassFileComparator,getType,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Delta,print,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Delta,Delta,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Delta,Delta,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Delta,Delta,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Delta,add,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Delta,equals,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Delta,hashCode,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,loadMessageTemplates,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,loadMessageTemplates,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,loadMessageTemplates,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,Messages,getKey,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addInterfaceBound,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeArgument,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeParameterDescriptor,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeParameterDescriptor,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,addTypeParameterDescriptor,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,getTypeParameterDescriptors,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,getTypeParameterDescriptors,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,getTypeArguments,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,setClassBound,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.comparator,SignatureDescriptor,toString,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.descriptors,MethodDescriptorImpl,equals,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.descriptors,ReferenceTypeDescriptorImpl,isAnonymous,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,AbstractApiTypeContainer,setApiTypeContainers,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,ApiBaseline,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,clearComponentsCache,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolveSystemLibrary,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolveSystemLibrary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolveSystemLibrary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolvePackage,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolvePackage,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolvePackage,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolvePackage,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,resolvePackage0,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,getVisibleDependentComponents,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,getDependentComponents,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,getPrerequisiteComponents,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,clearPackage,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiBaseline,vmChanged,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiField,ApiField,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiField,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiField,getHandle,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiMember,ApiMember,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiMember,getPackageName,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiMethod,ApiMethod,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiMethod,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiMethod,getHandle,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,ApiType,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,addMethod,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,addField,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,getSuperInterfaces,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,getSuperclass,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,getEnclosingMethod,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,getMemberType,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,toString,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,ApiType,getAnonymousTypeName,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,isValidBundle,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,initializeApiDescription,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,createApiTypeContainers,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,createApiTypeContainers,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,createApiTypeContainers,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,createApiTypeContainers,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getClasspathEntries,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,createApiTypeContainer,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,createApiTypeContainer,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,loadManifest,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,loadManifest,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,readManifest,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,readFileContents,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,loadApiDescription,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getFileInBundle,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getExecutionEnvironments,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getId,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getRequiredComponents,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getRequiredComponents,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getVersion,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getBundleDescription,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,isSourceComponent,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,isSourceComponent,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,isSourceComponent,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,containsSourceExtensionPoint,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,isFragment,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,hasFragments,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,hasApiDescription,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getLowestEEs,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getLowestEEs,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,BundleApiComponent,getErrors,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,DirectoryApiTypeContainer,accept,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,DirectoryApiTypeContainer,processDirectory,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,FolderApiTypeContainer,doVisit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,FolderApiTypeContainer,doVisit,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,PluginProjectApiComponent,createLocalApiDescription,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,PluginProjectApiComponent,createApiFilterStore,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,PluginProjectApiComponent,createApiTypeContainers,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,PluginProjectApiComponent,createApiTypeContainers,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,PluginProjectApiComponent,createApiTypeContainers,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,PluginProjectApiComponent,createApiTypeContainer,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,PluginProjectApiComponent,getApiTypeContainer,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,StubApiComponent,getFileFor,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,StubApiComponent,getInstalledMetadata,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,TypeStructureBuilder,visit,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,TypeStructureBuilder,visitField,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,TypeStructureBuilder,visitMethod,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.model,TypeStructureBuilder,buildStubTypeStructure,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblem,ApiProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblem,equals,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblem,argumentsEqual,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblem,hashCode,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProblem,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiUsageProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiUsageProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiProfileProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiComponentResolutionProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiSinceTagProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,newApiVersionNumberProblem,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getLocalizedMessage,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getLocalizedMessage,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getLocalizedMessage,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getLocalizedMessage,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getLocalizedMessage,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getLocalizedMessage,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,loadMessageTemplates,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,loadMessageTemplates,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,createProblemId,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemMessageId,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemSeverityId,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.problems,ApiProblemFactory,getProblemKindFromPref,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,log,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,log,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,log,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,getSeverityLevel,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,getEnableState,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,configurePluginDebugOptions,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ApiPlugin,configurePluginDebugOptions,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ProfileModifiers,getValue,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ProfileModifiers,getName,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ProfileModifiers,getName,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional,ProfileModifiers,getAllIds,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.builder,IApiAnalyzer,analyzeComponent,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,checkBundleVersionChanges,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,checkBundleVersionChanges,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,checkBundleVersionChanges,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,checkBundleVersionChanges,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,checkBundleVersionChanges,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,compare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,internalCompare,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiComparator,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiScope,accept,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,ApiScope,accept,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,CompareApiScopeVisitor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isCompatible0,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isAnnotationCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isAnnotationCompatible,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isMethodCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isFieldCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isConstructorCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isEnumCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isClassCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isClassCompatible,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isTypeParameterCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.comparator,DeltaProcessor,isInterfaceCompatible,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,pruneTags,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,pruneTags,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,pruneTags,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,pruneTags,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,resolveMethod,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,resolveMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,scan,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,scan,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,TagScanner,scan,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,visit,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,pruneTags,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,pruneTags,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,pruneTags,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,pruneTags,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,resolveMethod,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.scanner,Visitor,resolveMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,getResolvedReferences,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,getResolvedReferences,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,acceptReferences,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,searchReferences,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,searchReferences,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,searchReferences,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,searchReferences,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ApiSearchEngine,search,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.provisional.search,ReferenceExtractor,visit,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,ApiUseSearchRequestor,compare,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,ApiUseSearchRequestor,acceptReference,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,ApiUseSearchRequestor,prepareScope,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,DBUseReporter,executeStatement,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,XMLApiSearchReporter,XMLApiSearchReporter,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,XMLApiSearchReporter,XMLApiSearchReporter,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,XMLApiSearchReporter,collateResults,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,XMLApiSearchReporter,collateResults,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,XMLApiSearchReporter,writeXML,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,XMLApiSearchReporter,writeGroup,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.search,XMLApiSearchReporter,writeGroup,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Signatures,getAnonymousTypeName,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Signatures,dequalifySignature,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Signatures,dequalifySignature,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Signatures,matches,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,SinceTagVersion,SinceTagVersion,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,SinceTagVersion,SinceTagVersion,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,SinceTagVersion,SinceTagVersion,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,SourceDefaultHandler,startElement,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,SourceDefaultHandler,startElement,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarEntry,TarEntry,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarEntry,TarEntry,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,headerChecksum,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,headerChecksum,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,isValidTarHeader,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,isValidTarHeader,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,isValidTarHeader,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarFile,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,headerChecksum,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,headerChecksum,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,isValidTarHeader,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,isValidTarHeader,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,isValidTarHeader,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,TarInputStream,getNextEntryInternal,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,run,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getApiProjects,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,copy,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getClassFile,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getSeverity,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDeltaElementType,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDeltaFlagsName,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDeltaFlagsName,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDeltaPrefererenceKey,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDeltaPrefererenceKey,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDetail,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDetail,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDetail,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getFragmentNumber,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getFragmentNumber,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getIMember,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getIMember,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getMethod,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getProblemCategory,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getProblemFlagsName,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getUsageProblemKindName,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,collectSyntheticParam,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,collectSyntheticParam,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getRestrictionKind,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getReferenceKind,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getReferenceKind,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,isApiToolsComponent,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,isApiToolsComponent,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,isApiToolsComponent,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,saveFile,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getFileContentAsString,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,unzip,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,unzip,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,unzip,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,guntar,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getEEDescriptionFile,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getJavaClassLibs,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getJavaClassLibs,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,toNativePath,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,waitUntilFileDeleted,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDeltaArgumentString,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getDeltaArgumentString,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getApiElementType,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,getApiElementType,Missing default
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,Util,isManifest,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.util,BuildJob,run,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeReportConversionTask,Entry,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeReportConversionTask,getDisplayString,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeReportConversionTask,dumpEntries,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeReportConversionTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeReportConversionTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,Entry,Entry,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,Entry,getDisplayString,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeTask,execute,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeTask,execute,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeTask,execute,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIFreezeTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,loadIntegerAttribute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,argumentsEquals,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,initialize,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,initialize,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,initialize,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,initialize,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,initialize,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,initialize,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,initialize,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,matchUsageProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,dumpReport,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,execute,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,execute,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,execute,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,setPreferences,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,APIToolsAnalysisTask,setPreferences,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,loadIntegerAttribute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,argumentsEquals,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,initialize,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,initialize,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,initialize,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,initialize,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,initialize,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,initialize,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,initialize,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AntFilterStore,matchUsageProblem,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,startElement,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpHeader,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpIndexEntry,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpIndexEntry,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpIndexEntry,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpIndexFile,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpIndexFile,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpNonApiBundles,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpProblems,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpProblems,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpReport,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,dumpReport,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,execute,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,AnalysisReportConversionTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ConverterDefaultHandler,startElement,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,Summary,toString,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,isAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGenerationTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,isAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiFileGeneratorTask,containsAPIToolsNature,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseDBReportConversionTask,setDBPort,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseDBReportConversionTask,reportNotSearched,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseDBReportConversionTask,reportNotSearched,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseDBTask,setDBPort,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,startElement,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,startElement,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,startElement,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,getTotalRefCount,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,getTotalRefCount,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,getTotalPermissableRefCount,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,execute,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,execute,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeNotSearched,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeNotSearched,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeComponentList,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeRefereeIndex,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeRefereeIndexEntries,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginEntry,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeBackToBundleIndex,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummary,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummary,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummaryEntry,Long Parameter List
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeOriginSummaryEntry,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,getOriginSummaryCountLink,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,tranformXml,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseReportConversionTask,writeIndexEntry,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,UseDefaultHandler,startElement,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,UseDefaultHandler,startElement,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CountGroup,getTotalRefCount,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CountGroup,getTotalRefCount,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CountGroup,getTotalPermissableRefCount,Long Identifier
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseTask,writeNotSearched,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseTask,writeNotSearched,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseTask,writeNotSearched,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ApiUseTask,writeNotSearched,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,compare,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,extractSDK,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,initializeRegexExcludeList,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,initializeRegexExcludeList,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,initializeRegexExcludeList,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,initializeRegexExcludeList,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,initializeRegexExcludeList,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,initializeRegexExcludeList,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,collectRegexIds,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,collectRegexIds,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CommonUtilsTask,saveReport,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CompareTask,execute,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CompareTask,execute,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CompareTask,execute,Empty catch clause
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CompareTask,execute,Long Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CompareTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CompareTask,execute,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,CompareTask,execute,Magic Number
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,DatabaseTask,validateDBConnectionParameters,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ExcludeListDeltaVisitor,isExcluded,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,ExcludeListDeltaVisitor,processLeafDelta,Complex Method
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,UseTask,getScope,Complex Conditional
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,UseTask,getScope,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,UseTask,doSearch,Long Statement
+eclipse.pde.ui-20090217,org.eclipse.pde.api.tools.internal.tasks,UseTask,writeDebugHeader,Long Statement
