@@ -1,0 +1,10 @@
+ClassName,nbBugs
+org.openj9.test.jsr335.interfacePrivateMethod.GenerateInterfaceFromASM,33
+org.openj9.test.reflect.defendersupersends.asm.AsmTestcaseGenerator,33
+org.openj9.test.jsr335.defendersupersends.asm.AsmTestcaseGenerator,33
+org.openj9.test.jsr335.interfaceStaticMethod.InvokeStaticTest,33
+org.openj9.test.invoker.InvalidateOnStackSplitTableRetransformationTest,33
+org.openj9.test.invoker.InvalidateSplitTableRetransformationTest,33
+org.openj9.test.invoker.MutateOnStackSplitTableRetransformationTest,33
+org.openj9.test.invoker.SharedCPEntryInvokerTestCases,33
+org.openj9.test.invoker.util.DummyClassGenerator,33
